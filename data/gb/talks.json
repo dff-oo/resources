@@ -1,0 +1,9158 @@
+[
+  {
+    "id": 1,
+    "name": "A New Beginning"
+  },
+  {
+    "id": 2,
+    "name": "The World as We Knew It"
+  },
+  {
+    "id": 4,
+    "name": "The Warrior of Light"
+  },
+  {
+    "id": 7,
+    "name": "An Unexpected Encounter"
+  },
+  {
+    "id": 10,
+    "name": "Darkness Descends"
+  },
+  {
+    "id": 11,
+    "name": "The World Beyond"
+  },
+  {
+    "id": 12,
+    "name": "SOLDIER"
+  },
+  {
+    "id": 15,
+    "name": "Together We Forge On"
+  },
+  {
+    "id": 16,
+    "name": "The Lost Boy"
+  },
+  {
+    "id": 17,
+    "name": "The Light of Hope"
+  },
+  {
+    "id": 18,
+    "name": "The Cultured Conjurer"
+  },
+  {
+    "id": 19,
+    "name": "Y'shtola"
+  },
+  {
+    "id": 20,
+    "name": "The Search Continues"
+  },
+  {
+    "id": 21,
+    "name": "Unfamiliar Terrain"
+  },
+  {
+    "id": 22,
+    "name": "...And So We Meet Again"
+  },
+  {
+    "id": 23,
+    "name": "Exploring the Ruins of Deserta"
+  },
+  {
+    "id": 24,
+    "name": "Unexpected Advice"
+  },
+  {
+    "id": 25,
+    "name": "The Hunt for Kuja"
+  },
+  {
+    "id": 26,
+    "name": "Of Space and Time"
+  },
+  {
+    "id": 27,
+    "name": "An Enemy Unknown"
+  },
+  {
+    "id": 28,
+    "name": "An Escape Route"
+  },
+  {
+    "id": 29,
+    "name": "Vivi and Zidane"
+  },
+  {
+    "id": 30,
+    "name": "Love Is in the Air"
+  },
+  {
+    "id": 31,
+    "name": "Well Roared"
+  },
+  {
+    "id": 32,
+    "name": "The Mystery Deepens"
+  },
+  {
+    "id": 33,
+    "name": "A Familiar Place"
+  },
+  {
+    "id": 34,
+    "name": "Creation"
+  },
+  {
+    "id": 35,
+    "name": "Kuja's Plan"
+  },
+  {
+    "id": 36,
+    "name": "A Reason to Live"
+  },
+  {
+    "id": 37,
+    "name": "The Dark Knight"
+  },
+  {
+    "id": 38,
+    "name": "Light That Penetrates Darkness"
+  },
+  {
+    "id": 39,
+    "name": "Explorers of the Lost World"
+  },
+  {
+    "id": 40,
+    "name": "Reunion"
+  },
+  {
+    "id": 41,
+    "name": "To the Lands Beyond"
+  },
+  {
+    "id": 42,
+    "name": "The Hume Boy"
+  },
+  {
+    "id": 43,
+    "name": "A Love of Airships"
+  },
+  {
+    "id": 44,
+    "name": "Adventures on the Coastline"
+  },
+  {
+    "id": 45,
+    "name": "The Mysterious Trio"
+  },
+  {
+    "id": 46,
+    "name": "Friend or Foe"
+  },
+  {
+    "id": 47,
+    "name": "Unmasked Hostility"
+  },
+  {
+    "id": 48,
+    "name": "To Battle"
+  },
+  {
+    "id": 49,
+    "name": "The Traveling Summoner"
+  },
+  {
+    "id": 50,
+    "name": "Eclipse"
+  },
+  {
+    "id": 51,
+    "name": "A True Warrior"
+  },
+  {
+    "id": 52,
+    "name": "A Great Divide"
+  },
+  {
+    "id": 53,
+    "name": "At the Kingdom's Gate"
+  },
+  {
+    "id": 54,
+    "name": "Something Smells"
+  },
+  {
+    "id": 55,
+    "name": "From Dimensions Beyond"
+  },
+  {
+    "id": 56,
+    "name": "Yuffie's Dream"
+  },
+  {
+    "id": 57,
+    "name": "On the Brink of Disaster"
+  },
+  {
+    "id": 58,
+    "name": "Ask Me No Questions"
+  },
+  {
+    "id": 59,
+    "name": "The Prince of Eblan"
+  },
+  {
+    "id": 60,
+    "name": "Materia Hunter"
+  },
+  {
+    "id": 61,
+    "name": "The Chase"
+  },
+  {
+    "id": 62,
+    "name": "Recruiting Yuffie"
+  },
+  {
+    "id": 63,
+    "name": "A Lone Stranger"
+  },
+  {
+    "id": 64,
+    "name": "Rem's Wish"
+  },
+  {
+    "id": 65,
+    "name": "A Personal Brand of Justice"
+  },
+  {
+    "id": 66,
+    "name": "Yuffie's Dream"
+  },
+  {
+    "id": 67,
+    "name": "On the Brink of Disaster"
+  },
+  {
+    "id": 68,
+    "name": "Snow-Covered Peaks"
+  },
+  {
+    "id": 69,
+    "name": "The Little Mage Girl"
+  },
+  {
+    "id": 70,
+    "name": "A Puppet on a String"
+  },
+  {
+    "id": 71,
+    "name": "Needing to Be Saved"
+  },
+  {
+    "id": 72,
+    "name": "The Awakening"
+  },
+  {
+    "id": 73,
+    "name": "Fuzzy Memories"
+  },
+  {
+    "id": 74,
+    "name": "Sinister Laughter"
+  },
+  {
+    "id": 75,
+    "name": "The Court Jester"
+  },
+  {
+    "id": 76,
+    "name": "Kefka's Power"
+  },
+  {
+    "id": 77,
+    "name": "The Art of Torsion Creation"
+  },
+  {
+    "id": 78,
+    "name": "Returning to the Peaks"
+  },
+  {
+    "id": 79,
+    "name": "Clowning Around"
+  },
+  {
+    "id": 80,
+    "name": "Searching for the Truth"
+  },
+  {
+    "id": 81,
+    "name": "Home Is Where the Heart Is"
+  },
+  {
+    "id": 82,
+    "name": "Terra's Decision"
+  },
+  {
+    "id": 83,
+    "name": "An Unannounced Visitor"
+  },
+  {
+    "id": 84,
+    "name": "A Monk's Pride"
+  },
+  {
+    "id": 85,
+    "name": "A Hidden Ally"
+  },
+  {
+    "id": 86,
+    "name": "A Special Friend"
+  },
+  {
+    "id": 87,
+    "name": "Reunited"
+  },
+  {
+    "id": 88,
+    "name": "The Onion Knight"
+  },
+  {
+    "id": 89,
+    "name": "A Journey of Self-Discovery"
+  },
+  {
+    "id": 90,
+    "name": "That Which We Must Protect"
+  },
+  {
+    "id": 97,
+    "name": "In the Lands Beyond the Peaks"
+  },
+  {
+    "id": 98,
+    "name": "Torsions Take Effect"
+  },
+  {
+    "id": 99,
+    "name": "To the Mountains We Go"
+  },
+  {
+    "id": 100,
+    "name": "Spira's Master"
+  },
+  {
+    "id": 101,
+    "name": "A Trivial Threat"
+  },
+  {
+    "id": 102,
+    "name": "Secret Meetings"
+  },
+  {
+    "id": 103,
+    "name": "A World Created by Gods"
+  },
+  {
+    "id": 104,
+    "name": "The Goddess Materia"
+  },
+  {
+    "id": 105,
+    "name": "Shadow Returns"
+  },
+  {
+    "id": 106,
+    "name": "Identities Unveiled"
+  },
+  {
+    "id": 107,
+    "name": "Our Own Will"
+  },
+  {
+    "id": 108,
+    "name": "The Sending"
+  },
+  {
+    "id": 109,
+    "name": "Penelo's Fear"
+  },
+  {
+    "id": 110,
+    "name": "Steiner's Kind Words"
+  },
+  {
+    "id": 111,
+    "name": "A Wild Rose"
+  },
+  {
+    "id": 112,
+    "name": "Firion's Fight"
+  },
+  {
+    "id": 113,
+    "name": "Rebellion"
+  },
+  {
+    "id": 114,
+    "name": "Lost"
+  },
+  {
+    "id": 115,
+    "name": "Backup"
+  },
+  {
+    "id": 116,
+    "name": "Forging Ahead"
+  },
+  {
+    "id": 117,
+    "name": "A Strong Knight"
+  },
+  {
+    "id": 118,
+    "name": "Trouble"
+  },
+  {
+    "id": 119,
+    "name": "In the Spirit of Chivalry"
+  },
+  {
+    "id": 120,
+    "name": "The Lone Mercenary"
+  },
+  {
+    "id": 121,
+    "name": "The Burden We Bear"
+  },
+  {
+    "id": 123,
+    "name": "Duty Calls"
+  },
+  {
+    "id": 126,
+    "name": "The Lone Mercenary"
+  },
+  {
+    "id": 127,
+    "name": "The Burden We Bear"
+  },
+  {
+    "id": 128,
+    "name": "A Binding Contract"
+  },
+  {
+    "id": 129,
+    "name": "Cut from the Same Cloth"
+  },
+  {
+    "id": 130,
+    "name": "Duty Calls"
+  },
+  {
+    "id": 151,
+    "name": "Forest of the Lost"
+  },
+  {
+    "id": 152,
+    "name": "Damsel in Distress"
+  },
+  {
+    "id": 154,
+    "name": "The Blessings of the Forest"
+  },
+  {
+    "id": 156,
+    "name": "Forest of the Lost"
+  },
+  {
+    "id": 157,
+    "name": "Damsel in Distress"
+  },
+  {
+    "id": 158,
+    "name": "No One Knows"
+  },
+  {
+    "id": 159,
+    "name": "A Bustling Place"
+  },
+  {
+    "id": 160,
+    "name": "The Blessings of the Forest"
+  },
+  {
+    "id": 182,
+    "name": "The Hero We Need"
+  },
+  {
+    "id": 183,
+    "name": "The Fleetfooted"
+  },
+  {
+    "id": 185,
+    "name": "Rewards"
+  },
+  {
+    "id": 213,
+    "name": "Reckless Courage"
+  },
+  {
+    "id": 214,
+    "name": "The Hero Among Us"
+  },
+  {
+    "id": 216,
+    "name": "The Will to Protect All of Us"
+  },
+  {
+    "id": 244,
+    "name": "Brought by the Winds"
+  },
+  {
+    "id": 245,
+    "name": "The Pirate Lord"
+  },
+  {
+    "id": 247,
+    "name": "Identities Unveiled II"
+  },
+  {
+    "id": 277,
+    "name": "The Very Beginning"
+  },
+  {
+    "id": 278,
+    "name": "The Will of the Light"
+  },
+  {
+    "id": 279,
+    "name": "Decay Takes Hold"
+  },
+  {
+    "id": 280,
+    "name": "The Fight Continues"
+  },
+  {
+    "id": 281,
+    "name": "An Appetite for Destruction"
+  },
+  {
+    "id": 282,
+    "name": "Opposing Forces"
+  },
+  {
+    "id": 283,
+    "name": "An Important Task"
+  },
+  {
+    "id": 284,
+    "name": "Light and Darkness"
+  },
+  {
+    "id": 285,
+    "name": "Warriors of the Gods"
+  },
+  {
+    "id": 286,
+    "name": "Place of Respite"
+  },
+  {
+    "id": 287,
+    "name": "A Prayer to the Warriors"
+  },
+  {
+    "id": 288,
+    "name": "World's Foundation"
+  },
+  {
+    "id": 289,
+    "name": "A World Filled with Chaos"
+  },
+  {
+    "id": 290,
+    "name": "Airship of Darkness"
+  },
+  {
+    "id": 291,
+    "name": "Great Tree"
+  },
+  {
+    "id": 292,
+    "name": "Seeking Respite"
+  },
+  {
+    "id": 293,
+    "name": "Abandoned Child"
+  },
+  {
+    "id": 294,
+    "name": "Pursuit"
+  },
+  {
+    "id": 295,
+    "name": "A Pair"
+  },
+  {
+    "id": 296,
+    "name": "Weakening Power"
+  },
+  {
+    "id": 297,
+    "name": "Faraway Home"
+  },
+  {
+    "id": 298,
+    "name": "The Burning Continent"
+  },
+  {
+    "id": 299,
+    "name": "The View from Afar"
+  },
+  {
+    "id": 300,
+    "name": "The Lady of Legends"
+  },
+  {
+    "id": 301,
+    "name": "Person of Interest"
+  },
+  {
+    "id": 302,
+    "name": "A Fickle Friend"
+  },
+  {
+    "id": 303,
+    "name": "The Lady and the Shinigami"
+  },
+  {
+    "id": 304,
+    "name": "The Shadows Creep Closer"
+  },
+  {
+    "id": 305,
+    "name": "The Giant Blade"
+  },
+  {
+    "id": 306,
+    "name": "The Heroes of Eld"
+  },
+  {
+    "id": 307,
+    "name": "With Murderous Intent"
+  },
+  {
+    "id": 308,
+    "name": "King of the Desert"
+  },
+  {
+    "id": 309,
+    "name": "To Each Their Own"
+  },
+  {
+    "id": 310,
+    "name": "A Guard's Duty"
+  },
+  {
+    "id": 311,
+    "name": "An Elder's Tale"
+  },
+  {
+    "id": 312,
+    "name": "The Chocobo's Warning"
+  },
+  {
+    "id": 313,
+    "name": "Galuf... Here?"
+  },
+  {
+    "id": 314,
+    "name": "Retrograde Amnesia"
+  },
+  {
+    "id": 315,
+    "name": "Those Whom We Call Guards"
+  },
+  {
+    "id": 316,
+    "name": "Yuna and Wakka"
+  },
+  {
+    "id": 317,
+    "name": "Meeting in the Rain"
+  },
+  {
+    "id": 318,
+    "name": "Imber Manor"
+  },
+  {
+    "id": 319,
+    "name": "Vincent's Decision"
+  },
+  {
+    "id": 320,
+    "name": "Entering the Keep"
+  },
+  {
+    "id": 321,
+    "name": "The Path to the Underground"
+  },
+  {
+    "id": 322,
+    "name": "Atonement"
+  },
+  {
+    "id": 323,
+    "name": "After the Battle"
+  },
+  {
+    "id": 324,
+    "name": "The Call of Chaos"
+  },
+  {
+    "id": 325,
+    "name": "Requiem"
+  },
+  {
+    "id": 326,
+    "name": "No Roots"
+  },
+  {
+    "id": 327,
+    "name": "Beasts of Destruction"
+  },
+  {
+    "id": 328,
+    "name": "The Deciding Battle"
+  },
+  {
+    "id": 329,
+    "name": "The Guiding Light"
+  },
+  {
+    "id": 330,
+    "name": "Memories of Boyhood"
+  },
+  {
+    "id": 331,
+    "name": "Those Who Must Fight"
+  },
+  {
+    "id": 332,
+    "name": "The Rampage"
+  },
+  {
+    "id": 333,
+    "name": "Seifer Returns"
+  },
+  {
+    "id": 334,
+    "name": "Feelings of Regret"
+  },
+  {
+    "id": 335,
+    "name": "A Most Mysterious Power"
+  },
+  {
+    "id": 336,
+    "name": "The Crystal Bearer"
+  },
+  {
+    "id": 337,
+    "name": "The Wandering Gambler"
+  },
+  {
+    "id": 338,
+    "name": "Why We Fight"
+  },
+  {
+    "id": 339,
+    "name": "Setzer's Dream"
+  },
+  {
+    "id": 340,
+    "name": "The Lost Girl"
+  },
+  {
+    "id": 341,
+    "name": "A Romantic Reunion"
+  },
+  {
+    "id": 342,
+    "name": "Family"
+  },
+  {
+    "id": 343,
+    "name": "Confrontation"
+  },
+  {
+    "id": 344,
+    "name": "The Enemy of My Enemy"
+  },
+  {
+    "id": 345,
+    "name": "Dimensional Coordinates"
+  },
+  {
+    "id": 346,
+    "name": "Misunderstandings"
+  },
+  {
+    "id": 347,
+    "name": "Unwavering Faith"
+  },
+  {
+    "id": 348,
+    "name": "Our Own Cross to Bear"
+  },
+  {
+    "id": 349,
+    "name": "The Hunted"
+  },
+  {
+    "id": 350,
+    "name": "A Friend from Home"
+  },
+  {
+    "id": 351,
+    "name": "A Faint Presence"
+  },
+  {
+    "id": 352,
+    "name": "An Unexpected Meeting"
+  },
+  {
+    "id": 353,
+    "name": "Kuja and Aerith"
+  },
+  {
+    "id": 354,
+    "name": "A Step Forward"
+  },
+  {
+    "id": 355,
+    "name": "With Friends"
+  },
+  {
+    "id": 356,
+    "name": "Alone"
+  },
+  {
+    "id": 357,
+    "name": "Written in the Stars"
+  },
+  {
+    "id": 358,
+    "name": "The Sweet Embrace of Death"
+  },
+  {
+    "id": 359,
+    "name": "An Ace Appears"
+  },
+  {
+    "id": 360,
+    "name": "World of Illusions: Ifrit"
+  },
+  {
+    "id": 361,
+    "name": "The Fight for Survival"
+  },
+  {
+    "id": 362,
+    "name": "Running on Empty"
+  },
+  {
+    "id": 363,
+    "name": "Food First!"
+  },
+  {
+    "id": 364,
+    "name": "To Bear the Cross Alone"
+  },
+  {
+    "id": 365,
+    "name": "A Deep Brooding"
+  },
+  {
+    "id": 366,
+    "name": "The Princess's Fight"
+  },
+  {
+    "id": 367,
+    "name": "Soul of the Bard"
+  },
+  {
+    "id": 368,
+    "name": "The Coming of the Dawn"
+  },
+  {
+    "id": 369,
+    "name": "An Astounding Performance"
+  },
+  {
+    "id": 370,
+    "name": "Angry at Us"
+  },
+  {
+    "id": 371,
+    "name": "The Guilty Prankster"
+  },
+  {
+    "id": 372,
+    "name": "A New Friend"
+  },
+  {
+    "id": 373,
+    "name": "SOLDIER Senses"
+  },
+  {
+    "id": 374,
+    "name": "Rained On"
+  },
+  {
+    "id": 375,
+    "name": "Pride in Hand"
+  },
+  {
+    "id": 376,
+    "name": "Of Men and Lightning"
+  },
+  {
+    "id": 377,
+    "name": "Exchanging Intel"
+  },
+  {
+    "id": 378,
+    "name": "Got Your Back"
+  },
+  {
+    "id": 379,
+    "name": "Now That the Torsions Are Gone"
+  },
+  {
+    "id": 380,
+    "name": "Onto a New Adventure"
+  },
+  {
+    "id": 381,
+    "name": "Forgotten Memories"
+  },
+  {
+    "id": 382,
+    "name": "High Places"
+  },
+  {
+    "id": 383,
+    "name": "An Old Foe"
+  },
+  {
+    "id": 384,
+    "name": "The Ensuing Struggle"
+  },
+  {
+    "id": 385,
+    "name": "An Important Breakthrough"
+  },
+  {
+    "id": 386,
+    "name": "Escape"
+  },
+  {
+    "id": 387,
+    "name": "An Aetheric Disturbance"
+  },
+  {
+    "id": 388,
+    "name": "Head Honcho"
+  },
+  {
+    "id": 389,
+    "name": "The Emblem"
+  },
+  {
+    "id": 390,
+    "name": "Technically Challenged"
+  },
+  {
+    "id": 391,
+    "name": "The Wisest Lalafell"
+  },
+  {
+    "id": 392,
+    "name": "Partners"
+  },
+  {
+    "id": 393,
+    "name": "Because We Trust You"
+  },
+  {
+    "id": 394,
+    "name": "World of Illusions: Shiva"
+  },
+  {
+    "id": 396,
+    "name": "World of Illusions: Ramuh"
+  },
+  {
+    "id": 397,
+    "name": "A Scuffle with Bears"
+  },
+  {
+    "id": 398,
+    "name": "Phantoms"
+  },
+  {
+    "id": 399,
+    "name": "For My Beloved Brother"
+  },
+  {
+    "id": 400,
+    "name": "A Bloodcurdling Scream"
+  },
+  {
+    "id": 401,
+    "name": "Thank You"
+  },
+  {
+    "id": 402,
+    "name": "The Void"
+  },
+  {
+    "id": 403,
+    "name": "World of Illusions: Carbuncle"
+  },
+  {
+    "id": 404,
+    "name": "Kefka's Invitation"
+  },
+  {
+    "id": 405,
+    "name": "Student and Teacher Meet Again"
+  },
+  {
+    "id": 406,
+    "name": "Of Light and Darkness"
+  },
+  {
+    "id": 407,
+    "name": "Mog and Seymour"
+  },
+  {
+    "id": 408,
+    "name": "For the Future"
+  },
+  {
+    "id": 409,
+    "name": "Like an Open Book"
+  },
+  {
+    "id": 410,
+    "name": "The Old Man and Krile"
+  },
+  {
+    "id": 411,
+    "name": "World of Illusions: Leviathan"
+  },
+  {
+    "id": 412,
+    "name": "World of Illusions: Odin"
+  },
+  {
+    "id": 413,
+    "name": "World of Illusions: Alexander"
+  },
+  {
+    "id": 414,
+    "name": "World of Illusions: Carbuncle"
+  },
+  {
+    "id": 415,
+    "name": "World of Illusions: Ifrit"
+  },
+  {
+    "id": 416,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 417,
+    "name": "The Wandering Gambler"
+  },
+  {
+    "id": 418,
+    "name": "Why We Fight"
+  },
+  {
+    "id": 419,
+    "name": "The World Is Our Oyster"
+  },
+  {
+    "id": 420,
+    "name": "On Spread Wings"
+  },
+  {
+    "id": 421,
+    "name": "Setzer's Dream"
+  },
+  {
+    "id": 422,
+    "name": "Reckless Behavior"
+  },
+  {
+    "id": 423,
+    "name": "The Pure of Heart"
+  },
+  {
+    "id": 424,
+    "name": "A Spitfire and Thief"
+  },
+  {
+    "id": 425,
+    "name": "Our Hero、 Gilgamesh"
+  },
+  {
+    "id": 426,
+    "name": "Lost in Dimensions"
+  },
+  {
+    "id": 427,
+    "name": "Flashback: Squall and Seifer"
+  },
+  {
+    "id": 428,
+    "name": "Flashback: Transcending Time"
+  },
+  {
+    "id": 429,
+    "name": "World of Illusions: Shiva"
+  },
+  {
+    "id": 430,
+    "name": "The Hero We Need"
+  },
+  {
+    "id": 431,
+    "name": "The Fleetfooted"
+  },
+  {
+    "id": 432,
+    "name": "A Love of the Sky"
+  },
+  {
+    "id": 433,
+    "name": "Best Buddies"
+  },
+  {
+    "id": 434,
+    "name": "Rewards"
+  },
+  {
+    "id": 435,
+    "name": "The Lost Girl"
+  },
+  {
+    "id": 436,
+    "name": "A Romantic Reunion"
+  },
+  {
+    "id": 437,
+    "name": "The Summoners"
+  },
+  {
+    "id": 438,
+    "name": "Eiko's Cooking"
+  },
+  {
+    "id": 439,
+    "name": "Family"
+  },
+  {
+    "id": 440,
+    "name": "Alone"
+  },
+  {
+    "id": 441,
+    "name": "Written in the Stars"
+  },
+  {
+    "id": 442,
+    "name": "Blitzball"
+  },
+  {
+    "id": 443,
+    "name": "Different Strokes"
+  },
+  {
+    "id": 444,
+    "name": "The Sweet Embrace of Death"
+  },
+  {
+    "id": 445,
+    "name": "An Ace Appears"
+  },
+  {
+    "id": 446,
+    "name": "Wandering Adventurer"
+  },
+  {
+    "id": 447,
+    "name": "Two from Vana'diel"
+  },
+  {
+    "id": 448,
+    "name": "Journey to Freedom"
+  },
+  {
+    "id": 449,
+    "name": "Lost Canary"
+  },
+  {
+    "id": 450,
+    "name": "Highness Reunited"
+  },
+  {
+    "id": 451,
+    "name": "A Familiar View"
+  },
+  {
+    "id": 452,
+    "name": "Training Grounds"
+  },
+  {
+    "id": 453,
+    "name": "Proof of Strength"
+  },
+  {
+    "id": 454,
+    "name": "A New Story"
+  },
+  {
+    "id": 455,
+    "name": "Escape"
+  },
+  {
+    "id": 456,
+    "name": "Commander of the Red Wings"
+  },
+  {
+    "id": 457,
+    "name": "The Enemy's Goal"
+  },
+  {
+    "id": 458,
+    "name": "Brothers"
+  },
+  {
+    "id": 459,
+    "name": "Hard Landing"
+  },
+  {
+    "id": 460,
+    "name": "Edgar's Organization"
+  },
+  {
+    "id": 461,
+    "name": "L'Cie of the Fal'Cie"
+  },
+  {
+    "id": 462,
+    "name": "Fantasy Metropolis"
+  },
+  {
+    "id": 463,
+    "name": "He Who Would Dominate"
+  },
+  {
+    "id": 464,
+    "name": "Those Who Would Not Be Dominated"
+  },
+  {
+    "id": 465,
+    "name": "Atlas Manifest"
+  },
+  {
+    "id": 466,
+    "name": "The Road to Answers"
+  },
+  {
+    "id": 467,
+    "name": "Gun Nuts"
+  },
+  {
+    "id": 468,
+    "name": "Sisters"
+  },
+  {
+    "id": 469,
+    "name": "Targeted Party"
+  },
+  {
+    "id": 470,
+    "name": "Sharpshooter of Renown"
+  },
+  {
+    "id": 471,
+    "name": "A Familiar Voice"
+  },
+  {
+    "id": 472,
+    "name": "Across Time"
+  },
+  {
+    "id": 473,
+    "name": "Will to Fight"
+  },
+  {
+    "id": 474,
+    "name": "World of Illusions: Ramuh"
+  },
+  {
+    "id": 475,
+    "name": "Rune Knight at Arms"
+  },
+  {
+    "id": 476,
+    "name": "Undefeated General"
+  },
+  {
+    "id": 477,
+    "name": "The World's Rules"
+  },
+  {
+    "id": 478,
+    "name": "World of Illusions: Leviathan"
+  },
+  {
+    "id": 479,
+    "name": "Reunion and Coalition"
+  },
+  {
+    "id": 480,
+    "name": "Betrayal"
+  },
+  {
+    "id": 481,
+    "name": "Our Path Together"
+  },
+  {
+    "id": 482,
+    "name": "World of Illusions: The Brothers"
+  },
+  {
+    "id": 483,
+    "name": "Blooming in the Woods"
+  },
+  {
+    "id": 484,
+    "name": "Another Rebellion"
+  },
+  {
+    "id": 485,
+    "name": "Like Siblings"
+  },
+  {
+    "id": 486,
+    "name": "The Fight for Survival"
+  },
+  {
+    "id": 487,
+    "name": "Running on Empty"
+  },
+  {
+    "id": 488,
+    "name": "Gourmet Expedition"
+  },
+  {
+    "id": 489,
+    "name": "A Prishe Amok"
+  },
+  {
+    "id": 490,
+    "name": "Food First!"
+  },
+  {
+    "id": 491,
+    "name": "Brought by the Winds"
+  },
+  {
+    "id": 492,
+    "name": "The Pirate Lord"
+  },
+  {
+    "id": 493,
+    "name": "The Pirate Way"
+  },
+  {
+    "id": 494,
+    "name": "Faris's Secret"
+  },
+  {
+    "id": 495,
+    "name": "Identities Unveiled II"
+  },
+  {
+    "id": 496,
+    "name": "Misunderstandings"
+  },
+  {
+    "id": 497,
+    "name": "Unwavering Faith"
+  },
+  {
+    "id": 498,
+    "name": "Sword Talk"
+  },
+  {
+    "id": 499,
+    "name": "Befitting One's Station?"
+  },
+  {
+    "id": 500,
+    "name": "Our Own Cross to Bear"
+  },
+  {
+    "id": 501,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 502,
+    "name": "World of Illusions: Odin"
+  },
+  {
+    "id": 503,
+    "name": "Our Hero、 Gilgamesh"
+  },
+  {
+    "id": 504,
+    "name": "Lost in Dimensions"
+  },
+  {
+    "id": 505,
+    "name": "To Alter Fate"
+  },
+  {
+    "id": 506,
+    "name": "Entrance Cue"
+  },
+  {
+    "id": 507,
+    "name": "Ad-Lib"
+  },
+  {
+    "id": 508,
+    "name": "World of Illusions: Pandemonium"
+  },
+  {
+    "id": 509,
+    "name": "Perplexity"
+  },
+  {
+    "id": 510,
+    "name": "Like a Book"
+  },
+  {
+    "id": 511,
+    "name": "Instructor Trepe"
+  },
+  {
+    "id": 512,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 513,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 514,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 515,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 516,
+    "name": "Visited Ruins"
+  },
+  {
+    "id": 517,
+    "name": "A Sorceress's Knight"
+  },
+  {
+    "id": 518,
+    "name": "Separated"
+  },
+  {
+    "id": 519,
+    "name": "Missing Memories"
+  },
+  {
+    "id": 520,
+    "name": "Elsewhere..."
+  },
+  {
+    "id": 521,
+    "name": "The Sorceress Ultimecia"
+  },
+  {
+    "id": 522,
+    "name": "Door to Dimensions"
+  },
+  {
+    "id": 523,
+    "name": "Suspicions"
+  },
+  {
+    "id": 524,
+    "name": "Mog & Seifer"
+  },
+  {
+    "id": 525,
+    "name": "Revisited Ruins"
+  },
+  {
+    "id": 526,
+    "name": "Another Escape"
+  },
+  {
+    "id": 527,
+    "name": "Antagonist"
+  },
+  {
+    "id": 528,
+    "name": "A View toward Peace"
+  },
+  {
+    "id": 529,
+    "name": "Seifer's Decision"
+  },
+  {
+    "id": 530,
+    "name": "The Fetters of Gods"
+  },
+  {
+    "id": 531,
+    "name": "Mog's True Identity"
+  },
+  {
+    "id": 532,
+    "name": "To What Paths They Point"
+  },
+  {
+    "id": 533,
+    "name": "The Disciplinary Committee"
+  },
+  {
+    "id": 534,
+    "name": "Fujin、 Unaccustomed"
+  },
+  {
+    "id": 535,
+    "name": "Raijin、 Lost"
+  },
+  {
+    "id": 536,
+    "name": "A Real Friend"
+  },
+  {
+    "id": 537,
+    "name": "Situation、 Confused"
+  },
+  {
+    "id": 538,
+    "name": "Therefore、 Accompany"
+  },
+  {
+    "id": 539,
+    "name": "World of Illusions: Alexander"
+  },
+  {
+    "id": 540,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 541,
+    "name": "Junk Salvager"
+  },
+  {
+    "id": 542,
+    "name": "Eyes on the Skies"
+  },
+  {
+    "id": 543,
+    "name": "Don't Stop Dreamin'"
+  },
+  {
+    "id": 544,
+    "name": "Faris's Little Sister"
+  },
+  {
+    "id": 545,
+    "name": "Decision of Kindness"
+  },
+  {
+    "id": 546,
+    "name": "The Shape of Affection"
+  },
+  {
+    "id": 547,
+    "name": "All Through with You"
+  },
+  {
+    "id": 548,
+    "name": "Gift Box"
+  },
+  {
+    "id": 549,
+    "name": "Fracked"
+  },
+  {
+    "id": 550,
+    "name": "A Bloodcurdling Scream"
+  },
+  {
+    "id": 551,
+    "name": "Thank You"
+  },
+  {
+    "id": 552,
+    "name": "Ace's Struggle"
+  },
+  {
+    "id": 553,
+    "name": "Somber Ace"
+  },
+  {
+    "id": 554,
+    "name": "The Void"
+  },
+  {
+    "id": 555,
+    "name": "Student and Teacher Meet Again"
+  },
+  {
+    "id": 556,
+    "name": "Of Light and Darkness"
+  },
+  {
+    "id": 557,
+    "name": "Mog and Seymour"
+  },
+  {
+    "id": 558,
+    "name": "Unfeeling Benefactor"
+  },
+  {
+    "id": 559,
+    "name": "Drawn to Death"
+  },
+  {
+    "id": 560,
+    "name": "A Scuffle with Bears"
+  },
+  {
+    "id": 561,
+    "name": "Phantoms"
+  },
+  {
+    "id": 562,
+    "name": "For My Beloved Brother"
+  },
+  {
+    "id": 563,
+    "name": "The Returners"
+  },
+  {
+    "id": 564,
+    "name": "Brothers of Figaro"
+  },
+  {
+    "id": 565,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 566,
+    "name": "The Dimensions' Labyrinth"
+  },
+  {
+    "id": 567,
+    "name": "Disciplinary Committee Members"
+  },
+  {
+    "id": 568,
+    "name": "Father"
+  },
+  {
+    "id": 569,
+    "name": "Son and Father"
+  },
+  {
+    "id": 570,
+    "name": "One Who Transcends Death"
+  },
+  {
+    "id": 571,
+    "name": "Exdeath's Trap"
+  },
+  {
+    "id": 572,
+    "name": "Meeting Jecht Again"
+  },
+  {
+    "id": 573,
+    "name": "Decisive Battle: Exdeath"
+  },
+  {
+    "id": 574,
+    "name": "Perils And..."
+  },
+  {
+    "id": 575,
+    "name": "Jecht's Will"
+  },
+  {
+    "id": 576,
+    "name": "Overdrive"
+  },
+  {
+    "id": 577,
+    "name": "Clumsy Love"
+  },
+  {
+    "id": 578,
+    "name": "To Mog's Side"
+  },
+  {
+    "id": 579,
+    "name": "Marshaling"
+  },
+  {
+    "id": 580,
+    "name": "The Final Stage"
+  },
+  {
+    "id": 581,
+    "name": "Omen of Calamity"
+  },
+  {
+    "id": 582,
+    "name": "Facing the End"
+  },
+  {
+    "id": 583,
+    "name": "Memory"
+  },
+  {
+    "id": 584,
+    "name": "Blackened Will"
+  },
+  {
+    "id": 585,
+    "name": "Beyond the Light、 All Together"
+  },
+  {
+    "id": 586,
+    "name": "Display of Affection"
+  },
+  {
+    "id": 587,
+    "name": "Support One Another"
+  },
+  {
+    "id": 588,
+    "name": "A Star's Entrance"
+  },
+  {
+    "id": 589,
+    "name": "Advice"
+  },
+  {
+    "id": 590,
+    "name": "Yuri & Chelinka"
+  },
+  {
+    "id": 591,
+    "name": "The Road Home"
+  },
+  {
+    "id": 592,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 593,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 594,
+    "name": "World of Illusions: Bahamut"
+  },
+  {
+    "id": 595,
+    "name": "Help Appears"
+  },
+  {
+    "id": 596,
+    "name": "The Summoner Rydia"
+  },
+  {
+    "id": 597,
+    "name": "Respective Feelings"
+  },
+  {
+    "id": 598,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 599,
+    "name": "World of Illusions: Carbuncle"
+  },
+  {
+    "id": 600,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 601,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 602,
+    "name": "For the Future"
+  },
+  {
+    "id": 603,
+    "name": "Like an Open Book"
+  },
+  {
+    "id": 604,
+    "name": "The Old Man and Krile"
+  },
+  {
+    "id": 605,
+    "name": "Leave it to Krile"
+  },
+  {
+    "id": 606,
+    "name": "For Grandpa!"
+  },
+  {
+    "id": 607,
+    "name": "Soul of the Bard"
+  },
+  {
+    "id": 608,
+    "name": "The Coming of the Dawn"
+  },
+  {
+    "id": 609,
+    "name": "Intelligence Operations"
+  },
+  {
+    "id": 610,
+    "name": "A Bard's Range"
+  },
+  {
+    "id": 611,
+    "name": "An Astounding Performance"
+  },
+  {
+    "id": 612,
+    "name": "Reckless Courage"
+  },
+  {
+    "id": 613,
+    "name": "The Hero Among Us"
+  },
+  {
+    "id": 614,
+    "name": "The Shape of Trust Earned"
+  },
+  {
+    "id": 615,
+    "name": "What I Really Want to Protect"
+  },
+  {
+    "id": 616,
+    "name": "The Will to Protect All of Us"
+  },
+  {
+    "id": 617,
+    "name": "Unfamiliar Sense"
+  },
+  {
+    "id": 618,
+    "name": "Used to Favors"
+  },
+  {
+    "id": 619,
+    "name": "Another World's Meal Circumstances"
+  },
+  {
+    "id": 620,
+    "name": "Mistress of Sword and Sorcery"
+  },
+  {
+    "id": 621,
+    "name": "I Am Who I Am"
+  },
+  {
+    "id": 622,
+    "name": "Seeking Answers"
+  },
+  {
+    "id": 623,
+    "name": "Reckless Behavior"
+  },
+  {
+    "id": 624,
+    "name": "The Pure of Heart"
+  },
+  {
+    "id": 625,
+    "name": "Courage for my Friends"
+  },
+  {
+    "id": 626,
+    "name": "One Reason"
+  },
+  {
+    "id": 627,
+    "name": "A Spitfire and Thief"
+  },
+  {
+    "id": 628,
+    "name": "World of Illusions: The Brothers"
+  },
+  {
+    "id": 629,
+    "name": "To Bear the Cross Alone"
+  },
+  {
+    "id": 630,
+    "name": "A Deep Brooding"
+  },
+  {
+    "id": 631,
+    "name": "Desert Kingdoms"
+  },
+  {
+    "id": 632,
+    "name": "Conquering Hate"
+  },
+  {
+    "id": 633,
+    "name": "The Princess's Fight"
+  },
+  {
+    "id": 634,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 635,
+    "name": "The Hunted"
+  },
+  {
+    "id": 636,
+    "name": "A Friend from Home"
+  },
+  {
+    "id": 637,
+    "name": "A Faint Voice"
+  },
+  {
+    "id": 638,
+    "name": "An Unexpected Meeting"
+  },
+  {
+    "id": 639,
+    "name": "Kuja and Aerith"
+  },
+  {
+    "id": 640,
+    "name": "A Step Forward"
+  },
+  {
+    "id": 641,
+    "name": "With Friends"
+  },
+  {
+    "id": 642,
+    "name": "Laguna an Ancient?"
+  },
+  {
+    "id": 643,
+    "name": "Flowers"
+  },
+  {
+    "id": 644,
+    "name": "In Pursuit of the Crystal Core"
+  },
+  {
+    "id": 645,
+    "name": "From the Rubble"
+  },
+  {
+    "id": 646,
+    "name": "Fortune-Telling Machine、 Cait Sith"
+  },
+  {
+    "id": 647,
+    "name": "A Character"
+  },
+  {
+    "id": 648,
+    "name": "Vayne & Cait Sith"
+  },
+  {
+    "id": 649,
+    "name": "In Summary"
+  },
+  {
+    "id": 650,
+    "name": "Word of God"
+  },
+  {
+    "id": 651,
+    "name": "Left Unremembered"
+  },
+  {
+    "id": 652,
+    "name": "What Was Lost"
+  },
+  {
+    "id": 653,
+    "name": "Battle to Take Back"
+  },
+  {
+    "id": 654,
+    "name": "Crystal Chamber"
+  },
+  {
+    "id": 655,
+    "name": "The Way of Things"
+  },
+  {
+    "id": 656,
+    "name": "Center of the World"
+  },
+  {
+    "id": 657,
+    "name": "Another World"
+  },
+  {
+    "id": 658,
+    "name": "The Journey to Come"
+  },
+  {
+    "id": 659,
+    "name": "One Act of Conflict"
+  },
+  {
+    "id": 660,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 661,
+    "name": "World of Illusions: Carbuncle"
+  },
+  {
+    "id": 662,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 663,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 664,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 665,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 666,
+    "name": "Led by Interceptor"
+  },
+  {
+    "id": 667,
+    "name": "The Artist Relm"
+  },
+  {
+    "id": 668,
+    "name": "Grandpa"
+  },
+  {
+    "id": 669,
+    "name": "The Emperor's Servant"
+  },
+  {
+    "id": 670,
+    "name": "Leon"
+  },
+  {
+    "id": 671,
+    "name": "On Deck"
+  },
+  {
+    "id": 672,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 673,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 674,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 675,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 676,
+    "name": "SOS"
+  },
+  {
+    "id": 677,
+    "name": "Selphie、 All Worked Up"
+  },
+  {
+    "id": 678,
+    "name": "Booyaka!"
+  },
+  {
+    "id": 679,
+    "name": "World of Illusions: Diabolos"
+  },
+  {
+    "id": 680,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 681,
+    "name": "A Journey with No Destination"
+  },
+  {
+    "id": 682,
+    "name": "Wandering Swordsman"
+  },
+  {
+    "id": 683,
+    "name": "When Next We Meet"
+  },
+  {
+    "id": 684,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 685,
+    "name": "Wandering Adventurer"
+  },
+  {
+    "id": 686,
+    "name": "Two from Vana'diel"
+  },
+  {
+    "id": 687,
+    "name": "All Sorts of Circumstances"
+  },
+  {
+    "id": 688,
+    "name": "Ways to Go"
+  },
+  {
+    "id": 689,
+    "name": "Journey to Freedom"
+  },
+  {
+    "id": 690,
+    "name": "Lost Canary"
+  },
+  {
+    "id": 691,
+    "name": "Highness Reunited"
+  },
+  {
+    "id": 692,
+    "name": "A Familiar View"
+  },
+  {
+    "id": 693,
+    "name": "Choral Bonds"
+  },
+  {
+    "id": 694,
+    "name": "Friends of the Royal Family"
+  },
+  {
+    "id": 695,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 696,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 697,
+    "name": "Training Grounds"
+  },
+  {
+    "id": 698,
+    "name": "Proof of Strength"
+  },
+  {
+    "id": 699,
+    "name": "A New Story"
+  },
+  {
+    "id": 700,
+    "name": "Men's Friendship"
+  },
+  {
+    "id": 701,
+    "name": "Youths' Tale"
+  },
+  {
+    "id": 702,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 703,
+    "name": "Rune Knight at Arms"
+  },
+  {
+    "id": 704,
+    "name": "Undefeated General"
+  },
+  {
+    "id": 705,
+    "name": "Strength of Heart"
+  },
+  {
+    "id": 706,
+    "name": "A Play"
+  },
+  {
+    "id": 707,
+    "name": "The World's Rules"
+  },
+  {
+    "id": 708,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 709,
+    "name": "Belligerent Warrior"
+  },
+  {
+    "id": 710,
+    "name": "A Missed Partner"
+  },
+  {
+    "id": 711,
+    "name": "Worry"
+  },
+  {
+    "id": 712,
+    "name": "World of Illusions: Pandemonium"
+  },
+  {
+    "id": 713,
+    "name": "Assault"
+  },
+  {
+    "id": 714,
+    "name": "Intersecting Fates"
+  },
+  {
+    "id": 715,
+    "name": "Guardian of History"
+  },
+  {
+    "id": 716,
+    "name": "Warriors of the World of Darkness"
+  },
+  {
+    "id": 717,
+    "name": "With the Light"
+  },
+  {
+    "id": 718,
+    "name": "The Guardian's Motive"
+  },
+  {
+    "id": 719,
+    "name": "Reason to Fight"
+  },
+  {
+    "id": 720,
+    "name": "Thoughts for the Dead"
+  },
+  {
+    "id": 721,
+    "name": "Bonds of Light and Companions"
+  },
+  {
+    "id": 722,
+    "name": "Hope to the Future"
+  },
+  {
+    "id": 723,
+    "name": "Memories Regained"
+  },
+  {
+    "id": 724,
+    "name": "Guidepost"
+  },
+  {
+    "id": 725,
+    "name": "Choice to Live"
+  },
+  {
+    "id": 726,
+    "name": "To Protect the Future"
+  },
+  {
+    "id": 727,
+    "name": "To a New Adventure"
+  },
+  {
+    "id": 728,
+    "name": "For Mog、 Too"
+  },
+  {
+    "id": 729,
+    "name": "What is Justice"
+  },
+  {
+    "id": 730,
+    "name": "Old Hope"
+  },
+  {
+    "id": 731,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 732,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 733,
+    "name": "Reunion and Coalition"
+  },
+  {
+    "id": 734,
+    "name": "Betrayal"
+  },
+  {
+    "id": 735,
+    "name": "Who's the Sensible One"
+  },
+  {
+    "id": 736,
+    "name": "Unwavering Feelings"
+  },
+  {
+    "id": 737,
+    "name": "Our Path Together"
+  },
+  {
+    "id": 738,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 739,
+    "name": "The Sound of a Flute"
+  },
+  {
+    "id": 740,
+    "name": "An Encouraging Ally"
+  },
+  {
+    "id": 741,
+    "name": "The Young Flautist"
+  },
+  {
+    "id": 742,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 743,
+    "name": "Blooming in the Woods"
+  },
+  {
+    "id": 744,
+    "name": "Another Rebellion"
+  },
+  {
+    "id": 745,
+    "name": "Like Siblings"
+  },
+  {
+    "id": 746,
+    "name": "Unexpected Firecracker"
+  },
+  {
+    "id": 747,
+    "name": "Thinking of Home"
+  },
+  {
+    "id": 748,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 749,
+    "name": "World of Illusions: Bahamut"
+  },
+  {
+    "id": 750,
+    "name": "A Knight's Duty"
+  },
+  {
+    "id": 751,
+    "name": "Justice for Whom"
+  },
+  {
+    "id": 752,
+    "name": "In What Place Loyalty"
+  },
+  {
+    "id": 753,
+    "name": "Angry at Us"
+  },
+  {
+    "id": 754,
+    "name": "The Guilty Prankster"
+  },
+  {
+    "id": 755,
+    "name": "A New Friend"
+  },
+  {
+    "id": 756,
+    "name": "That Reminded Me"
+  },
+  {
+    "id": 757,
+    "name": "You Hafta Bluff?"
+  },
+  {
+    "id": 758,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 759,
+    "name": "Nothing!"
+  },
+  {
+    "id": 760,
+    "name": "Treasure Hunter"
+  },
+  {
+    "id": 761,
+    "name": "Legendary Treasure"
+  },
+  {
+    "id": 762,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 763,
+    "name": "World of Illusions: Diabolos"
+  },
+  {
+    "id": 764,
+    "name": "Hotheaded Bunch"
+  },
+  {
+    "id": 765,
+    "name": "Suspicions Dispelled"
+  },
+  {
+    "id": 766,
+    "name": "To Protect..."
+  },
+  {
+    "id": 767,
+    "name": "To Alter Fate"
+  },
+  {
+    "id": 768,
+    "name": "Entrance Cue"
+  },
+  {
+    "id": 769,
+    "name": "The Gods' Plotline"
+  },
+  {
+    "id": 770,
+    "name": "Resurrected Memories"
+  },
+  {
+    "id": 771,
+    "name": "Ad-lib"
+  },
+  {
+    "id": 772,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 773,
+    "name": "Led by Darkness"
+  },
+  {
+    "id": 774,
+    "name": "Farewell to Charades"
+  },
+  {
+    "id": 775,
+    "name": "Overwhelming Light"
+  },
+  {
+    "id": 776,
+    "name": "That Undone"
+  },
+  {
+    "id": 777,
+    "name": "Power for Whom"
+  },
+  {
+    "id": 778,
+    "name": "Upholding Dark and Light"
+  },
+  {
+    "id": 779,
+    "name": "Accepting Darkness Alone"
+  },
+  {
+    "id": 780,
+    "name": "Entrusting Light"
+  },
+  {
+    "id": 781,
+    "name": "Sealed Forest"
+  },
+  {
+    "id": 782,
+    "name": "I Return to the Void"
+  },
+  {
+    "id": 783,
+    "name": "To the Void"
+  },
+  {
+    "id": 784,
+    "name": "Until That Time Comes"
+  },
+  {
+    "id": 785,
+    "name": "Treasuring This Time"
+  },
+  {
+    "id": 786,
+    "name": "Denying Disappearance"
+  },
+  {
+    "id": 787,
+    "name": "Out of the Frying Pan"
+  },
+  {
+    "id": 788,
+    "name": "Promise to Meet Again"
+  },
+  {
+    "id": 789,
+    "name": "Sense of Responsibility"
+  },
+  {
+    "id": 790,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 791,
+    "name": "Perplexity"
+  },
+  {
+    "id": 792,
+    "name": "Like a Book"
+  },
+  {
+    "id": 793,
+    "name": "Instructor Trepe"
+  },
+  {
+    "id": 794,
+    "name": "School"
+  },
+  {
+    "id": 795,
+    "name": "GF"
+  },
+  {
+    "id": 796,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 797,
+    "name": "A Fair Friend"
+  },
+  {
+    "id": 798,
+    "name": "Beautiful You"
+  },
+  {
+    "id": 799,
+    "name": "Ever by Your Side"
+  },
+  {
+    "id": 800,
+    "name": "World of Illusions Ultimate"
+  },
+  {
+    "id": 801,
+    "name": "All Through with You"
+  },
+  {
+    "id": 802,
+    "name": "Gift Box"
+  },
+  {
+    "id": 803,
+    "name": "A Clown's Derangement"
+  },
+  {
+    "id": 804,
+    "name": "Magic Clash"
+  },
+  {
+    "id": 805,
+    "name": "Fracked"
+  },
+  {
+    "id": 806,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 807,
+    "name": "The Rift between Light and Dark"
+  },
+  {
+    "id": 808,
+    "name": "Leaving Only Bonds"
+  },
+  {
+    "id": 809,
+    "name": "Family Portrait"
+  },
+  {
+    "id": 810,
+    "name": "Faris's Little Sister"
+  },
+  {
+    "id": 811,
+    "name": "Decision of Kindness"
+  },
+  {
+    "id": 812,
+    "name": "Hand-Me-Down?"
+  },
+  {
+    "id": 813,
+    "name": "Those Waiting Back Home"
+  },
+  {
+    "id": 814,
+    "name": "The Shape of Affection"
+  },
+  {
+    "id": 815,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 816,
+    "name": "Innocent Girl"
+  },
+  {
+    "id": 817,
+    "name": "Destined Reunion"
+  },
+  {
+    "id": 818,
+    "name": "Fearsome Strength"
+  },
+  {
+    "id": 819,
+    "name": "A Portrait of Brothers"
+  },
+  {
+    "id": 820,
+    "name": "Melancholy of the Gods"
+  },
+  {
+    "id": 821,
+    "name": "Confrontation"
+  },
+  {
+    "id": 822,
+    "name": "The Enemy of My Enemy"
+  },
+  {
+    "id": 823,
+    "name": "Dimensional Coordinates"
+  },
+  {
+    "id": 824,
+    "name": "Once a Hero..."
+  },
+  {
+    "id": 825,
+    "name": "Darkness Gathering"
+  },
+  {
+    "id": 826,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 827,
+    "name": "Junk Salvager"
+  },
+  {
+    "id": 828,
+    "name": "Eyes on the Skies"
+  },
+  {
+    "id": 829,
+    "name": "Don't Stop Dreamin'"
+  },
+  {
+    "id": 830,
+    "name": "Cid"
+  },
+  {
+    "id": 831,
+    "name": "Bachelor's Bull's-Eye"
+  },
+  {
+    "id": 832,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 833,
+    "name": "Help Appears"
+  },
+  {
+    "id": 834,
+    "name": "The Summoner Rydia"
+  },
+  {
+    "id": 835,
+    "name": "The Feymarch"
+  },
+  {
+    "id": 836,
+    "name": "Someone to Protect"
+  },
+  {
+    "id": 837,
+    "name": "Respective Feelings"
+  },
+  {
+    "id": 838,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 839,
+    "name": "Summoner Search"
+  },
+  {
+    "id": 840,
+    "name": "Guardian Black Mage"
+  },
+  {
+    "id": 841,
+    "name": "To New Journeys"
+  },
+  {
+    "id": 842,
+    "name": "A Curious Existence"
+  },
+  {
+    "id": 843,
+    "name": "Twin Mirage Keepers"
+  },
+  {
+    "id": 844,
+    "name": "Another World Of..."
+  },
+  {
+    "id": 845,
+    "name": "Mistress of Sword and Sorcery"
+  },
+  {
+    "id": 846,
+    "name": "I Am Who I Am"
+  },
+  {
+    "id": 847,
+    "name": "Seeking Answers"
+  },
+  {
+    "id": 848,
+    "name": "The Power to Face One's Fate"
+  },
+  {
+    "id": 849,
+    "name": "Something Precious"
+  },
+  {
+    "id": 850,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 851,
+    "name": "Unfamiliar Sense"
+  },
+  {
+    "id": 852,
+    "name": "Used to Favors"
+  },
+  {
+    "id": 853,
+    "name": "Another World's Meal Circumstances"
+  },
+  {
+    "id": 854,
+    "name": "Secret Striver"
+  },
+  {
+    "id": 855,
+    "name": "Keeping Family Close"
+  },
+  {
+    "id": 856,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 857,
+    "name": "SOS"
+  },
+  {
+    "id": 858,
+    "name": "Selphie、 All Worked Up"
+  },
+  {
+    "id": 859,
+    "name": "School Festival!"
+  },
+  {
+    "id": 860,
+    "name": "Spreading Smiles"
+  },
+  {
+    "id": 861,
+    "name": "Booyaka!"
+  },
+  {
+    "id": 862,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 863,
+    "name": "A Journey with No Destination"
+  },
+  {
+    "id": 864,
+    "name": "Wandering Swordsman"
+  },
+  {
+    "id": 865,
+    "name": "When Next We Meet"
+  },
+  {
+    "id": 866,
+    "name": "Maladroit Man-at-Arms"
+  },
+  {
+    "id": 867,
+    "name": "Gilgameshes"
+  },
+  {
+    "id": 868,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 869,
+    "name": "Led by Interceptor"
+  },
+  {
+    "id": 870,
+    "name": "The Artist Relm"
+  },
+  {
+    "id": 871,
+    "name": "Relm's Portrait Workshop"
+  },
+  {
+    "id": 872,
+    "name": "Parent and Child"
+  },
+  {
+    "id": 873,
+    "name": "Grandpa"
+  },
+  {
+    "id": 874,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 875,
+    "name": "The Emperor's Servant"
+  },
+  {
+    "id": 876,
+    "name": "Leon"
+  },
+  {
+    "id": 877,
+    "name": "Two Sides of the Same Coin"
+  },
+  {
+    "id": 878,
+    "name": "Smiling Practice"
+  },
+  {
+    "id": 879,
+    "name": "On Deck"
+  },
+  {
+    "id": 880,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 881,
+    "name": "Belligerent Warrior"
+  },
+  {
+    "id": 882,
+    "name": "A Missed Partner"
+  },
+  {
+    "id": 883,
+    "name": "Desire to Protect"
+  },
+  {
+    "id": 884,
+    "name": "Like Family"
+  },
+  {
+    "id": 885,
+    "name": "Worry"
+  },
+  {
+    "id": 886,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 887,
+    "name": "The Sound of a Flute"
+  },
+  {
+    "id": 888,
+    "name": "An Encouraging Ally"
+  },
+  {
+    "id": 889,
+    "name": "The Young Flautist"
+  },
+  {
+    "id": 890,
+    "name": "Someday's Goal"
+  },
+  {
+    "id": 891,
+    "name": "Not for the Fight..."
+  },
+  {
+    "id": 892,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 893,
+    "name": "A Knight's Duty"
+  },
+  {
+    "id": 894,
+    "name": "Justice for Whom"
+  },
+  {
+    "id": 895,
+    "name": "In What Place Loyalty"
+  },
+  {
+    "id": 896,
+    "name": "Your Gift"
+  },
+  {
+    "id": 897,
+    "name": "Eventual Rouge"
+  },
+  {
+    "id": 898,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 899,
+    "name": "SOLDIER Senses"
+  },
+  {
+    "id": 900,
+    "name": "Rained On"
+  },
+  {
+    "id": 901,
+    "name": "Pride in Hand"
+  },
+  {
+    "id": 902,
+    "name": "Something to Write Home About"
+  },
+  {
+    "id": 903,
+    "name": "A Friendly Competition"
+  },
+  {
+    "id": 904,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 905,
+    "name": "Unease"
+  },
+  {
+    "id": 906,
+    "name": "Reunion"
+  },
+  {
+    "id": 907,
+    "name": "Flames"
+  },
+  {
+    "id": 908,
+    "name": "Captive"
+  },
+  {
+    "id": 909,
+    "name": "Dance"
+  },
+  {
+    "id": 910,
+    "name": "Justice"
+  },
+  {
+    "id": 911,
+    "name": "Stage"
+  },
+  {
+    "id": 912,
+    "name": "Imposter"
+  },
+  {
+    "id": 913,
+    "name": "Treachery"
+  },
+  {
+    "id": 914,
+    "name": "Traveling Together"
+  },
+  {
+    "id": 915,
+    "name": "Little Brother"
+  },
+  {
+    "id": 916,
+    "name": "Seal"
+  },
+  {
+    "id": 917,
+    "name": "Agitation"
+  },
+  {
+    "id": 918,
+    "name": "Rescue"
+  },
+  {
+    "id": 919,
+    "name": "A Place to Call Home"
+  },
+  {
+    "id": 920,
+    "name": "Parting Regrets"
+  },
+  {
+    "id": 921,
+    "name": "Memoria"
+  },
+  {
+    "id": 922,
+    "name": "Decisive Battle"
+  },
+  {
+    "id": 923,
+    "name": "Mist"
+  },
+  {
+    "id": 924,
+    "name": "Coalition"
+  },
+  {
+    "id": 925,
+    "name": "Final Curtain"
+  },
+  {
+    "id": 926,
+    "name": "Dragon Knight"
+  },
+  {
+    "id": 927,
+    "name": "Oblivion"
+  },
+  {
+    "id": 928,
+    "name": "Gods"
+  },
+  {
+    "id": 929,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 930,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 931,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 932,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 933,
+    "name": "The Bigger Picture"
+  },
+  {
+    "id": 934,
+    "name": "For Ivalice"
+  },
+  {
+    "id": 935,
+    "name": "Putting Differences Aside"
+  },
+  {
+    "id": 936,
+    "name": "A Meeting in the Woods"
+  },
+  {
+    "id": 937,
+    "name": "Partners"
+  },
+  {
+    "id": 938,
+    "name": "The Way Back"
+  },
+  {
+    "id": 939,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 940,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 941,
+    "name": "World of Illusions Ultimate"
+  },
+  {
+    "id": 942,
+    "name": "Come In!"
+  },
+  {
+    "id": 943,
+    "name": "Blithesome Cinquey"
+  },
+  {
+    "id": 944,
+    "name": "Student Vibes"
+  },
+  {
+    "id": 945,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 946,
+    "name": "Gotta Save Her!"
+  },
+  {
+    "id": 947,
+    "name": "A Precocious Mage"
+  },
+  {
+    "id": 948,
+    "name": "Palom & Porom"
+  },
+  {
+    "id": 949,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 950,
+    "name": "Regular Expectations"
+  },
+  {
+    "id": 951,
+    "name": "'Cause We're Friends"
+  },
+  {
+    "id": 952,
+    "name": "A Reason to Shoot"
+  },
+  {
+    "id": 953,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 954,
+    "name": "World of Illusions Ultimate"
+  },
+  {
+    "id": 955,
+    "name": "Twins of the Dawn"
+  },
+  {
+    "id": 956,
+    "name": "With Carbuncle"
+  },
+  {
+    "id": 957,
+    "name": "Knowledge to Power"
+  },
+  {
+    "id": 958,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 963,
+    "name": "Wavering Hearts"
+  },
+  {
+    "id": 964,
+    "name": "Nice to Meet You"
+  },
+  {
+    "id": 965,
+    "name": "Worry and Discontent"
+  },
+  {
+    "id": 966,
+    "name": "Counselor"
+  },
+  {
+    "id": 967,
+    "name": "Uneasiness"
+  },
+  {
+    "id": 968,
+    "name": "Don't Try So Hard"
+  },
+  {
+    "id": 969,
+    "name": "Power over Memories"
+  },
+  {
+    "id": 970,
+    "name": "Incitement to Battle"
+  },
+  {
+    "id": 971,
+    "name": "Stay Positive"
+  },
+  {
+    "id": 972,
+    "name": "Clearing Skies"
+  },
+  {
+    "id": 973,
+    "name": "A Little Whining"
+  },
+  {
+    "id": 974,
+    "name": "Treasuring Now"
+  },
+  {
+    "id": 975,
+    "name": "Salvation Various"
+  },
+  {
+    "id": 976,
+    "name": "Misery"
+  },
+  {
+    "id": 977,
+    "name": "Tangled Sentiment"
+  },
+  {
+    "id": 978,
+    "name": "For Someone's Sake"
+  },
+  {
+    "id": 979,
+    "name": "Fight!"
+  },
+  {
+    "id": 980,
+    "name": "Calamity's Cornerstone"
+  },
+  {
+    "id": 981,
+    "name": "Dominion"
+  },
+  {
+    "id": 982,
+    "name": "Collapse"
+  },
+  {
+    "id": 983,
+    "name": "Onto the Next Mission"
+  },
+  {
+    "id": 985,
+    "name": "The Ineloquent"
+  },
+  {
+    "id": 986,
+    "name": "Because of Love"
+  },
+  {
+    "id": 987,
+    "name": "The Pillars' Nature"
+  },
+  {
+    "id": 988,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 989,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 990,
+    "name": "Radiant Artifact Tokens"
+  },
+  {
+    "id": 991,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 992,
+    "name": "The Princess's Guard"
+  },
+  {
+    "id": 993,
+    "name": "Hundred-Knight Killer Beatrix"
+  },
+  {
+    "id": 994,
+    "name": "Roses of May"
+  },
+  {
+    "id": 995,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 996,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 997,
+    "name": "Empty City"
+  },
+  {
+    "id": 998,
+    "name": "Last Hunter"
+  },
+  {
+    "id": 999,
+    "name": "A Gentle Voice"
+  },
+  {
+    "id": 1000,
+    "name": "Fellow Hunters"
+  },
+  {
+    "id": 1001,
+    "name": "Abandoned Dolls"
+  },
+  {
+    "id": 1002,
+    "name": "Entrusting Hope"
+  },
+  {
+    "id": 1003,
+    "name": "Premonition"
+  },
+  {
+    "id": 1004,
+    "name": "Blackened Nursery"
+  },
+  {
+    "id": 1005,
+    "name": "Lost to Time"
+  },
+  {
+    "id": 1006,
+    "name": "Waiting on Fate"
+  },
+  {
+    "id": 1007,
+    "name": "A Single Boy"
+  },
+  {
+    "id": 1008,
+    "name": "Trust Your Elders"
+  },
+  {
+    "id": 1009,
+    "name": "The Hunted"
+  },
+  {
+    "id": 1010,
+    "name": "Through the Tower"
+  },
+  {
+    "id": 1011,
+    "name": "Ancient Power"
+  },
+  {
+    "id": 1012,
+    "name": "Powerless Wyrm"
+  },
+  {
+    "id": 1013,
+    "name": "Plucked Will"
+  },
+  {
+    "id": 1014,
+    "name": "Trampled Will"
+  },
+  {
+    "id": 1015,
+    "name": "Experiments Redux"
+  },
+  {
+    "id": 1016,
+    "name": "Ruin Incarnate"
+  },
+  {
+    "id": 1017,
+    "name": "Blackened Will Unleashed"
+  },
+  {
+    "id": 1018,
+    "name": "Time's Gap"
+  },
+  {
+    "id": 1019,
+    "name": "Meat's the Best"
+  },
+  {
+    "id": 1020,
+    "name": "Pursuit"
+  },
+  {
+    "id": 1021,
+    "name": "Root of Ruin"
+  },
+  {
+    "id": 1022,
+    "name": "Uprooting"
+  },
+  {
+    "id": 1023,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1024,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1025,
+    "name": "Lone Puppeteer"
+  },
+  {
+    "id": 1026,
+    "name": "Me as I Am"
+  },
+  {
+    "id": 1027,
+    "name": "Journey of Growth"
+  },
+  {
+    "id": 1028,
+    "name": "When I Awoke..."
+  },
+  {
+    "id": 1029,
+    "name": "No Child Knows"
+  },
+  {
+    "id": 1030,
+    "name": "The Chronicled"
+  },
+  {
+    "id": 1031,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1032,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1033,
+    "name": "Entwined in Conflict"
+  },
+  {
+    "id": 1034,
+    "name": "Yearning for Battle"
+  },
+  {
+    "id": 1035,
+    "name": "Fate Strayed"
+  },
+  {
+    "id": 1036,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1037,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1038,
+    "name": "World of Illusions Ultimate"
+  },
+  {
+    "id": 1039,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1040,
+    "name": "Unexpected Allies"
+  },
+  {
+    "id": 1041,
+    "name": "Helpless before Solitude"
+  },
+  {
+    "id": 1042,
+    "name": "Outrageous Hate"
+  },
+  {
+    "id": 1043,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1044,
+    "name": "Just a Glance..."
+  },
+  {
+    "id": 1045,
+    "name": "Reunion"
+  },
+  {
+    "id": 1046,
+    "name": "The Future"
+  },
+  {
+    "id": 1047,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1048,
+    "name": "Nothing!"
+  },
+  {
+    "id": 1049,
+    "name": "Treasure Hunter"
+  },
+  {
+    "id": 1050,
+    "name": "Legendary Treasure"
+  },
+  {
+    "id": 1051,
+    "name": "In Search of Treasure"
+  },
+  {
+    "id": 1052,
+    "name": "Object of Protection"
+  },
+  {
+    "id": 1053,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1054,
+    "name": "To Earn Your Trust"
+  },
+  {
+    "id": 1055,
+    "name": "To Protect"
+  },
+  {
+    "id": 1056,
+    "name": "Objectives and Adventures"
+  },
+  {
+    "id": 1057,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1058,
+    "name": "Hotheaded Bunch"
+  },
+  {
+    "id": 1059,
+    "name": "Suspicions Dispelled"
+  },
+  {
+    "id": 1060,
+    "name": "To Protect..."
+  },
+  {
+    "id": 1061,
+    "name": "Heat-Seeking Barret"
+  },
+  {
+    "id": 1062,
+    "name": "Partner"
+  },
+  {
+    "id": 1063,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1064,
+    "name": "Into the Forest"
+  },
+  {
+    "id": 1065,
+    "name": "To Protect..."
+  },
+  {
+    "id": 1066,
+    "name": "A Boy"
+  },
+  {
+    "id": 1067,
+    "name": "Little Sister"
+  },
+  {
+    "id": 1068,
+    "name": "Those with Memories"
+  },
+  {
+    "id": 1069,
+    "name": "Resistance"
+  },
+  {
+    "id": 1070,
+    "name": "Twisted Road"
+  },
+  {
+    "id": 1071,
+    "name": "Hope Entrusted"
+  },
+  {
+    "id": 1072,
+    "name": "The Gates to Paradise"
+  },
+  {
+    "id": 1073,
+    "name": "Paradise?"
+  },
+  {
+    "id": 1074,
+    "name": "About Him"
+  },
+  {
+    "id": 1075,
+    "name": "The Future at Memory's End"
+  },
+  {
+    "id": 1076,
+    "name": "Following Wills"
+  },
+  {
+    "id": 1077,
+    "name": "To Accept Memories"
+  },
+  {
+    "id": 1078,
+    "name": "Resolution Tested"
+  },
+  {
+    "id": 1079,
+    "name": "For Brilliance"
+  },
+  {
+    "id": 1080,
+    "name": "To Fight Together"
+  },
+  {
+    "id": 1081,
+    "name": "Second Partner"
+  },
+  {
+    "id": 1082,
+    "name": "Senior"
+  },
+  {
+    "id": 1083,
+    "name": "Warped Paradise"
+  },
+  {
+    "id": 1084,
+    "name": "Not to be Let Go"
+  },
+  {
+    "id": 1085,
+    "name": "A Taste of Twisted Death"
+  },
+  {
+    "id": 1086,
+    "name": "A Twisted World's Collapse"
+  },
+  {
+    "id": 1087,
+    "name": "Guiding Flame"
+  },
+  {
+    "id": 1088,
+    "name": "Old Friends"
+  },
+  {
+    "id": 1089,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1090,
+    "name": "Spirit Moogle"
+  },
+  {
+    "id": 1091,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1092,
+    "name": "Doesn't Talk Much"
+  },
+  {
+    "id": 1093,
+    "name": "Team Up"
+  },
+  {
+    "id": 1094,
+    "name": "Unsociable Guardian"
+  },
+  {
+    "id": 1095,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1096,
+    "name": "Cornerstone of Ambition"
+  },
+  {
+    "id": 1097,
+    "name": "Imperial Nuisance"
+  },
+  {
+    "id": 1098,
+    "name": "Domination is His Name"
+  },
+  {
+    "id": 1099,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1100,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1101,
+    "name": "A Fair Friend"
+  },
+  {
+    "id": 1102,
+    "name": "Beautiful You"
+  },
+  {
+    "id": 1103,
+    "name": "Ever by Your Side"
+  },
+  {
+    "id": 1104,
+    "name": "Sandboxes"
+  },
+  {
+    "id": 1105,
+    "name": "The Road without Regret"
+  },
+  {
+    "id": 1106,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1107,
+    "name": "The Rift between Light and Dark"
+  },
+  {
+    "id": 1108,
+    "name": "Leaving Only Bonds"
+  },
+  {
+    "id": 1109,
+    "name": "Family Portrait"
+  },
+  {
+    "id": 1110,
+    "name": "Strength of Will"
+  },
+  {
+    "id": 1111,
+    "name": "Moon Tales"
+  },
+  {
+    "id": 1112,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1113,
+    "name": "Feral Youth"
+  },
+  {
+    "id": 1114,
+    "name": "Our Friend"
+  },
+  {
+    "id": 1115,
+    "name": "Me Hungry"
+  },
+  {
+    "id": 1116,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1117,
+    "name": "Innocent Girl"
+  },
+  {
+    "id": 1118,
+    "name": "Destined Reunion"
+  },
+  {
+    "id": 1119,
+    "name": "Fearsome Strength"
+  },
+  {
+    "id": 1120,
+    "name": "A Changing Battle"
+  },
+  {
+    "id": 1121,
+    "name": "What She's Feeling"
+  },
+  {
+    "id": 1122,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1123,
+    "name": "Spare Me"
+  },
+  {
+    "id": 1124,
+    "name": "Mission Accomplished"
+  },
+  {
+    "id": 1125,
+    "name": "Let Our Fists Do the Talking"
+  },
+  {
+    "id": 1126,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1127,
+    "name": "World of Illusions Ultimate"
+  },
+  {
+    "id": 1128,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1129,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1130,
+    "name": "The Tactician and the Consul"
+  },
+  {
+    "id": 1131,
+    "name": "Regroup"
+  },
+  {
+    "id": 1132,
+    "name": "A Tactful Tactician"
+  },
+  {
+    "id": 1133,
+    "name": "I See"
+  },
+  {
+    "id": 1134,
+    "name": "Travelers of the Stars"
+  },
+  {
+    "id": 1135,
+    "name": "A Warning for the Tactician"
+  },
+  {
+    "id": 1136,
+    "name": "A God's Throne"
+  },
+  {
+    "id": 1137,
+    "name": "Deception's Respite"
+  },
+  {
+    "id": 1138,
+    "name": "In His Late Father's Image"
+  },
+  {
+    "id": 1139,
+    "name": "A Blight on the Planet"
+  },
+  {
+    "id": 1140,
+    "name": "To Deny、 or to Accept"
+  },
+  {
+    "id": 1141,
+    "name": "Puppets with a Will"
+  },
+  {
+    "id": 1142,
+    "name": "Like Child's Play"
+  },
+  {
+    "id": 1143,
+    "name": "Degradation"
+  },
+  {
+    "id": 1144,
+    "name": "Reunion"
+  },
+  {
+    "id": 1145,
+    "name": "One Who Resents Gods"
+  },
+  {
+    "id": 1146,
+    "name": "To the Goddess's Seat"
+  },
+  {
+    "id": 1147,
+    "name": "With the Prince's Will in Mind"
+  },
+  {
+    "id": 1148,
+    "name": "The Birth of a God"
+  },
+  {
+    "id": 1149,
+    "name": "Crisis"
+  },
+  {
+    "id": 1150,
+    "name": "A God's Return"
+  },
+  {
+    "id": 1151,
+    "name": "I've Come Up with a New Recipe"
+  },
+  {
+    "id": 1152,
+    "name": "So He Said"
+  },
+  {
+    "id": 1153,
+    "name": "A Prince without a Tactician"
+  },
+  {
+    "id": 1154,
+    "name": "The Crystal Core of Darkness"
+  },
+  {
+    "id": 1155,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1157,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1158,
+    "name": "Summoner Search"
+  },
+  {
+    "id": 1159,
+    "name": "Guardian Black Mage"
+  },
+  {
+    "id": 1160,
+    "name": "To New Journeys"
+  },
+  {
+    "id": 1161,
+    "name": "Inquiring Minds"
+  },
+  {
+    "id": 1162,
+    "name": "Dear Friends"
+  },
+  {
+    "id": 1163,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1164,
+    "name": "Unreasonable"
+  },
+  {
+    "id": 1165,
+    "name": "Point of Antagonism"
+  },
+  {
+    "id": 1166,
+    "name": "Brotherly Thoughts"
+  },
+  {
+    "id": 1167,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1168,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1169,
+    "name": "World of Illusions Ultimate"
+  },
+  {
+    "id": 1170,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1171,
+    "name": "A Curious Existence"
+  },
+  {
+    "id": 1172,
+    "name": "Twin Mirage Keepers"
+  },
+  {
+    "id": 1173,
+    "name": "Another World Of..."
+  },
+  {
+    "id": 1174,
+    "name": "Full-Frontal Assault!"
+  },
+  {
+    "id": 1175,
+    "name": "Hard Work for Big Sisters"
+  },
+  {
+    "id": 1176,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1177,
+    "name": "Setting Out"
+  },
+  {
+    "id": 1178,
+    "name": "Pleasant Meetings"
+  },
+  {
+    "id": 1179,
+    "name": "Memories"
+  },
+  {
+    "id": 1180,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1181,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1182,
+    "name": "The Bigger Picture"
+  },
+  {
+    "id": 1183,
+    "name": "For Ivalice"
+  },
+  {
+    "id": 1184,
+    "name": "Putting Differences Aside"
+  },
+  {
+    "id": 1185,
+    "name": "His Purposes"
+  },
+  {
+    "id": 1186,
+    "name": "Unwavering Faith"
+  },
+  {
+    "id": 1187,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1188,
+    "name": "A Meeting in the Woods"
+  },
+  {
+    "id": 1189,
+    "name": "Partners"
+  },
+  {
+    "id": 1190,
+    "name": "The Way Back"
+  },
+  {
+    "id": 1191,
+    "name": "All Ears"
+  },
+  {
+    "id": 1192,
+    "name": "Better Left Unsaid"
+  },
+  {
+    "id": 1193,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1194,
+    "name": "Moths to a Flame"
+  },
+  {
+    "id": 1195,
+    "name": "The Hero is Always Late"
+  },
+  {
+    "id": 1196,
+    "name": "Vantage of the Void"
+  },
+  {
+    "id": 1197,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1198,
+    "name": "Come In!"
+  },
+  {
+    "id": 1199,
+    "name": "Blithesome Cinquey"
+  },
+  {
+    "id": 1200,
+    "name": "Student Vibes"
+  },
+  {
+    "id": 1201,
+    "name": "Cinquey、 Bestower of Nicknames"
+  },
+  {
+    "id": 1202,
+    "name": "Among the Flowers"
+  },
+  {
+    "id": 1203,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1204,
+    "name": "Gotta Save Her!"
+  },
+  {
+    "id": 1205,
+    "name": "A Precocious Mage"
+  },
+  {
+    "id": 1206,
+    "name": "Palom & Porom"
+  },
+  {
+    "id": 1207,
+    "name": "The Smell of Monsters"
+  },
+  {
+    "id": 1208,
+    "name": "Bonds of Sisterhood"
+  },
+  {
+    "id": 1209,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1210,
+    "name": "Regular Expectations"
+  },
+  {
+    "id": 1211,
+    "name": "'Cause We're Friends"
+  },
+  {
+    "id": 1212,
+    "name": "A Reason to Shoot"
+  },
+  {
+    "id": 1213,
+    "name": "Special"
+  },
+  {
+    "id": 1214,
+    "name": "Admired"
+  },
+  {
+    "id": 1215,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1216,
+    "name": "Twins of the Dawn"
+  },
+  {
+    "id": 1217,
+    "name": "With Carbuncle"
+  },
+  {
+    "id": 1218,
+    "name": "Knowledge to Power"
+  },
+  {
+    "id": 1219,
+    "name": "Summoners"
+  },
+  {
+    "id": 1220,
+    "name": "To Be Like Them"
+  },
+  {
+    "id": 1221,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1222,
+    "name": "Lone Puppeteer"
+  },
+  {
+    "id": 1223,
+    "name": "Me as I Am"
+  },
+  {
+    "id": 1224,
+    "name": "Journey of Growth"
+  },
+  {
+    "id": 1225,
+    "name": "Technology Connecting Worlds"
+  },
+  {
+    "id": 1226,
+    "name": "Friends"
+  },
+  {
+    "id": 1227,
+    "name": "N"
+  },
+  {
+    "id": 1228,
+    "name": "When I Awoke..."
+  },
+  {
+    "id": 1229,
+    "name": "No Child Knows"
+  },
+  {
+    "id": 1230,
+    "name": "The Chronicled"
+  },
+  {
+    "id": 1231,
+    "name": "My Little Secrets"
+  },
+  {
+    "id": 1232,
+    "name": "Sherlotta Knows"
+  },
+  {
+    "id": 1233,
+    "name": "N"
+  },
+  {
+    "id": 1234,
+    "name": "A Second Chance"
+  },
+  {
+    "id": 1235,
+    "name": "Not You Again"
+  },
+  {
+    "id": 1236,
+    "name": "Desert Memories"
+  },
+  {
+    "id": 1237,
+    "name": "Tale of Two Traitors"
+  },
+  {
+    "id": 1238,
+    "name": "Difference in Memories"
+  },
+  {
+    "id": 1239,
+    "name": "For Whom is Your Loyalty"
+  },
+  {
+    "id": 1240,
+    "name": "Braving Hatred"
+  },
+  {
+    "id": 1241,
+    "name": "Loyalty to Home"
+  },
+  {
+    "id": 1242,
+    "name": "Show Me Your Will"
+  },
+  {
+    "id": 1243,
+    "name": "I Wanted to Tell You"
+  },
+  {
+    "id": 1244,
+    "name": "Where the Wind Ends"
+  },
+  {
+    "id": 1245,
+    "name": "Have It All"
+  },
+  {
+    "id": 1246,
+    "name": "Bonds of Friendship"
+  },
+  {
+    "id": 1247,
+    "name": "Rising"
+  },
+  {
+    "id": 1248,
+    "name": "Floating Ruins"
+  },
+  {
+    "id": 1249,
+    "name": "Absorbing the World's Life"
+  },
+  {
+    "id": 1250,
+    "name": "It Hurts"
+  },
+  {
+    "id": 1251,
+    "name": "For a Friend"
+  },
+  {
+    "id": 1252,
+    "name": "Empty Shell"
+  },
+  {
+    "id": 1253,
+    "name": "Escaping His Control"
+  },
+  {
+    "id": 1254,
+    "name": "Brilliance in Bright Hands"
+  },
+  {
+    "id": 1255,
+    "name": "Distorter of Dimensions"
+  },
+  {
+    "id": 1256,
+    "name": "Escape with an Adventurous Spirit"
+  },
+  {
+    "id": 1257,
+    "name": "A Reason for Helping"
+  },
+  {
+    "id": 1258,
+    "name": "Love's Reach"
+  },
+  {
+    "id": 1259,
+    "name": "Whither the Wind Returns"
+  },
+  {
+    "id": 1260,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1262,
+    "name": "Mission Dungeon"
+  },
+  {
+    "id": 1263,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1264,
+    "name": "Radiant Artifact Tokens"
+  },
+  {
+    "id": 1265,
+    "name": "Two Guardians"
+  },
+  {
+    "id": 1266,
+    "name": "Words of Lasting Faith"
+  },
+  {
+    "id": 1267,
+    "name": "Eternal Oath"
+  },
+  {
+    "id": 1268,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1269,
+    "name": "World of Illusions Ultimate"
+  },
+  {
+    "id": 1270,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1271,
+    "name": "Katana Wounds"
+  },
+  {
+    "id": 1272,
+    "name": "Team Effort"
+  },
+  {
+    "id": 1273,
+    "name": "To Be Cool"
+  },
+  {
+    "id": 1274,
+    "name": "Radiant Artifacts"
+  },
+  {
+    "id": 1275,
+    "name": "World of Illusions: Carbuncle"
+  },
+  {
+    "id": 1276,
+    "name": "Meeting in the Forest"
+  },
+  {
+    "id": 1277,
+    "name": "Princess of Adoulin"
+  },
+  {
+    "id": 1278,
+    "name": "Forest Witch"
+  },
+  {
+    "id": 1279,
+    "name": "Shrewd Rebel"
+  },
+  {
+    "id": 1280,
+    "name": "The Way of Partners"
+  },
+  {
+    "id": 1281,
+    "name": "Breaking Barriers"
+  },
+  {
+    "id": 1282,
+    "name": "Mission Dungeon"
+  },
+  {
+    "id": 1283,
+    "name": "Mission Dungeon"
+  },
+  {
+    "id": 1284,
+    "name": "Contact"
+  },
+  {
+    "id": 1285,
+    "name": "The Means to an End"
+  },
+  {
+    "id": 1286,
+    "name": "Ambition Revealed"
+  },
+  {
+    "id": 1287,
+    "name": "World of Illusions Ultimate"
+  },
+  {
+    "id": 1289,
+    "name": "A Solitary Youth"
+  },
+  {
+    "id": 1290,
+    "name": "Reunited with Trey"
+  },
+  {
+    "id": 1291,
+    "name": "The Endless Pursuit of Knowledge"
+  },
+  {
+    "id": 1292,
+    "name": "Entwined in Conflict"
+  },
+  {
+    "id": 1293,
+    "name": "Yearning for Battle"
+  },
+  {
+    "id": 1294,
+    "name": "Fate Strayed"
+  },
+  {
+    "id": 1295,
+    "name": "A \"Pure\" Sentiment"
+  },
+  {
+    "id": 1296,
+    "name": "Explosive Situation"
+  },
+  {
+    "id": 1301,
+    "name": "Abyss β Stratum 1"
+  },
+  {
+    "id": 1302,
+    "name": "Abyss β Stratum 3"
+  },
+  {
+    "id": 1303,
+    "name": "Abyss β Stratum 6"
+  },
+  {
+    "id": 1304,
+    "name": "Abyss β Stratum 9"
+  },
+  {
+    "id": 1305,
+    "name": "Abyss β Stratum 10"
+  },
+  {
+    "id": 1306,
+    "name": "Abyss: A New Episode"
+  },
+  {
+    "id": 1307,
+    "name": "Abyss: A New Episode"
+  },
+  {
+    "id": 1308,
+    "name": "Abyss: Normalis"
+  },
+  {
+    "id": 1309,
+    "name": "Abyss: Perfectum"
+  },
+  {
+    "id": 1311,
+    "name": "Abyss: Mist Memoria"
+  },
+  {
+    "id": 1312,
+    "name": "Abyss: Mist Memoria"
+  },
+  {
+    "id": 1313,
+    "name": "Abyss: A Lead to the Thick of It"
+  },
+  {
+    "id": 1314,
+    "name": "Abyss: A Lead to the Thick of It"
+  },
+  {
+    "id": 1315,
+    "name": "Abyss: Dateless Rendezvous"
+  },
+  {
+    "id": 1316,
+    "name": "Abyss: Dateless Rendezvous"
+  },
+  {
+    "id": 1401,
+    "name": "Our Time"
+  },
+  {
+    "id": 1402,
+    "name": "A Vermilion Star"
+  },
+  {
+    "id": 1403,
+    "name": "Where They Arrived"
+  },
+  {
+    "id": 1404,
+    "name": "Of Orience and Agito"
+  },
+  {
+    "id": 1405,
+    "name": "Our Secret"
+  },
+  {
+    "id": 1406,
+    "name": "Colliding Values"
+  },
+  {
+    "id": 1407,
+    "name": "Transient Peace"
+  },
+  {
+    "id": 1408,
+    "name": "Lost Kids"
+  },
+  {
+    "id": 1409,
+    "name": "Like This Forever"
+  },
+  {
+    "id": 1410,
+    "name": "A Message"
+  },
+  {
+    "id": 1411,
+    "name": "Machina's Confession"
+  },
+  {
+    "id": 1412,
+    "name": "I'm Here"
+  },
+  {
+    "id": 1413,
+    "name": "Prison of Memories"
+  },
+  {
+    "id": 1414,
+    "name": "Choices"
+  },
+  {
+    "id": 1415,
+    "name": "The Good of Grown-Ups"
+  },
+  {
+    "id": 1416,
+    "name": "I'm Sorry"
+  },
+  {
+    "id": 1417,
+    "name": "Growing Closer"
+  },
+  {
+    "id": 1418,
+    "name": "Penitence"
+  },
+  {
+    "id": 1419,
+    "name": "A World That Never Ends"
+  },
+  {
+    "id": 1420,
+    "name": "Despair and Hope"
+  },
+  {
+    "id": 1421,
+    "name": "With All His Heart"
+  },
+  {
+    "id": 1422,
+    "name": "Run、 Warriors of Vermilion"
+  },
+  {
+    "id": 1423,
+    "name": "Land of No Respite"
+  },
+  {
+    "id": 1424,
+    "name": "School Life"
+  },
+  {
+    "id": 1425,
+    "name": "Not If、 but When"
+  },
+  {
+    "id": 1426,
+    "name": "Unexpected Allies"
+  },
+  {
+    "id": 1427,
+    "name": "Helpless before Solitude"
+  },
+  {
+    "id": 1428,
+    "name": "Outrageous Hate"
+  },
+  {
+    "id": 1429,
+    "name": "True Loneliness"
+  },
+  {
+    "id": 1430,
+    "name": "Full of Dreams"
+  },
+  {
+    "id": 1431,
+    "name": "Just a Glance..."
+  },
+  {
+    "id": 1432,
+    "name": "Reunion"
+  },
+  {
+    "id": 1433,
+    "name": "The Future"
+  },
+  {
+    "id": 1434,
+    "name": "Childhood Friends"
+  },
+  {
+    "id": 1435,
+    "name": "Your Lucky Day"
+  },
+  {
+    "id": 1436,
+    "name": "Exiled Hermit"
+  },
+  {
+    "id": 1437,
+    "name": "Perfect Timing"
+  },
+  {
+    "id": 1438,
+    "name": "Entrusted Hopes & Results"
+  },
+  {
+    "id": 1439,
+    "name": "Amnesia?"
+  },
+  {
+    "id": 1440,
+    "name": "Running Away...Again"
+  },
+  {
+    "id": 1441,
+    "name": "Partner"
+  },
+  {
+    "id": 1442,
+    "name": "Stray Dog's Pride"
+  },
+  {
+    "id": 1443,
+    "name": "Desert Flower"
+  },
+  {
+    "id": 1444,
+    "name": "A Shadow in the Labyrinth"
+  },
+  {
+    "id": 1445,
+    "name": "Judge Magister"
+  },
+  {
+    "id": 1446,
+    "name": "Darkness Gathers"
+  },
+  {
+    "id": 1447,
+    "name": "A Difference in Memories"
+  },
+  {
+    "id": 1448,
+    "name": "He Who Begrudges the Gods"
+  },
+  {
+    "id": 1449,
+    "name": "Everyone is Someone to Somebody"
+  },
+  {
+    "id": 1450,
+    "name": "Fragments of Memories"
+  },
+  {
+    "id": 1451,
+    "name": "Route to Freedom"
+  },
+  {
+    "id": 1452,
+    "name": "Some Things about the End"
+  },
+  {
+    "id": 1453,
+    "name": "Shards of Locked Memories"
+  },
+  {
+    "id": 1454,
+    "name": "Beacon of Liberation"
+  },
+  {
+    "id": 1455,
+    "name": "Unraveling the Labyrinth"
+  },
+  {
+    "id": 1456,
+    "name": "Memories Are in the Heart"
+  },
+  {
+    "id": 1457,
+    "name": "Sought for in the Sky"
+  },
+  {
+    "id": 1458,
+    "name": "In a World Without Home"
+  },
+  {
+    "id": 1459,
+    "name": "Peace for the World、 Death for the Deceased"
+  },
+  {
+    "id": 1460,
+    "name": "Sound Reasoning and Bewilderment"
+  },
+  {
+    "id": 1461,
+    "name": "Darkness Luring Destruction"
+  },
+  {
+    "id": 1462,
+    "name": "No One will Disappear"
+  },
+  {
+    "id": 1463,
+    "name": "Duty of the Dead"
+  },
+  {
+    "id": 1464,
+    "name": "Flight to Freedom"
+  },
+  {
+    "id": 1465,
+    "name": "The Man in the Armor"
+  },
+  {
+    "id": 1466,
+    "name": "Hope that Bloomed in the Desert"
+  },
+  {
+    "id": 1467,
+    "name": "Flying Spear"
+  },
+  {
+    "id": 1468,
+    "name": "Foul-Mouthed Cadet"
+  },
+  {
+    "id": 1469,
+    "name": "Impulsive as Ever"
+  },
+  {
+    "id": 1470,
+    "name": "Mobile Commodore"
+  },
+  {
+    "id": 1471,
+    "name": "Crossing Boundaries"
+  },
+  {
+    "id": 1472,
+    "name": "Formidable Ally"
+  },
+  {
+    "id": 1473,
+    "name": "To Earn Your Trust"
+  },
+  {
+    "id": 1474,
+    "name": "To Protect"
+  },
+  {
+    "id": 1475,
+    "name": "Objectives and Adventures"
+  },
+  {
+    "id": 1476,
+    "name": "Maintenance"
+  },
+  {
+    "id": 1477,
+    "name": "Cumbersome Ties"
+  },
+  {
+    "id": 1478,
+    "name": "Doesn't Talk Much"
+  },
+  {
+    "id": 1479,
+    "name": "Team Up"
+  },
+  {
+    "id": 1480,
+    "name": "Unsociable Guardian"
+  },
+  {
+    "id": 1481,
+    "name": "A True Smile"
+  },
+  {
+    "id": 1482,
+    "name": "Taking Pride in One's Horn"
+  },
+  {
+    "id": 1483,
+    "name": "Cornerstone of Ambition"
+  },
+  {
+    "id": 1484,
+    "name": "Imperial Nuisance"
+  },
+  {
+    "id": 1485,
+    "name": "Domination is His Name"
+  },
+  {
+    "id": 1486,
+    "name": "A Ruthless Trap"
+  },
+  {
+    "id": 1487,
+    "name": "New Dark Knights"
+  },
+  {
+    "id": 1488,
+    "name": "To the World's Core"
+  },
+  {
+    "id": 1489,
+    "name": "False King of Darkness"
+  },
+  {
+    "id": 1490,
+    "name": "Road of the Sacrificed"
+  },
+  {
+    "id": 1491,
+    "name": "I Haven't Given Up"
+  },
+  {
+    "id": 1492,
+    "name": "A King、 Not a Pawn of the Gods"
+  },
+  {
+    "id": 1493,
+    "name": "Converging & The Growing Threat"
+  },
+  {
+    "id": 1494,
+    "name": "Will-less Sorceress & Transient Guardian"
+  },
+  {
+    "id": 1495,
+    "name": "The Man Possessed by Darkness"
+  },
+  {
+    "id": 1496,
+    "name": "Journey to the Afterlife"
+  },
+  {
+    "id": 1497,
+    "name": "The Curse of Life"
+  },
+  {
+    "id": 1498,
+    "name": "Glad I Said It"
+  },
+  {
+    "id": 1499,
+    "name": "The Man at Fate's Mercy"
+  },
+  {
+    "id": 1500,
+    "name": "Awakening of the Great Shinryu"
+  },
+  {
+    "id": 1501,
+    "name": "Getting Older"
+  },
+  {
+    "id": 1502,
+    "name": "Gradations of Good and Evil"
+  },
+  {
+    "id": 1503,
+    "name": "World of Illusions Ultimate"
+  },
+  {
+    "id": 1504,
+    "name": "Harp's Timbre"
+  },
+  {
+    "id": 1505,
+    "name": "The Bard Edward"
+  },
+  {
+    "id": 1506,
+    "name": "Courageous Heart"
+  },
+  {
+    "id": 1507,
+    "name": "Lost Old Man"
+  },
+  {
+    "id": 1508,
+    "name": "An Amazing Mage"
+  },
+  {
+    "id": 1509,
+    "name": "Dreams are Forever"
+  },
+  {
+    "id": 1510,
+    "name": "Land of No Respite"
+  },
+  {
+    "id": 1511,
+    "name": "The Great Shinryu"
+  },
+  {
+    "id": 1512,
+    "name": "Beginning of the End"
+  },
+  {
+    "id": 1513,
+    "name": "Unwanted Rule"
+  },
+  {
+    "id": 1514,
+    "name": "Imperfect、 but Going Forward"
+  },
+  {
+    "id": 1515,
+    "name": "Price of Freedom"
+  },
+  {
+    "id": 1516,
+    "name": "The Hero's Wing"
+  },
+  {
+    "id": 1517,
+    "name": "Ruin、 Destruction、 Nothingness"
+  },
+  {
+    "id": 1518,
+    "name": "Beloved、 Fleeting Future"
+  },
+  {
+    "id": 1519,
+    "name": "Memories Won't Disappear"
+  },
+  {
+    "id": 1520,
+    "name": "Proof of Strife"
+  },
+  {
+    "id": 1521,
+    "name": "Strength of Will"
+  },
+  {
+    "id": 1522,
+    "name": "Divided Will"
+  },
+  {
+    "id": 1523,
+    "name": "Memories in our Hearts"
+  },
+  {
+    "id": 1524,
+    "name": "Compass of Light"
+  },
+  {
+    "id": 1525,
+    "name": "A Guiding Presence"
+  },
+  {
+    "id": 1526,
+    "name": "The Forgotten Man"
+  },
+  {
+    "id": 1527,
+    "name": "A Continuing Dream"
+  },
+  {
+    "id": 1528,
+    "name": "Feral Youth"
+  },
+  {
+    "id": 1529,
+    "name": "Our Friend"
+  },
+  {
+    "id": 1530,
+    "name": "Me Hungry"
+  },
+  {
+    "id": 1531,
+    "name": "Special Training"
+  },
+  {
+    "id": 1532,
+    "name": "Together Again"
+  },
+  {
+    "id": 1533,
+    "name": "Spare Me"
+  },
+  {
+    "id": 1534,
+    "name": "Mission Accomplished"
+  },
+  {
+    "id": 1535,
+    "name": "Let Our Fists Do the Talking"
+  },
+  {
+    "id": 1536,
+    "name": "Mighty Minis!?"
+  },
+  {
+    "id": 1537,
+    "name": "Prepare Yourself"
+  },
+  {
+    "id": 1538,
+    "name": "Encounter in Another World"
+  },
+  {
+    "id": 1539,
+    "name": "At All Costs"
+  },
+  {
+    "id": 1540,
+    "name": "Everyday Excitement"
+  },
+  {
+    "id": 1541,
+    "name": "World of Illusions Ultimate"
+  },
+  {
+    "id": 1542,
+    "name": "Unreasonable"
+  },
+  {
+    "id": 1543,
+    "name": "Point of Antagonism"
+  },
+  {
+    "id": 1544,
+    "name": "Brotherly Thoughts"
+  },
+  {
+    "id": 1545,
+    "name": "Brother's Schemes"
+  },
+  {
+    "id": 1546,
+    "name": "To React in Kind"
+  },
+  {
+    "id": 1547,
+    "name": "Setting Out"
+  },
+  {
+    "id": 1548,
+    "name": "Pleasant Meetings"
+  },
+  {
+    "id": 1549,
+    "name": "Memories"
+  },
+  {
+    "id": 1550,
+    "name": "Similarities in Different Worlds"
+  },
+  {
+    "id": 1551,
+    "name": "Silver Lining"
+  },
+  {
+    "id": 1552,
+    "name": "The Man with Red Hair"
+  },
+  {
+    "id": 1553,
+    "name": "Poking Around"
+  },
+  {
+    "id": 1554,
+    "name": "Unimaginable Reunion"
+  },
+  {
+    "id": 1555,
+    "name": "The Man in Shades"
+  },
+  {
+    "id": 1556,
+    "name": "Future Mission"
+  },
+  {
+    "id": 1557,
+    "name": "On or Off"
+  },
+  {
+    "id": 1558,
+    "name": "Moths to a Flame"
+  },
+  {
+    "id": 1559,
+    "name": "The Hero is Always Late"
+  },
+  {
+    "id": 1560,
+    "name": "Vantage of the Void"
+  },
+  {
+    "id": 1561,
+    "name": "Dolls of Darkness"
+  },
+  {
+    "id": 1562,
+    "name": "Villain Through and Through"
+  },
+  {
+    "id": 1563,
+    "name": "Two Guardians"
+  },
+  {
+    "id": 1564,
+    "name": "Words of Lasting Faith"
+  },
+  {
+    "id": 1565,
+    "name": "Eternal Oath"
+  },
+  {
+    "id": 1566,
+    "name": "Cycle of Fate"
+  },
+  {
+    "id": 1567,
+    "name": "Master & Protégé"
+  },
+  {
+    "id": 1568,
+    "name": "Katana Wounds"
+  },
+  {
+    "id": 1569,
+    "name": "Team Effort"
+  },
+  {
+    "id": 1570,
+    "name": "To Be Cool"
+  },
+  {
+    "id": 1571,
+    "name": "Getting Scolded"
+  },
+  {
+    "id": 1572,
+    "name": "Top Secret Meeting"
+  },
+  {
+    "id": 1573,
+    "name": "The Princess's Guard"
+  },
+  {
+    "id": 1574,
+    "name": "Hundred-Knight Killer Beatrix"
+  },
+  {
+    "id": 1575,
+    "name": "Roses of May"
+  },
+  {
+    "id": 1576,
+    "name": "Master and Servant"
+  },
+  {
+    "id": 1577,
+    "name": "A Good Rival"
+  },
+  {
+    "id": 1578,
+    "name": "Meeting in the Forest"
+  },
+  {
+    "id": 1579,
+    "name": "Princess of Adoulin"
+  },
+  {
+    "id": 1580,
+    "name": "Forest Witch"
+  },
+  {
+    "id": 1581,
+    "name": "Psst..."
+  },
+  {
+    "id": 1582,
+    "name": "Sweets!"
+  },
+  {
+    "id": 1583,
+    "name": "Nature's Plea"
+  },
+  {
+    "id": 1584,
+    "name": "Big Arms、 Big Heart"
+  },
+  {
+    "id": 1585,
+    "name": "A Good Talker"
+  },
+  {
+    "id": 1586,
+    "name": "Shrewd Rebel"
+  },
+  {
+    "id": 1587,
+    "name": "The Way of Partners"
+  },
+  {
+    "id": 1588,
+    "name": "Breaking Barriers"
+  },
+  {
+    "id": 1589,
+    "name": "Nothing but Trouble"
+  },
+  {
+    "id": 1590,
+    "name": "Into the Open World"
+  },
+  {
+    "id": 1591,
+    "name": "Contact"
+  },
+  {
+    "id": 1592,
+    "name": "The Means to an End"
+  },
+  {
+    "id": 1593,
+    "name": "Ambition Revealed"
+  },
+  {
+    "id": 1594,
+    "name": "Working Relationship"
+  },
+  {
+    "id": 1595,
+    "name": "The Principle in My Hand"
+  },
+  {
+    "id": 1596,
+    "name": "A Solitary Youth"
+  },
+  {
+    "id": 1597,
+    "name": "Reunited with Trey"
+  },
+  {
+    "id": 1598,
+    "name": "The Endless Pursuit of Knowledge"
+  },
+  {
+    "id": 1599,
+    "name": "Worlds Unknown"
+  },
+  {
+    "id": 1600,
+    "name": "Idle Chitchat"
+  },
+  {
+    "id": 1601,
+    "name": "In the New World"
+  },
+  {
+    "id": 1602,
+    "name": "The Dark Lord's Return"
+  },
+  {
+    "id": 1603,
+    "name": "Here to Serve"
+  },
+  {
+    "id": 1604,
+    "name": "Into a New World"
+  },
+  {
+    "id": 1605,
+    "name": "The Job He Gave Me"
+  },
+  {
+    "id": 1606,
+    "name": "Search!"
+  },
+  {
+    "id": 1607,
+    "name": "The World's Flood of Light"
+  },
+  {
+    "id": 1608,
+    "name": "If He Were Here"
+  },
+  {
+    "id": 1609,
+    "name": "The Light is with Him"
+  },
+  {
+    "id": 1610,
+    "name": "Life that would Extinguish"
+  },
+  {
+    "id": 1611,
+    "name": "Not Leaving Anyone Else Behind"
+  },
+  {
+    "id": 1612,
+    "name": "World of Floods"
+  },
+  {
+    "id": 1613,
+    "name": "I Do Understand"
+  },
+  {
+    "id": 1614,
+    "name": "You're No One's Replacement"
+  },
+  {
+    "id": 1615,
+    "name": "Wishes into Hope"
+  },
+  {
+    "id": 1616,
+    "name": "Embracing Hope"
+  },
+  {
+    "id": 1617,
+    "name": "Journey of our Own"
+  },
+  {
+    "id": 1618,
+    "name": "Closed Light"
+  },
+  {
+    "id": 1619,
+    "name": "Mission Dungeon"
+  },
+  {
+    "id": 1620,
+    "name": "World of Illusions Divine: Diabolos"
+  },
+  {
+    "id": 1621,
+    "name": "At My Back"
+  },
+  {
+    "id": 1622,
+    "name": "Encounter"
+  },
+  {
+    "id": 1623,
+    "name": "Fragment of Memories"
+  },
+  {
+    "id": 1624,
+    "name": "Weight of Time"
+  },
+  {
+    "id": 1625,
+    "name": "Imprisoned King"
+  },
+  {
+    "id": 1626,
+    "name": "For What We Must Do"
+  },
+  {
+    "id": 1627,
+    "name": "The Hero's Son"
+  },
+  {
+    "id": 1628,
+    "name": "Don't Leave Me Behind"
+  },
+  {
+    "id": 1629,
+    "name": "Protectors of the Seal"
+  },
+  {
+    "id": 1630,
+    "name": "Together"
+  },
+  {
+    "id": 1631,
+    "name": "Seal of Light"
+  },
+  {
+    "id": 1632,
+    "name": "Encroachment of Darkness"
+  },
+  {
+    "id": 1633,
+    "name": "Release"
+  },
+  {
+    "id": 1634,
+    "name": "The King and Me"
+  },
+  {
+    "id": 1635,
+    "name": "Warriors' Memories"
+  },
+  {
+    "id": 1636,
+    "name": "Exiled Hermit"
+  },
+  {
+    "id": 1637,
+    "name": "Perfect Timing"
+  },
+  {
+    "id": 1638,
+    "name": "Entrusted Hopes & Results"
+  },
+  {
+    "id": 1639,
+    "name": "Gifted Power's Significance"
+  },
+  {
+    "id": 1640,
+    "name": "Singular but Not Solitary"
+  },
+  {
+    "id": 1641,
+    "name": "Amnesia?"
+  },
+  {
+    "id": 1642,
+    "name": "Running Away...Again"
+  },
+  {
+    "id": 1643,
+    "name": "Partner"
+  },
+  {
+    "id": 1644,
+    "name": "A Task at Hand"
+  },
+  {
+    "id": 1645,
+    "name": "The Road Home"
+  },
+  {
+    "id": 1646,
+    "name": "Flying Spear"
+  },
+  {
+    "id": 1647,
+    "name": "Foul-Mouthed Cadet"
+  },
+  {
+    "id": 1648,
+    "name": "Impulsive as Ever"
+  },
+  {
+    "id": 1649,
+    "name": "Words Rough and Kind"
+  },
+  {
+    "id": 1650,
+    "name": "In Theory and In Practice"
+  },
+  {
+    "id": 1651,
+    "name": "Harp's Timbre"
+  },
+  {
+    "id": 1652,
+    "name": "The Bard Edward"
+  },
+  {
+    "id": 1653,
+    "name": "Courageous Heart"
+  },
+  {
+    "id": 1654,
+    "name": "Psst..."
+  },
+  {
+    "id": 1655,
+    "name": "Wholeheartedly"
+  },
+  {
+    "id": 1656,
+    "name": "Encounter in Another World"
+  },
+  {
+    "id": 1657,
+    "name": "At All Costs"
+  },
+  {
+    "id": 1658,
+    "name": "Everyday Excitement"
+  },
+  {
+    "id": 1659,
+    "name": "A Road Less Similar"
+  },
+  {
+    "id": 1660,
+    "name": "Like a Brother"
+  },
+  {
+    "id": 1661,
+    "name": "Soaring Memories"
+  },
+  {
+    "id": 1662,
+    "name": "Partings and Meetings"
+  },
+  {
+    "id": 1663,
+    "name": "A Sole Adventurer"
+  },
+  {
+    "id": 1664,
+    "name": "Generals"
+  },
+  {
+    "id": 1665,
+    "name": "Sealed Space"
+  },
+  {
+    "id": 1666,
+    "name": "Without Something to Defend"
+  },
+  {
+    "id": 1667,
+    "name": "Just the Two of Us"
+  },
+  {
+    "id": 1668,
+    "name": "To the Treasure"
+  },
+  {
+    "id": 1669,
+    "name": "The Faintest Ray of Light"
+  },
+  {
+    "id": 1670,
+    "name": "A Shadow in Our Path"
+  },
+  {
+    "id": 1671,
+    "name": "The Shadow's Client"
+  },
+  {
+    "id": 1672,
+    "name": "Brief Party"
+  },
+  {
+    "id": 1673,
+    "name": "Opened Road"
+  },
+  {
+    "id": 1674,
+    "name": "Kind One"
+  },
+  {
+    "id": 1675,
+    "name": "One-Moogle Army"
+  },
+  {
+    "id": 1676,
+    "name": "World of Illusions Divine: Ramuh"
+  },
+  {
+    "id": 1677,
+    "name": "Lost Old Man"
+  },
+  {
+    "id": 1678,
+    "name": "An Amazing Mage"
+  },
+  {
+    "id": 1679,
+    "name": "Dreams are Forever"
+  },
+  {
+    "id": 1680,
+    "name": "So Many Grandkids!"
+  },
+  {
+    "id": 1681,
+    "name": "The Root of Power"
+  },
+  {
+    "id": 1682,
+    "name": "In Search of Hope"
+  },
+  {
+    "id": 1683,
+    "name": "Reunited with Mog"
+  },
+  {
+    "id": 1684,
+    "name": "I'm a TREASURE HUNTER"
+  },
+  {
+    "id": 1685,
+    "name": "Haunted by Treasure"
+  },
+  {
+    "id": 1686,
+    "name": "Party"
+  },
+  {
+    "id": 1687,
+    "name": "Call of the Dark"
+  },
+  {
+    "id": 1688,
+    "name": "Facing Forward"
+  },
+  {
+    "id": 1689,
+    "name": "A Peculiar Trio"
+  },
+  {
+    "id": 1690,
+    "name": "Fragment of Memory"
+  },
+  {
+    "id": 1691,
+    "name": "Important Memories"
+  },
+  {
+    "id": 1692,
+    "name": "Erosion of Darkness"
+  },
+  {
+    "id": 1693,
+    "name": "Resurrected Wings"
+  },
+  {
+    "id": 1694,
+    "name": "Searching for Friends"
+  },
+  {
+    "id": 1695,
+    "name": "Where the Compass Points"
+  },
+  {
+    "id": 1696,
+    "name": "Mog's Will"
+  },
+  {
+    "id": 1697,
+    "name": "A Guiding Presence"
+  },
+  {
+    "id": 1698,
+    "name": "The Forgotten Man"
+  },
+  {
+    "id": 1699,
+    "name": "A Continuing Dream"
+  },
+  {
+    "id": 1700,
+    "name": "The Teacher Must Learn"
+  },
+  {
+    "id": 1701,
+    "name": "The Secrets of Silent Types"
+  },
+  {
+    "id": 1702,
+    "name": "The Man with Red Hair"
+  },
+  {
+    "id": 1703,
+    "name": "Poking Around"
+  },
+  {
+    "id": 1704,
+    "name": "Unimaginable Reunion"
+  },
+  {
+    "id": 1705,
+    "name": "Another Side"
+  },
+  {
+    "id": 1706,
+    "name": "Way Back When"
+  },
+  {
+    "id": 1707,
+    "name": "The Man in Shades"
+  },
+  {
+    "id": 1708,
+    "name": "Future Mission"
+  },
+  {
+    "id": 1709,
+    "name": "On or Off"
+  },
+  {
+    "id": 1710,
+    "name": "A Rude Silhouette"
+  },
+  {
+    "id": 1711,
+    "name": "Choice Gear"
+  },
+  {
+    "id": 1712,
+    "name": "In the New World"
+  },
+  {
+    "id": 1713,
+    "name": "The Dark Lord's Return"
+  },
+  {
+    "id": 1714,
+    "name": "Here to Serve"
+  },
+  {
+    "id": 1715,
+    "name": "Eternal Longing"
+  },
+  {
+    "id": 1716,
+    "name": "Great Mage's Disciple"
+  },
+  {
+    "id": 1717,
+    "name": "Nature's Plea"
+  },
+  {
+    "id": 1718,
+    "name": "Big Arms、 Big Heart"
+  },
+  {
+    "id": 1719,
+    "name": "A Good Talker"
+  },
+  {
+    "id": 1720,
+    "name": "Neighboring Warmth"
+  },
+  {
+    "id": 1721,
+    "name": "Better Together"
+  },
+  {
+    "id": 1722,
+    "name": "Mobile Commodore"
+  },
+  {
+    "id": 1723,
+    "name": "Crossing Boundaries"
+  },
+  {
+    "id": 1724,
+    "name": "Formidable Ally"
+  },
+  {
+    "id": 1725,
+    "name": "Expert of Aerial Combat"
+  },
+  {
+    "id": 1726,
+    "name": "The Path of a Mercenary"
+  },
+  {
+    "id": 1727,
+    "name": "World of Illusions Divine: Alexander"
+  },
+  {
+    "id": 1728,
+    "name": "Merciless Twin Blades"
+  },
+  {
+    "id": 1729,
+    "name": "Unfamiliar Brother"
+  },
+  {
+    "id": 1730,
+    "name": "Eventual Salvation"
+  },
+  {
+    "id": 1731,
+    "name": "Iroha"
+  },
+  {
+    "id": 1732,
+    "name": "An Earnest Wish"
+  },
+  {
+    "id": 1733,
+    "name": "Academia"
+  },
+  {
+    "id": 1734,
+    "name": "Shattered Hope"
+  },
+  {
+    "id": 1735,
+    "name": "Master and Disciple"
+  },
+  {
+    "id": 1736,
+    "name": "Where the Light Shines"
+  },
+  {
+    "id": 1737,
+    "name": "Obstructing Silt"
+  },
+  {
+    "id": 1738,
+    "name": "Paying the Ultimate Price"
+  },
+  {
+    "id": 1739,
+    "name": "Serah、 Found"
+  },
+  {
+    "id": 1740,
+    "name": "Reunited with Hope"
+  },
+  {
+    "id": 1741,
+    "name": "Goodbye、 Light"
+  },
+  {
+    "id": 1742,
+    "name": "Chaos Bahamut"
+  },
+  {
+    "id": 1743,
+    "name": "To the Island"
+  },
+  {
+    "id": 1744,
+    "name": "At Torsion's End"
+  },
+  {
+    "id": 1745,
+    "name": "His Dark Memories"
+  },
+  {
+    "id": 1746,
+    "name": "The Far East"
+  },
+  {
+    "id": 1747,
+    "name": "Memories of Light"
+  },
+  {
+    "id": 1748,
+    "name": "Priestess of Reisenjima"
+  },
+  {
+    "id": 1749,
+    "name": "Searching for Lost Memories"
+  },
+  {
+    "id": 1750,
+    "name": "Children of Light"
+  },
+  {
+    "id": 1751,
+    "name": "Incomplete Fragment"
+  },
+  {
+    "id": 1752,
+    "name": "Just the Three of Us"
+  },
+  {
+    "id": 1753,
+    "name": "Protecting Past and Future"
+  },
+  {
+    "id": 1754,
+    "name": "How We Parted"
+  },
+  {
+    "id": 1755,
+    "name": "Trials of Phoenix"
+  },
+  {
+    "id": 1756,
+    "name": "Completed Fragment"
+  },
+  {
+    "id": 1757,
+    "name": "Light Grows Bright"
+  },
+  {
+    "id": 1758,
+    "name": "The Journey Continues"
+  },
+  {
+    "id": 1759,
+    "name": "Can't Fight on Empty"
+  },
+  {
+    "id": 1760,
+    "name": "Why it Chose You"
+  },
+  {
+    "id": 1761,
+    "name": "Merciless Twin Blades"
+  },
+  {
+    "id": 1762,
+    "name": "Unfamiliar Brother"
+  },
+  {
+    "id": 1763,
+    "name": "Eventual Salvation"
+  },
+  {
+    "id": 1764,
+    "name": "All for Mother"
+  },
+  {
+    "id": 1765,
+    "name": "Thought Shaping Existence"
+  },
+  {
+    "id": 1766,
+    "name": "World of Illusions Divine: The Brothers"
+  },
+  {
+    "id": 1767,
+    "name": "Memories Entwined"
+  },
+  {
+    "id": 1768,
+    "name": "Reunited at Last"
+  },
+  {
+    "id": 1769,
+    "name": "A Clear Heart"
+  },
+  {
+    "id": 1770,
+    "name": "The Airship Arrives"
+  },
+  {
+    "id": 1771,
+    "name": "Waken from Slumber"
+  },
+  {
+    "id": 1772,
+    "name": "Our Fault"
+  },
+  {
+    "id": 1773,
+    "name": "Painful Memories"
+  },
+  {
+    "id": 1774,
+    "name": "What We Leave Behind"
+  },
+  {
+    "id": 1775,
+    "name": "Regrets"
+  },
+  {
+    "id": 1776,
+    "name": "Compasses Alight"
+  },
+  {
+    "id": 1777,
+    "name": "In Search of Answers"
+  },
+  {
+    "id": 1778,
+    "name": "Immersed in Memories"
+  },
+  {
+    "id": 1779,
+    "name": "Resolve of the Fallen"
+  },
+  {
+    "id": 1780,
+    "name": "Your World"
+  },
+  {
+    "id": 1781,
+    "name": "Dispelling Doubt"
+  },
+  {
+    "id": 1782,
+    "name": "One Last Task"
+  },
+  {
+    "id": 1783,
+    "name": "One Step Ahead"
+  },
+  {
+    "id": 1784,
+    "name": "Transient Knight"
+  },
+  {
+    "id": 1785,
+    "name": "An Odd Pair"
+  },
+  {
+    "id": 1786,
+    "name": "Can't Help but Worry"
+  },
+  {
+    "id": 1787,
+    "name": "Roses of May"
+  },
+  {
+    "id": 1788,
+    "name": "Envious Sorceress"
+  },
+  {
+    "id": 1789,
+    "name": "All Alone"
+  },
+  {
+    "id": 1790,
+    "name": "Airship and Allies"
+  },
+  {
+    "id": 1791,
+    "name": "Town of Torsions"
+  },
+  {
+    "id": 1792,
+    "name": "Where it All Began"
+  },
+  {
+    "id": 1793,
+    "name": "Where We Met"
+  },
+  {
+    "id": 1794,
+    "name": "A Kingdom Worth Protecting"
+  },
+  {
+    "id": 1795,
+    "name": "Mistodons"
+  },
+  {
+    "id": 1796,
+    "name": "Sorceress of Wrath and Spite"
+  },
+  {
+    "id": 1797,
+    "name": "Sorceress Spurned"
+  },
+  {
+    "id": 1798,
+    "name": "While I Live"
+  },
+  {
+    "id": 1799,
+    "name": "Balance of Light and Dark"
+  },
+  {
+    "id": 1800,
+    "name": "World of Illusions Divine: Pandemonium"
+  },
+  {
+    "id": 1801,
+    "name": "A Puppet's Fate"
+  },
+  {
+    "id": 1802,
+    "name": "Shattered Yoke"
+  },
+  {
+    "id": 1803,
+    "name": "Even in a Hopeless Future"
+  },
+  {
+    "id": 1804,
+    "name": "Beyond the Dive"
+  },
+  {
+    "id": 1805,
+    "name": "What Links Us"
+  },
+  {
+    "id": 1806,
+    "name": "The Reason for Caring"
+  },
+  {
+    "id": 1807,
+    "name": "Mission Dungeon"
+  },
+  {
+    "id": 1808,
+    "name": "Two Too Close"
+  },
+  {
+    "id": 1809,
+    "name": "If Something's Troubling"
+  },
+  {
+    "id": 1810,
+    "name": "Just Like Back Then"
+  },
+  {
+    "id": 1811,
+    "name": "Thinking of You"
+  },
+  {
+    "id": 1812,
+    "name": "What Was Confirmed"
+  },
+  {
+    "id": 1813,
+    "name": "World of Illusions Divine: Shiva"
+  },
+  {
+    "id": 1814,
+    "name": "Like Master、 Like Pupil"
+  },
+  {
+    "id": 1815,
+    "name": "Leaving the Nest"
+  },
+  {
+    "id": 1816,
+    "name": "Counterstrike"
+  },
+  {
+    "id": 1817,
+    "name": "Prior Wounds"
+  },
+  {
+    "id": 1818,
+    "name": "Mutual Growth"
+  },
+  {
+    "id": 1819,
+    "name": "Relics"
+  },
+  {
+    "id": 1820,
+    "name": "Casting Relics"
+  },
+  {
+    "id": 1821,
+    "name": "Sublimating Relics"
+  },
+  {
+    "id": 1822,
+    "name": "Sublimating Relics – Ad Ultimum"
+  },
+  {
+    "id": 1823,
+    "name": "Evasive Existence"
+  },
+  {
+    "id": 1824,
+    "name": "Gathering Point"
+  },
+  {
+    "id": 1825,
+    "name": "Pitiable Guidepost"
+  },
+  {
+    "id": 1826,
+    "name": "Arrogating Divinity"
+  },
+  {
+    "id": 1827,
+    "name": "Right Arm of Crimson"
+  },
+  {
+    "id": 1828,
+    "name": "Fragile Conspiracy"
+  },
+  {
+    "id": 1829,
+    "name": "Unvanishing Thorns"
+  },
+  {
+    "id": 1830,
+    "name": "Flashback"
+  },
+  {
+    "id": 1831,
+    "name": "World's Wish"
+  },
+  {
+    "id": 1832,
+    "name": "Calm Hearts"
+  },
+  {
+    "id": 1833,
+    "name": "Days Past"
+  },
+  {
+    "id": 1834,
+    "name": "Crystal Resonance"
+  },
+  {
+    "id": 1835,
+    "name": "Loss of Light"
+  },
+  {
+    "id": 1836,
+    "name": "Too Much Power"
+  },
+  {
+    "id": 1837,
+    "name": "Tardy Champions"
+  },
+  {
+    "id": 1838,
+    "name": "Castle from the Rift"
+  },
+  {
+    "id": 1839,
+    "name": "Greedy Undertaking"
+  },
+  {
+    "id": 1840,
+    "name": "Silent Needle"
+  },
+  {
+    "id": 1841,
+    "name": "Principle Disturbed"
+  },
+  {
+    "id": 1842,
+    "name": "Plans Laid"
+  },
+  {
+    "id": 1843,
+    "name": "Precious Memory"
+  },
+  {
+    "id": 1844,
+    "name": "Illuminated Imitation"
+  },
+  {
+    "id": 1845,
+    "name": "Crystal Impurity"
+  },
+  {
+    "id": 1846,
+    "name": "Transient Reunion"
+  },
+  {
+    "id": 1847,
+    "name": "Bearing Feelings"
+  },
+  {
+    "id": 1848,
+    "name": "Foreseen Plot"
+  },
+  {
+    "id": 1849,
+    "name": "Weighing Power"
+  },
+  {
+    "id": 1850,
+    "name": "Delicate Light"
+  },
+  {
+    "id": 1851,
+    "name": "Faint Outline"
+  },
+  {
+    "id": 1852,
+    "name": "Memories of Beginnings"
+  },
+  {
+    "id": 1853,
+    "name": "Mission Dungeon"
+  },
+  {
+    "id": 1854,
+    "name": "Heart of the Lion"
+  },
+  {
+    "id": 1855,
+    "name": "In Service to Kings"
+  },
+  {
+    "id": 1856,
+    "name": "The Immortal's Alias"
+  },
+  {
+    "id": 1857,
+    "name": "Clinging to Faint Light"
+  },
+  {
+    "id": 1858,
+    "name": "A Troubled Heart and a Warning"
+  },
+  {
+    "id": 1859,
+    "name": "Whisper of Chaos"
+  },
+  {
+    "id": 1860,
+    "name": "Lured to Reality"
+  },
+  {
+    "id": 1861,
+    "name": "Even a Foolish Choice..."
+  },
+  {
+    "id": 1862,
+    "name": "The Straight and Martial"
+  },
+  {
+    "id": 1863,
+    "name": "Reunited with Father"
+  },
+  {
+    "id": 1864,
+    "name": "Heart in Fist"
+  },
+  {
+    "id": 1865,
+    "name": "World of Illusions Divine: Ifrit"
+  },
+  {
+    "id": 1866,
+    "name": "Memories Entwined"
+  },
+  {
+    "id": 1867,
+    "name": "Reunited at Last"
+  },
+  {
+    "id": 1868,
+    "name": "A Clear Heart"
+  },
+  {
+    "id": 1869,
+    "name": "School Days"
+  },
+  {
+    "id": 1870,
+    "name": "Awakening the Demoness"
+  },
+  {
+    "id": 1871,
+    "name": "Winged Explorer"
+  },
+  {
+    "id": 1872,
+    "name": "In Search of \"Treasure\""
+  },
+  {
+    "id": 1873,
+    "name": "The Soulless Race"
+  },
+  {
+    "id": 1874,
+    "name": "Man of Many Faces"
+  },
+  {
+    "id": 1875,
+    "name": "Image Investigation"
+  },
+  {
+    "id": 1876,
+    "name": "Ever Intrigued"
+  },
+  {
+    "id": 1877,
+    "name": "Appraising Eye"
+  },
+  {
+    "id": 1878,
+    "name": "Where's \"Right\"?"
+  },
+  {
+    "id": 1879,
+    "name": "For Watching Out for Us"
+  },
+  {
+    "id": 1880,
+    "name": "A-Hunting and Gathering We Will Go"
+  },
+  {
+    "id": 1881,
+    "name": "Buried、 but Not Gone"
+  },
+  {
+    "id": 1882,
+    "name": "More Remains than Just Pain"
+  },
+  {
+    "id": 1883,
+    "name": "With Feelings Warm"
+  },
+  {
+    "id": 1884,
+    "name": "Curious Happenstance"
+  },
+  {
+    "id": 1885,
+    "name": "Fiendish and Cruel"
+  },
+  {
+    "id": 1886,
+    "name": "Fellow Secrets"
+  },
+  {
+    "id": 1887,
+    "name": "Clinging Shadows"
+  },
+  {
+    "id": 1888,
+    "name": "Even If Brought to Light"
+  },
+  {
+    "id": 1889,
+    "name": "Familial Fences"
+  },
+  {
+    "id": 1890,
+    "name": "Inextricable Darkness"
+  },
+  {
+    "id": 1891,
+    "name": "As a Light Knight"
+  },
+  {
+    "id": 1892,
+    "name": "Raise the Flag of Rebellion"
+  },
+  {
+    "id": 1893,
+    "name": "With the Sins I Carry"
+  },
+  {
+    "id": 1894,
+    "name": "Fated to Resist"
+  },
+  {
+    "id": 1895,
+    "name": "Coup d'État"
+  },
+  {
+    "id": 1896,
+    "name": "Continuing Resentment"
+  },
+  {
+    "id": 1897,
+    "name": "Nothing Pricier than Free"
+  },
+  {
+    "id": 1898,
+    "name": "Ultimate Power"
+  },
+  {
+    "id": 1899,
+    "name": "Return from Hell"
+  },
+  {
+    "id": 1900,
+    "name": "Pandaemonium Resurrected"
+  },
+  {
+    "id": 1901,
+    "name": "Nominal Strategy Session"
+  },
+  {
+    "id": 1902,
+    "name": "A Bad Feeling"
+  },
+  {
+    "id": 1903,
+    "name": "One Step at a Time"
+  },
+  {
+    "id": 1904,
+    "name": "Solo Mission"
+  },
+  {
+    "id": 1905,
+    "name": "Unilateral Deserts"
+  },
+  {
+    "id": 1906,
+    "name": "To His Side"
+  },
+  {
+    "id": 1907,
+    "name": "To the Light"
+  },
+  {
+    "id": 1908,
+    "name": "Single Will"
+  },
+  {
+    "id": 1909,
+    "name": "Lit Brand"
+  },
+  {
+    "id": 1910,
+    "name": "Darkness from the Abyss"
+  },
+  {
+    "id": 1911,
+    "name": "Pact with a Guide"
+  },
+  {
+    "id": 1912,
+    "name": "Tortured Relationship"
+  },
+  {
+    "id": 1913,
+    "name": "Another Cadet"
+  },
+  {
+    "id": 1914,
+    "name": "In Search of Treasure"
+  },
+  {
+    "id": 1915,
+    "name": "Him、 Forgotten"
+  },
+  {
+    "id": 1916,
+    "name": "Starting Party"
+  },
+  {
+    "id": 1917,
+    "name": "Looking Back"
+  },
+  {
+    "id": 1918,
+    "name": "Links"
+  },
+  {
+    "id": 1919,
+    "name": "Warrior of Hope"
+  },
+  {
+    "id": 1920,
+    "name": "World of Illusions Divine: Leviathan"
+  },
+  {
+    "id": 1921,
+    "name": "A Puppet's Fate"
+  },
+  {
+    "id": 1922,
+    "name": "Shattered Yoke"
+  },
+  {
+    "id": 1923,
+    "name": "Even in a Hopeless Future"
+  },
+  {
+    "id": 1924,
+    "name": "Past Ambition"
+  },
+  {
+    "id": 1925,
+    "name": "Weighing Options"
+  },
+  {
+    "id": 1926,
+    "name": "Another World's God"
+  },
+  {
+    "id": 1927,
+    "name": "A Casual Visitor"
+  },
+  {
+    "id": 1928,
+    "name": "God's Policy"
+  },
+  {
+    "id": 1929,
+    "name": "Mismatched Memories"
+  },
+  {
+    "id": 1930,
+    "name": "An Unreassuring Quiz"
+  },
+  {
+    "id": 1931,
+    "name": "What to Trust"
+  },
+  {
+    "id": 1932,
+    "name": "More than Allies"
+  },
+  {
+    "id": 1933,
+    "name": "Lost Conviction"
+  },
+  {
+    "id": 1934,
+    "name": "Is Suspicion Necessary?"
+  },
+  {
+    "id": 1935,
+    "name": "Empty Wish"
+  },
+  {
+    "id": 1936,
+    "name": "For a Sweet Respite"
+  },
+  {
+    "id": 1937,
+    "name": "Twisting Salvation"
+  },
+  {
+    "id": 1938,
+    "name": "A Lynchpin Wedged into the World"
+  },
+  {
+    "id": 1939,
+    "name": "In Ruin"
+  },
+  {
+    "id": 1940,
+    "name": "Ruin's Pleasure"
+  },
+  {
+    "id": 1941,
+    "name": "The One Coming to This World"
+  },
+  {
+    "id": 1942,
+    "name": "Signs of Destruction"
+  },
+  {
+    "id": 1943,
+    "name": "Saving Fun for Later"
+  },
+  {
+    "id": 1944,
+    "name": "No Time to Reminisce"
+  },
+  {
+    "id": 1945,
+    "name": "Godkiller"
+  },
+  {
+    "id": 1946,
+    "name": "Temporary Withdrawal"
+  },
+  {
+    "id": 1947,
+    "name": "Attracted Compasses"
+  },
+  {
+    "id": 1948,
+    "name": "Loss of Light"
+  },
+  {
+    "id": 1949,
+    "name": "Showtime"
+  },
+  {
+    "id": 1950,
+    "name": "Wounded Deity"
+  },
+  {
+    "id": 1951,
+    "name": "Every Compass"
+  },
+  {
+    "id": 1952,
+    "name": "Friend and Foe"
+  },
+  {
+    "id": 1953,
+    "name": "Defenders of the Planet"
+  },
+  {
+    "id": 1954,
+    "name": "Fragments of Silt and Memories"
+  },
+  {
+    "id": 1955,
+    "name": "Lost Compass"
+  },
+  {
+    "id": 1956,
+    "name": "Won't Lose a Thing"
+  },
+  {
+    "id": 1957,
+    "name": "Turks Operations"
+  },
+  {
+    "id": 1958,
+    "name": "Thoughts Growing in Strength"
+  },
+  {
+    "id": 1959,
+    "name": "Found、 or An Encounter"
+  },
+  {
+    "id": 1960,
+    "name": "Reclaiming Fragments"
+  },
+  {
+    "id": 1961,
+    "name": "Reclaimed Memories"
+  },
+  {
+    "id": 1962,
+    "name": "Fragment of Incomplete Memories"
+  },
+  {
+    "id": 1963,
+    "name": "Kept Promise"
+  },
+  {
+    "id": 1964,
+    "name": "Memorable Location"
+  },
+  {
+    "id": 1965,
+    "name": "Battle for the Compass"
+  },
+  {
+    "id": 1966,
+    "name": "Another Step"
+  },
+  {
+    "id": 1967,
+    "name": "Two Capable Personnel"
+  },
+  {
+    "id": 1968,
+    "name": "Ever Supportive"
+  },
+  {
+    "id": 1969,
+    "name": "Even If the Worlds Change"
+  },
+  {
+    "id": 1970,
+    "name": "Who Understands Me Best"
+  },
+  {
+    "id": 1971,
+    "name": "A Knight's Choice"
+  },
+  {
+    "id": 1972,
+    "name": "Wanting to Stay True Friends"
+  },
+  {
+    "id": 1973,
+    "name": "Our Dream"
+  },
+  {
+    "id": 1974,
+    "name": "Beyond the Dive"
+  },
+  {
+    "id": 1975,
+    "name": "What Links Us"
+  },
+  {
+    "id": 1976,
+    "name": "The Reason for Caring"
+  },
+  {
+    "id": 1977,
+    "name": "A Bond Unbreakable"
+  },
+  {
+    "id": 1978,
+    "name": "Just the Beginning"
+  },
+  {
+    "id": 1979,
+    "name": "The Vermillion Reunion"
+  },
+  {
+    "id": 1980,
+    "name": "A Fighting Spirit"
+  },
+  {
+    "id": 1981,
+    "name": "What Comes Next"
+  },
+  {
+    "id": 1982,
+    "name": "World of Illusions Divine: Bahamut"
+  },
+  {
+    "id": 1983,
+    "name": "Different Perspectives"
+  },
+  {
+    "id": 1984,
+    "name": "Mixed Feelings"
+  },
+  {
+    "id": 1985,
+    "name": "Some Things Never Change"
+  },
+  {
+    "id": 1986,
+    "name": "Upholding Beliefs"
+  },
+  {
+    "id": 1987,
+    "name": "Tears of the Day"
+  },
+  {
+    "id": 1988,
+    "name": "Words Without Voice"
+  },
+  {
+    "id": 1989,
+    "name": "What I Can Do"
+  },
+  {
+    "id": 1990,
+    "name": "With Power Received"
+  },
+  {
+    "id": 1991,
+    "name": "A Bridge for All"
+  },
+  {
+    "id": 1992,
+    "name": "A Little More Courage"
+  },
+  {
+    "id": 1993,
+    "name": "Sea of the Beginning"
+  },
+  {
+    "id": 1994,
+    "name": "Even the Impossible"
+  },
+  {
+    "id": 1995,
+    "name": "The Crossroads of Fate"
+  },
+  {
+    "id": 1996,
+    "name": "Mixed Blessings"
+  },
+  {
+    "id": 1997,
+    "name": "Remembrance of Shadows"
+  },
+  {
+    "id": 1998,
+    "name": "The Heart of the Journey"
+  },
+  {
+    "id": 1999,
+    "name": "Dreams of Peace"
+  },
+  {
+    "id": 2000,
+    "name": "A Friend Irreplaceable"
+  },
+  {
+    "id": 2001,
+    "name": "Vague Intentions"
+  },
+  {
+    "id": 2002,
+    "name": "United at Last"
+  },
+  {
+    "id": 2003,
+    "name": "Along the Way"
+  },
+  {
+    "id": 2004,
+    "name": "Just Like Before"
+  },
+  {
+    "id": 2005,
+    "name": "The Dream Continues"
+  },
+  {
+    "id": 2006,
+    "name": "Frayed Bonds"
+  },
+  {
+    "id": 2007,
+    "name": "For What Has Been Lost"
+  },
+  {
+    "id": 2008,
+    "name": "Through a Parting Gift"
+  },
+  {
+    "id": 2009,
+    "name": "Fragments of Sin"
+  },
+  {
+    "id": 2010,
+    "name": "Fear and Hope"
+  },
+  {
+    "id": 2011,
+    "name": "Awakening"
+  },
+  {
+    "id": 2012,
+    "name": "The Desired Future"
+  },
+  {
+    "id": 2013,
+    "name": "A String of Miracles"
+  },
+  {
+    "id": 2014,
+    "name": "What Connects Us"
+  },
+  {
+    "id": 2015,
+    "name": "An Unwelcome Guest"
+  },
+  {
+    "id": 2016,
+    "name": "Roots of Evil"
+  },
+  {
+    "id": 2017,
+    "name": "A Friend's Resolution"
+  },
+  {
+    "id": 2018,
+    "name": "There's Always a Chance"
+  },
+  {
+    "id": 2019,
+    "name": "Reflected Memories"
+  },
+  {
+    "id": 2020,
+    "name": "Path of Memories"
+  },
+  {
+    "id": 2021,
+    "name": "A Shape Unseen"
+  },
+  {
+    "id": 2022,
+    "name": "Sever the Spiral of Doubt"
+  },
+  {
+    "id": 2023,
+    "name": "Six-Warrior Quests"
+  },
+  {
+    "id": 2024,
+    "name": "A Sudden Invitation"
+  },
+  {
+    "id": 2025,
+    "name": "Just Like Before"
+  },
+  {
+    "id": 2026,
+    "name": "Through the Cracks"
+  },
+  {
+    "id": 2027,
+    "name": "As Long As I'm Me"
+  },
+  {
+    "id": 2028,
+    "name": "Because You're You"
+  },
+  {
+    "id": 2029,
+    "name": "The Straight and Martial"
+  },
+  {
+    "id": 2030,
+    "name": "Reunited with Father"
+  },
+  {
+    "id": 2031,
+    "name": "Heart in Fist"
+  },
+  {
+    "id": 2032,
+    "name": "A Diligent Pupil"
+  },
+  {
+    "id": 2033,
+    "name": "Healing Touch"
+  },
+  {
+    "id": 2034,
+    "name": "World of Illusions Divine: Odin"
+  },
+  {
+    "id": 2035,
+    "name": "Work in Secret"
+  },
+  {
+    "id": 2036,
+    "name": "To Be a Turk"
+  },
+  {
+    "id": 2037,
+    "name": "From Behind the Scenes"
+  },
+  {
+    "id": 2038,
+    "name": "When Accidents Happen"
+  },
+  {
+    "id": 2039,
+    "name": "Part of an Organization"
+  },
+  {
+    "id": 2040,
+    "name": "Scars That Don't Heal"
+  },
+  {
+    "id": 2041,
+    "name": "For a Future Free of Regret"
+  },
+  {
+    "id": 2042,
+    "name": "Tender Days"
+  },
+  {
+    "id": 2043,
+    "name": "In Master's Footsteps"
+  },
+  {
+    "id": 2044,
+    "name": "A Burden Borne Willingly"
+  },
+  {
+    "id": 2045,
+    "name": "The Crashing of Waves"
+  },
+  {
+    "id": 2046,
+    "name": "With Power Unbridled"
+  },
+  {
+    "id": 2047,
+    "name": "Born Pure of Heart"
+  },
+  {
+    "id": 2048,
+    "name": "Lost in Time"
+  },
+  {
+    "id": 2049,
+    "name": "A Sinister Plan"
+  },
+  {
+    "id": 2050,
+    "name": "Stolen Memories"
+  },
+  {
+    "id": 2051,
+    "name": "A Sorceress's Strength"
+  },
+  {
+    "id": 2052,
+    "name": "Kidnapping the Oracle"
+  },
+  {
+    "id": 2053,
+    "name": "Beacon in the Darkness"
+  },
+  {
+    "id": 2054,
+    "name": "Long-Awaited Conversations"
+  },
+  {
+    "id": 2055,
+    "name": "To Be Equals"
+  },
+  {
+    "id": 2056,
+    "name": "Breaking Free"
+  },
+  {
+    "id": 2057,
+    "name": "The Sorceress and the Oracle"
+  },
+  {
+    "id": 2058,
+    "name": "A Beautiful Memory"
+  },
+  {
+    "id": 2059,
+    "name": "An Eternity in the Afterlife"
+  },
+  {
+    "id": 2060,
+    "name": "By Different Means"
+  },
+  {
+    "id": 2061,
+    "name": "Where the Light Guides"
+  },
+  {
+    "id": 2062,
+    "name": "Words Become Blades"
+  },
+  {
+    "id": 2063,
+    "name": "Reluctant Leader"
+  },
+  {
+    "id": 2064,
+    "name": "A Warped Heart"
+  },
+  {
+    "id": 2065,
+    "name": "Believe in Your Allies"
+  },
+  {
+    "id": 2066,
+    "name": "An Irreplaceable Role"
+  },
+  {
+    "id": 2067,
+    "name": "Two Sorceresses"
+  },
+  {
+    "id": 2068,
+    "name": "Another Secret"
+  },
+  {
+    "id": 2069,
+    "name": "Set Apart"
+  },
+  {
+    "id": 2070,
+    "name": "To Be a Better Sorceress"
+  },
+  {
+    "id": 2071,
+    "name": "Love、 Friendship、 and Courage"
+  },
+  {
+    "id": 2072,
+    "name": "Welcome Home"
+  },
+  {
+    "id": 2073,
+    "name": "Time Marches On"
+  },
+  {
+    "id": 2074,
+    "name": "Promises for the Future"
+  },
+  {
+    "id": 2075,
+    "name": "Raising an Army Unseen"
+  },
+  {
+    "id": 2076,
+    "name": "Putting Pieces in Place"
+  },
+  {
+    "id": 2077,
+    "name": "An Uneasy Alliance"
+  },
+  {
+    "id": 2078,
+    "name": "High Ideals"
+  },
+  {
+    "id": 2079,
+    "name": "The Pride of Humanity"
+  },
+  {
+    "id": 2080,
+    "name": "Winged Explorer"
+  },
+  {
+    "id": 2081,
+    "name": "In Search of \"Treasure\""
+  },
+  {
+    "id": 2082,
+    "name": "The Soulless Race"
+  },
+  {
+    "id": 2083,
+    "name": "United as One"
+  },
+  {
+    "id": 2084,
+    "name": "Hearts Connected"
+  },
+  {
+    "id": 2085,
+    "name": "Hope Sprouts Eternal"
+  },
+  {
+    "id": 2086,
+    "name": "A Budding Dream"
+  },
+  {
+    "id": 2087,
+    "name": "Blooming Hearts"
+  },
+  {
+    "id": 2088,
+    "name": "To Make Smiles Blossom"
+  },
+  {
+    "id": 2089,
+    "name": "A Bouquet of Love"
+  },
+  {
+    "id": 2090,
+    "name": "World of Illusions Spiritus: The Brothers"
+  },
+  {
+    "id": 2091,
+    "name": "The Philosopher Visits"
+  },
+  {
+    "id": 2092,
+    "name": "The Philosopher Returns"
+  },
+  {
+    "id": 2093,
+    "name": "The All-Powerful"
+  },
+  {
+    "id": 2094,
+    "name": "The Savior's Destiny"
+  },
+  {
+    "id": 2095,
+    "name": "Believe in the Future You"
+  },
+  {
+    "id": 2096,
+    "name": "Banish the Shadows"
+  },
+  {
+    "id": 2097,
+    "name": "Don't Look Away"
+  },
+  {
+    "id": 2098,
+    "name": "Look at Me"
+  },
+  {
+    "id": 2099,
+    "name": "Prying Out Memories"
+  },
+  {
+    "id": 2100,
+    "name": "The Last Piece"
+  },
+  {
+    "id": 2101,
+    "name": "Lightning's Destiny"
+  },
+  {
+    "id": 2102,
+    "name": "Before God"
+  },
+  {
+    "id": 2103,
+    "name": "With Hope in Our Hearts"
+  },
+  {
+    "id": 2104,
+    "name": "Minwu's Destiny"
+  },
+  {
+    "id": 2105,
+    "name": "Fallen Light"
+  },
+  {
+    "id": 2106,
+    "name": "Veering Off Course"
+  },
+  {
+    "id": 2107,
+    "name": "A Reminder of Home"
+  },
+  {
+    "id": 2108,
+    "name": "The Hunt"
+  },
+  {
+    "id": 2109,
+    "name": "Reconciling the Past"
+  },
+  {
+    "id": 2110,
+    "name": "Onward to the Skies"
+  },
+  {
+    "id": 2111,
+    "name": "The Next to Be Freed"
+  },
+  {
+    "id": 2112,
+    "name": "Where the Compass Guides"
+  },
+  {
+    "id": 2113,
+    "name": "Eald'narche's Miscalculation"
+  },
+  {
+    "id": 2114,
+    "name": "Our Leader"
+  },
+  {
+    "id": 2115,
+    "name": "Tracing Memories"
+  },
+  {
+    "id": 2116,
+    "name": "Memories Restored"
+  },
+  {
+    "id": 2117,
+    "name": "Those Guided by Light"
+  },
+  {
+    "id": 2118,
+    "name": "A Veteran's Memories"
+  },
+  {
+    "id": 2119,
+    "name": "Memories of Friends"
+  },
+  {
+    "id": 2120,
+    "name": "A Solitary Fight"
+  },
+  {
+    "id": 2121,
+    "name": "Darkness Lashes Out"
+  },
+  {
+    "id": 2122,
+    "name": "Brilliance"
+  },
+  {
+    "id": 2123,
+    "name": "A Hero's Return"
+  },
+  {
+    "id": 2124,
+    "name": "Warriors Guided by Crystals"
+  },
+  {
+    "id": 2125,
+    "name": "What Gods Ponder"
+  },
+  {
+    "id": 2126,
+    "name": "A Glimmer of Ambition"
+  },
+  {
+    "id": 2127,
+    "name": "Longing is Illusion"
+  },
+  {
+    "id": 2128,
+    "name": "To Live True"
+  },
+  {
+    "id": 2129,
+    "name": "Inherited Beliefs"
+  },
+  {
+    "id": 2130,
+    "name": "Mutual Respect"
+  },
+  {
+    "id": 2131,
+    "name": "A Face Well Familiar"
+  },
+  {
+    "id": 2132,
+    "name": "Light Gathers Before Dawn"
+  },
+  {
+    "id": 2133,
+    "name": "The One Who Remained"
+  },
+  {
+    "id": 2134,
+    "name": "World of Illusions Spiritus: Pandemonium"
+  },
+  {
+    "id": 2135,
+    "name": "Another World's God"
+  },
+  {
+    "id": 2136,
+    "name": "A Casual Visitor"
+  },
+  {
+    "id": 2137,
+    "name": "God's Policy"
+  },
+  {
+    "id": 2138,
+    "name": "A Foreboding Presence"
+  },
+  {
+    "id": 2139,
+    "name": "Saviors to Order"
+  },
+  {
+    "id": 2140,
+    "name": "A Distance of Words Unsaid"
+  },
+  {
+    "id": 2141,
+    "name": "Changing Relationships"
+  },
+  {
+    "id": 2142,
+    "name": "Without Regrets"
+  },
+  {
+    "id": 2143,
+    "name": "Coming to an Understanding"
+  },
+  {
+    "id": 2144,
+    "name": "Bound Too Closely"
+  },
+  {
+    "id": 2145,
+    "name": "A World in Flux"
+  },
+  {
+    "id": 2146,
+    "name": "Darkness Visits"
+  },
+  {
+    "id": 2147,
+    "name": "Imminent Destruction"
+  },
+  {
+    "id": 2148,
+    "name": "Violent Intent"
+  },
+  {
+    "id": 2149,
+    "name": "Along a New Track"
+  },
+  {
+    "id": 2150,
+    "name": "Uncomfortable Truths"
+  },
+  {
+    "id": 2151,
+    "name": "What Must Be Protected"
+  },
+  {
+    "id": 2152,
+    "name": "Arbiter of Darkness"
+  },
+  {
+    "id": 2153,
+    "name": "A Thirst for Light"
+  },
+  {
+    "id": 2154,
+    "name": "By a Glimmer of Light"
+  },
+  {
+    "id": 2155,
+    "name": "A World in Turmoil"
+  },
+  {
+    "id": 2156,
+    "name": "To the Beautiful Royal Capital"
+  },
+  {
+    "id": 2157,
+    "name": "A Misty Situation"
+  },
+  {
+    "id": 2158,
+    "name": "Sacrificial City"
+  },
+  {
+    "id": 2159,
+    "name": "A Thorny Decision"
+  },
+  {
+    "id": 2160,
+    "name": "A Ticking Clock"
+  },
+  {
+    "id": 2161,
+    "name": "Battle of Wills"
+  },
+  {
+    "id": 2162,
+    "name": "A God's Purpose"
+  },
+  {
+    "id": 2163,
+    "name": "Again a God"
+  },
+  {
+    "id": 2164,
+    "name": "Competing Pride"
+  },
+  {
+    "id": 2165,
+    "name": "Into the Abyss"
+  },
+  {
+    "id": 2166,
+    "name": "The Line Between Light and Dark"
+  },
+  {
+    "id": 2167,
+    "name": "What It Takes"
+  },
+  {
+    "id": 2168,
+    "name": "Premonition or Memory?"
+  },
+  {
+    "id": 2169,
+    "name": "A Despot Risen"
+  },
+  {
+    "id": 2170,
+    "name": "The Prophesied Hero"
+  },
+  {
+    "id": 2171,
+    "name": "The Immortal Sorceress"
+  },
+  {
+    "id": 2172,
+    "name": "An Ambitious Renegade"
+  },
+  {
+    "id": 2173,
+    "name": "To the World、 Hope"
+  },
+  {
+    "id": 2174,
+    "name": "Arrogating Divinity"
+  },
+  {
+    "id": 2175,
+    "name": "A Glimmer of Hope"
+  },
+  {
+    "id": 2176,
+    "name": "Faint Memories"
+  },
+  {
+    "id": 2177,
+    "name": "Warriors of Light and Darkness"
+  },
+  {
+    "id": 2178,
+    "name": "It Is Time"
+  },
+  {
+    "id": 2179,
+    "name": "To a World Without Gods"
+  },
+  {
+    "id": 2180,
+    "name": "Leaving the Past Behind"
+  },
+  {
+    "id": 2181,
+    "name": "Facing Faith"
+  },
+  {
+    "id": 2182,
+    "name": "Repaying Kindness"
+  },
+  {
+    "id": 2183,
+    "name": "A Rewarding Walk"
+  },
+  {
+    "id": 2184,
+    "name": "For a Bright Future"
+  },
+  {
+    "id": 2185,
+    "name": "Lunar Guardian"
+  },
+  {
+    "id": 2186,
+    "name": "Eyes Rife with Wisdom"
+  },
+  {
+    "id": 2187,
+    "name": "Guiding Moonlight"
+  },
+  {
+    "id": 2188,
+    "name": "World of Illusions Spiritus: Ramuh"
+  },
+  {
+    "id": 2189,
+    "name": "The Vermillion Reunion"
+  },
+  {
+    "id": 2190,
+    "name": "A Fighting Spirit"
+  },
+  {
+    "id": 2191,
+    "name": "What Comes Next"
+  },
+  {
+    "id": 2192,
+    "name": "How We Spend Free Time"
+  },
+  {
+    "id": 2193,
+    "name": "A Good Fit"
+  },
+  {
+    "id": 2194,
+    "name": "The Curtain Rises"
+  },
+  {
+    "id": 2195,
+    "name": "The Grand Director"
+  },
+  {
+    "id": 2196,
+    "name": "After Curtain Call"
+  },
+  {
+    "id": 2197,
+    "name": "Written by the Heart"
+  },
+  {
+    "id": 2198,
+    "name": "Adaptation by My Hand"
+  },
+  {
+    "id": 2199,
+    "name": "Blasting the Way Forward"
+  },
+  {
+    "id": 2200,
+    "name": "A Careless Ignition"
+  },
+  {
+    "id": 2201,
+    "name": "Light My Fuse"
+  },
+  {
+    "id": 2202,
+    "name": "Light the Way Forward"
+  },
+  {
+    "id": 2203,
+    "name": "Don't Look Back"
+  },
+  {
+    "id": 2204,
+    "name": "Changing Desires"
+  },
+  {
+    "id": 2205,
+    "name": "A New Role"
+  },
+  {
+    "id": 2206,
+    "name": "Looking to the Future"
+  },
+  {
+    "id": 2207,
+    "name": "Hope in a Distant World"
+  },
+  {
+    "id": 2208,
+    "name": "Drawn By Chaos"
+  },
+  {
+    "id": 2209,
+    "name": "Distant Remnants"
+  },
+  {
+    "id": 2210,
+    "name": "An Imperfect Scheme"
+  },
+  {
+    "id": 2211,
+    "name": "Linked Wills"
+  },
+  {
+    "id": 2212,
+    "name": "Tricks and Deceit"
+  },
+  {
+    "id": 2213,
+    "name": "Emerging Chaos"
+  },
+  {
+    "id": 2214,
+    "name": "Recovering What Was"
+  },
+  {
+    "id": 2215,
+    "name": "Practical Combat"
+  },
+  {
+    "id": 2216,
+    "name": "Mingling Rage"
+  },
+  {
+    "id": 2217,
+    "name": "Testing the Rules"
+  },
+  {
+    "id": 2218,
+    "name": "Forge a New Path"
+  },
+  {
+    "id": 2219,
+    "name": "Fight for Oneself"
+  },
+  {
+    "id": 2220,
+    "name": "Power of Creation"
+  },
+  {
+    "id": 2221,
+    "name": "The Four Crystals"
+  },
+  {
+    "id": 2222,
+    "name": "World of Illusions Spiritus: Bahamut"
+  },
+  {
+    "id": 2223,
+    "name": "A Fearless Warrior"
+  },
+  {
+    "id": 2224,
+    "name": "The Moogle Brotherhood"
+  },
+  {
+    "id": 2225,
+    "name": "Destruction and Loss"
+  },
+  {
+    "id": 2226,
+    "name": "Tough Love"
+  },
+  {
+    "id": 2227,
+    "name": "To the Future as One"
+  },
+  {
+    "id": 2228,
+    "name": "A Soul Rekindled"
+  },
+  {
+    "id": 2229,
+    "name": "Embers of the Past"
+  },
+  {
+    "id": 2230,
+    "name": "Bitter Rivals"
+  },
+  {
+    "id": 2231,
+    "name": "Bound by Flame"
+  },
+  {
+    "id": 2232,
+    "name": "Dueling Fires"
+  },
+  {
+    "id": 2233,
+    "name": "A Land in Repose"
+  },
+  {
+    "id": 2234,
+    "name": "A Trickle of Life"
+  },
+  {
+    "id": 2235,
+    "name": "A Trio of Conspirators"
+  },
+  {
+    "id": 2236,
+    "name": "A Budding Idea"
+  },
+  {
+    "id": 2237,
+    "name": "Seeds of Premonition"
+  },
+  {
+    "id": 2238,
+    "name": "World Full of Flowers"
+  },
+  {
+    "id": 2239,
+    "name": "Facets of Memory"
+  },
+  {
+    "id": 2240,
+    "name": "A Heart Opens"
+  },
+  {
+    "id": 2241,
+    "name": "A Budding Beginning"
+  },
+  {
+    "id": 2242,
+    "name": "Glimmer of Hope"
+  },
+  {
+    "id": 2243,
+    "name": "Realization of Will"
+  },
+  {
+    "id": 2244,
+    "name": "Blooming Thoughts"
+  },
+  {
+    "id": 2245,
+    "name": "Budding Hope"
+  },
+  {
+    "id": 2246,
+    "name": "Waning Life"
+  },
+  {
+    "id": 2247,
+    "name": "Steps Toward Rebirth"
+  },
+  {
+    "id": 2248,
+    "name": "Silent Marshes"
+  },
+  {
+    "id": 2249,
+    "name": "Bitter Fate"
+  },
+  {
+    "id": 2250,
+    "name": "A Bland World"
+  },
+  {
+    "id": 2251,
+    "name": "Be Grateful for Every Bite"
+  },
+  {
+    "id": 2252,
+    "name": "Food for the Soul"
+  },
+  {
+    "id": 2253,
+    "name": "Shared Interests"
+  },
+  {
+    "id": 2254,
+    "name": "A Sweet Illusion"
+  },
+  {
+    "id": 2255,
+    "name": "Raw Hope"
+  },
+  {
+    "id": 2256,
+    "name": "Gone Fishing"
+  },
+  {
+    "id": 2257,
+    "name": "Harsh Truths"
+  },
+  {
+    "id": 2258,
+    "name": "A Feast Fit for Gods"
+  },
+  {
+    "id": 2259,
+    "name": "A Dream of Food"
+  },
+  {
+    "id": 2260,
+    "name": "Lingering Doubts"
+  },
+  {
+    "id": 2261,
+    "name": "You Are What You Eat"
+  },
+  {
+    "id": 2262,
+    "name": "In Search of the Delicious"
+  },
+  {
+    "id": 2263,
+    "name": "A Recorder's Aspirations"
+  },
+  {
+    "id": 2264,
+    "name": "Secretly Well-Informed"
+  },
+  {
+    "id": 2265,
+    "name": "Inscribed Sentiments"
+  },
+  {
+    "id": 2266,
+    "name": "A Secret Mission"
+  },
+  {
+    "id": 2267,
+    "name": "Even after We Wake"
+  },
+  {
+    "id": 2268,
+    "name": "Heart of the Lion"
+  },
+  {
+    "id": 2269,
+    "name": "In Service to Kings"
+  },
+  {
+    "id": 2270,
+    "name": "The Immortal's Alias"
+  },
+  {
+    "id": 2271,
+    "name": "Titles Ill Fit"
+  },
+  {
+    "id": 2272,
+    "name": "An Unexpected Skill"
+  },
+  {
+    "id": 2273,
+    "name": "World of Illusions Spiritus: Shiva"
+  },
+  {
+    "id": 2274,
+    "name": "Awakening to Flowers"
+  },
+  {
+    "id": 2275,
+    "name": "An Uncomfortable Surprise"
+  },
+  {
+    "id": 2276,
+    "name": "The Eternal Hero"
+  },
+  {
+    "id": 2277,
+    "name": "A Long-Awaited Conversation"
+  },
+  {
+    "id": 2278,
+    "name": "Dreams of Flight"
+  },
+  {
+    "id": 2279,
+    "name": "Time Marches Backwards"
+  },
+  {
+    "id": 2280,
+    "name": "A Military Daughter"
+  },
+  {
+    "id": 2281,
+    "name": "Another Chance"
+  },
+  {
+    "id": 2282,
+    "name": "Planning a Trip"
+  },
+  {
+    "id": 2283,
+    "name": "Playing for Fun"
+  },
+  {
+    "id": 2284,
+    "name": "Pattern Recognition"
+  },
+  {
+    "id": 2285,
+    "name": "A Fair Fight"
+  },
+  {
+    "id": 2286,
+    "name": "Clear Skies Ahead"
+  },
+  {
+    "id": 2287,
+    "name": "Free to Choose"
+  },
+  {
+    "id": 2288,
+    "name": "Tour of the Future"
+  },
+  {
+    "id": 2289,
+    "name": "The Answer is Always Close"
+  },
+  {
+    "id": 2290,
+    "name": "Can't Do It Alone"
+  },
+  {
+    "id": 2291,
+    "name": "What We Want to Wish For"
+  },
+  {
+    "id": 2292,
+    "name": "The Burden of Trust"
+  },
+  {
+    "id": 2293,
+    "name": "Dangerous Interests"
+  },
+  {
+    "id": 2294,
+    "name": "Gifts of the Past"
+  },
+  {
+    "id": 2295,
+    "name": "Secret Date"
+  },
+  {
+    "id": 2296,
+    "name": "The Budding of Desire"
+  },
+  {
+    "id": 2297,
+    "name": "At That Age"
+  },
+  {
+    "id": 2298,
+    "name": "We Don't Need a Miracle"
+  },
+  {
+    "id": 2299,
+    "name": "To Name a Memory"
+  },
+  {
+    "id": 2300,
+    "name": "A Little Prayer"
+  },
+  {
+    "id": 2301,
+    "name": "Crossroads of Feelings"
+  },
+  {
+    "id": 2302,
+    "name": "Just Out of Reach"
+  },
+  {
+    "id": 2303,
+    "name": "Of the Same Mind"
+  },
+  {
+    "id": 2304,
+    "name": "With Someone Special"
+  },
+  {
+    "id": 2305,
+    "name": "Fruitful Thoughts"
+  },
+  {
+    "id": 2306,
+    "name": "For Future Happiness"
+  },
+  {
+    "id": 2307,
+    "name": "The Trouble with Rumors"
+  },
+  {
+    "id": 2308,
+    "name": "Letting Go"
+  },
+  {
+    "id": 2309,
+    "name": "A Big Experiment"
+  },
+  {
+    "id": 2310,
+    "name": "Her Designs"
+  },
+  {
+    "id": 2311,
+    "name": "A Glorious Declaration"
+  },
+  {
+    "id": 2312,
+    "name": "The End of an Experiment"
+  },
+  {
+    "id": 2313,
+    "name": "A Fragment of Ambition"
+  },
+  {
+    "id": 2314,
+    "name": "World of Illusions Spiritus: Ifrit"
+  },
+  {
+    "id": 2315,
+    "name": "A Face Well Familiar"
+  },
+  {
+    "id": 2316,
+    "name": "Light Gathers Before Dawn"
+  },
+  {
+    "id": 2317,
+    "name": "The One Who Remained"
+  },
+  {
+    "id": 2318,
+    "name": "What Lies Ahead"
+  },
+  {
+    "id": 2319,
+    "name": "How a Legacy Lives On"
+  },
+  {
+    "id": 2320,
+    "name": "The World's Watchers"
+  },
+  {
+    "id": 2321,
+    "name": "Every Monster Has Its Thorn"
+  },
+  {
+    "id": 2322,
+    "name": "Following the Light"
+  },
+  {
+    "id": 2323,
+    "name": "By Any Other Name"
+  },
+  {
+    "id": 2324,
+    "name": "One's Most Ardent Wish"
+  },
+  {
+    "id": 2325,
+    "name": "A Budding Scheme"
+  },
+  {
+    "id": 2326,
+    "name": "An Otherworldly Outlook"
+  },
+  {
+    "id": 2327,
+    "name": "Familiar Words"
+  },
+  {
+    "id": 2328,
+    "name": "Joined Fragments"
+  },
+  {
+    "id": 2329,
+    "name": "Confessions of Darkness"
+  },
+  {
+    "id": 2330,
+    "name": "An Experiment in Light and Dark"
+  },
+  {
+    "id": 2331,
+    "name": "Remnants of Old Allies"
+  },
+  {
+    "id": 2332,
+    "name": "Cast Off the Shadows"
+  },
+  {
+    "id": 2333,
+    "name": "Twin Worlds"
+  },
+  {
+    "id": 2334,
+    "name": "Harvesting Happiness"
+  },
+  {
+    "id": 2335,
+    "name": "Land of Destiny"
+  },
+  {
+    "id": 2336,
+    "name": "Fragments of Darkness"
+  },
+  {
+    "id": 2337,
+    "name": "Where the Roots of Fate Lie"
+  },
+  {
+    "id": 2338,
+    "name": "An Experiment in Crystals"
+  },
+  {
+    "id": 2339,
+    "name": "Familiar Scenery"
+  },
+  {
+    "id": 2340,
+    "name": "Rage Bait"
+  },
+  {
+    "id": 2341,
+    "name": "The Price of Words"
+  },
+  {
+    "id": 2342,
+    "name": "Markers of Stagnant Darkness"
+  },
+  {
+    "id": 2343,
+    "name": "Beyond the Imperfect World"
+  },
+  {
+    "id": 2344,
+    "name": "A Destructive Cycle"
+  },
+  {
+    "id": 2345,
+    "name": "Darkness Manifest"
+  },
+  {
+    "id": 2346,
+    "name": "Farewell to a Kindred Heart"
+  },
+  {
+    "id": 2347,
+    "name": "Through the Dazzling Darkness"
+  },
+  {
+    "id": 2348,
+    "name": "What Lurks in the Cracks"
+  },
+  {
+    "id": 2349,
+    "name": "Even Should Our Paths Diverge"
+  },
+  {
+    "id": 2350,
+    "name": "The Sanctum's Guest"
+  },
+  {
+    "id": 2351,
+    "name": "A Cruel Gaze"
+  },
+  {
+    "id": 2352,
+    "name": "One's True Nature"
+  },
+  {
+    "id": 2353,
+    "name": "The Truth behind the Betrayal"
+  },
+  {
+    "id": 2354,
+    "name": "The Fallen Paradise"
+  },
+  {
+    "id": 2355,
+    "name": "A Thousand Years"
+  },
+  {
+    "id": 2356,
+    "name": "A Savior's Habits"
+  },
+  {
+    "id": 2357,
+    "name": "Some Things Never Change"
+  },
+  {
+    "id": 2358,
+    "name": "A Day of Regrets"
+  },
+  {
+    "id": 2359,
+    "name": "A Prayer、 A Promise"
+  },
+  {
+    "id": 2360,
+    "name": "World of Illusions Spiritus: Leviathan"
+  },
+  {
+    "id": 2361,
+    "name": "Rulers of an Empty Land"
+  },
+  {
+    "id": 2362,
+    "name": "Illogical Providence"
+  },
+  {
+    "id": 2363,
+    "name": "Mother's Will"
+  },
+  {
+    "id": 2364,
+    "name": "The First Step"
+  },
+  {
+    "id": 2365,
+    "name": "Cries of the Invaders"
+  },
+  {
+    "id": 2366,
+    "name": "A Long-Awaited Arrival"
+  },
+  {
+    "id": 2367,
+    "name": "Immaculate White"
+  },
+  {
+    "id": 2368,
+    "name": "Conflicting Desires"
+  },
+  {
+    "id": 2369,
+    "name": "Jenova's Bloodline"
+  },
+  {
+    "id": 2370,
+    "name": "From Underground"
+  },
+  {
+    "id": 2371,
+    "name": "The Immaculate and the Hero"
+  },
+  {
+    "id": 2372,
+    "name": "One More Calamity"
+  },
+  {
+    "id": 2373,
+    "name": "Two Sides of the Same Coin"
+  },
+  {
+    "id": 2374,
+    "name": "The True Emperor"
+  },
+  {
+    "id": 2375,
+    "name": "A Missing Piece"
+  },
+  {
+    "id": 2376,
+    "name": "The Makings of a King"
+  },
+  {
+    "id": 2377,
+    "name": "The Immaculate Awakens"
+  },
+  {
+    "id": 2378,
+    "name": "A Strange Parting Gift"
+  },
+  {
+    "id": 2379,
+    "name": "What Can Be Done"
+  },
+  {
+    "id": 2380,
+    "name": "The Access Point"
+  },
+  {
+    "id": 2381,
+    "name": "A Place Abandoned"
+  },
+  {
+    "id": 2382,
+    "name": "Ties Unseen"
+  },
+  {
+    "id": 2383,
+    "name": "For a Bright Future"
+  },
+  {
+    "id": 2384,
+    "name": "Love for Mothers"
+  },
+  {
+    "id": 2385,
+    "name": "Paradox"
+  },
+  {
+    "id": 2386,
+    "name": "False Words"
+  },
+  {
+    "id": 2387,
+    "name": "Those We Care About"
+  },
+  {
+    "id": 2388,
+    "name": "A Gulf Not to Be Crossed"
+  },
+  {
+    "id": 2389,
+    "name": "An Incomplete Picture"
+  },
+  {
+    "id": 2390,
+    "name": "Two Puppets"
+  },
+  {
+    "id": 2391,
+    "name": "Connections Severed"
+  },
+  {
+    "id": 2392,
+    "name": "A Reason to Go On"
+  },
+  {
+    "id": 2393,
+    "name": "Home"
+  },
+  {
+    "id": 2394,
+    "name": "A Dark Vestige"
+  },
+  {
+    "id": 2395,
+    "name": "A New Place to Belong"
+  },
+  {
+    "id": 2396,
+    "name": "Lunar Guardian"
+  },
+  {
+    "id": 2397,
+    "name": "Eyes Rife with Wisdom"
+  },
+  {
+    "id": 2398,
+    "name": "Guiding Moonlight"
+  },
+  {
+    "id": 2399,
+    "name": "The Righteous of Heart"
+  },
+  {
+    "id": 2400,
+    "name": "All I Wanted"
+  },
+  {
+    "id": 2401,
+    "name": "Omen Arising"
+  },
+  {
+    "id": 2402,
+    "name": "Unbreakable Binding"
+  },
+  {
+    "id": 2403,
+    "name": "Deposit Concerns"
+  },
+  {
+    "id": 2404,
+    "name": "Rules Unbound"
+  },
+  {
+    "id": 2405,
+    "name": "Gods and Men"
+  },
+  {
+    "id": 2406,
+    "name": "A Swift Sword"
+  },
+  {
+    "id": 2407,
+    "name": "Stray Lone Wolf"
+  },
+  {
+    "id": 2408,
+    "name": "Restoring One's Honor"
+  },
+  {
+    "id": 2409,
+    "name": "Banish the Shadows"
+  },
+  {
+    "id": 2410,
+    "name": "Trail of Light"
+  },
+  {
+    "id": 2411,
+    "name": "Distant Resonance"
+  },
+  {
+    "id": 2412,
+    "name": "A Mysterious Boy"
+  },
+  {
+    "id": 2413,
+    "name": "Traces of a Distant Dream"
+  },
+  {
+    "id": 2414,
+    "name": "Guardian of Vana'diel"
+  },
+  {
+    "id": 2415,
+    "name": "The Truth About Paradise"
+  },
+  {
+    "id": 2416,
+    "name": "Hearers of the Whisper"
+  },
+  {
+    "id": 2417,
+    "name": "A Vision Gone Awry"
+  },
+  {
+    "id": 2418,
+    "name": "For an Unending Dream"
+  },
+  {
+    "id": 2419,
+    "name": "For Their Cherished Lives"
+  },
+  {
+    "id": 2420,
+    "name": "Arrogant Conviction"
+  },
+  {
+    "id": 2421,
+    "name": "Fate Comes Again"
+  },
+  {
+    "id": 2422,
+    "name": "Bound by Resonance"
+  },
+  {
+    "id": 2423,
+    "name": "From the Outside Looking In"
+  },
+  {
+    "id": 2424,
+    "name": "The Crystal Boy"
+  },
+  {
+    "id": 2425,
+    "name": "An Ill Omen"
+  },
+  {
+    "id": 2426,
+    "name": "World of Illusions Spiritus: Alexander"
+  },
+  {
+    "id": 2427,
+    "name": "Gather to the Light"
+  },
+  {
+    "id": 2428,
+    "name": "Light Through the Darkness"
+  },
+  {
+    "id": 2429,
+    "name": "Regrets Left Behind"
+  },
+  {
+    "id": 2430,
+    "name": "For the Rightful Future"
+  },
+  {
+    "id": 2431,
+    "name": "Gratitude"
+  },
+  {
+    "id": 2432,
+    "name": "Mending Mistakes"
+  },
+  {
+    "id": 2433,
+    "name": "Different but the Same"
+  },
+  {
+    "id": 2434,
+    "name": "Faith and Chance"
+  },
+  {
+    "id": 2435,
+    "name": "Fragments of Light"
+  },
+  {
+    "id": 2436,
+    "name": "The Price of Ancient Oaths"
+  },
+  {
+    "id": 2437,
+    "name": "Burgeoning Desire"
+  },
+  {
+    "id": 2438,
+    "name": "A Cycle of Parting"
+  },
+  {
+    "id": 2439,
+    "name": "Inheritance"
+  },
+  {
+    "id": 2440,
+    "name": "Friends Through Battle"
+  },
+  {
+    "id": 2441,
+    "name": "Thoughts Carried by Light"
+  },
+  {
+    "id": 2442,
+    "name": "A New Path"
+  },
+  {
+    "id": 2443,
+    "name": "Strange Relations"
+  },
+  {
+    "id": 2444,
+    "name": "Stacked Sensations"
+  },
+  {
+    "id": 2445,
+    "name": "Defining Family"
+  },
+  {
+    "id": 2446,
+    "name": "The Path of Potential"
+  },
+  {
+    "id": 2447,
+    "name": "Blasting the Way Forward"
+  },
+  {
+    "id": 2448,
+    "name": "A Careless Ignition"
+  },
+  {
+    "id": 2449,
+    "name": "Light My Fuse"
+  },
+  {
+    "id": 2450,
+    "name": "Meeting of the Minds"
+  },
+  {
+    "id": 2451,
+    "name": "Fight for the Future"
+  },
+  {
+    "id": 2452,
+    "name": "World of Illusions Spiritus: Diabolos"
+  },
+  {
+    "id": 2453,
+    "name": "The Flaming Fighter"
+  },
+  {
+    "id": 2454,
+    "name": "Rough Beginnings"
+  },
+  {
+    "id": 2455,
+    "name": "The Motive Revealed"
+  },
+  {
+    "id": 2456,
+    "name": "Discovering New Values"
+  },
+  {
+    "id": 2457,
+    "name": "A Surprisingly Practical Hobby"
+  },
+  {
+    "id": 2458,
+    "name": "Mage Disciples"
+  },
+  {
+    "id": 2459,
+    "name": "Teacher and Student"
+  },
+  {
+    "id": 2460,
+    "name": "The New Epopt's Choice"
+  },
+  {
+    "id": 2461,
+    "name": "Dual Powers"
+  },
+  {
+    "id": 2462,
+    "name": "Innate Sympathy"
+  },
+  {
+    "id": 2463,
+    "name": "Seeking to Defect"
+  },
+  {
+    "id": 2464,
+    "name": "An Objective Perspective"
+  },
+  {
+    "id": 2465,
+    "name": "Pride and Purity"
+  },
+  {
+    "id": 2466,
+    "name": "Reasons for Suspicion"
+  },
+  {
+    "id": 2467,
+    "name": "The Weight of Failure"
+  },
+  {
+    "id": 2468,
+    "name": "Foolish Pawns"
+  },
+  {
+    "id": 2469,
+    "name": "The Makings of a Sage"
+  },
+  {
+    "id": 2470,
+    "name": "A Teacher's Hopes"
+  },
+  {
+    "id": 2471,
+    "name": "What Defines a Sage"
+  },
+  {
+    "id": 2472,
+    "name": "Distant Thoughts"
+  },
+  {
+    "id": 2473,
+    "name": "The Tower of Light"
+  },
+  {
+    "id": 2474,
+    "name": "Gift of the Great Magus"
+  },
+  {
+    "id": 2475,
+    "name": "The Two Pupils"
+  },
+  {
+    "id": 2476,
+    "name": "The Gift of Mortality"
+  },
+  {
+    "id": 2477,
+    "name": "What Remains"
+  },
+  {
+    "id": 2478,
+    "name": "Unfathomable Radiance"
+  },
+  {
+    "id": 2479,
+    "name": "The Unspoken Answer"
+  },
+  {
+    "id": 2480,
+    "name": "The Five Lights"
+  },
+  {
+    "id": 2481,
+    "name": "Closure for the Past"
+  },
+  {
+    "id": 2482,
+    "name": "Rewritable Future"
+  },
+  {
+    "id": 2483,
+    "name": "A Plethora of Answers"
+  },
+  {
+    "id": 2484,
+    "name": "A Theory"
+  },
+  {
+    "id": 2485,
+    "name": "Onward、 After Life"
+  },
+  {
+    "id": 2486,
+    "name": "Delivering the Message"
+  },
+  {
+    "id": 2487,
+    "name": "So Close、 and Yet So Far"
+  },
+  {
+    "id": 2488,
+    "name": "Anchors Aweigh!"
+  },
+  {
+    "id": 2489,
+    "name": "Smooth Sailing、 Choppy Past"
+  },
+  {
+    "id": 2490,
+    "name": "A Pirate No More"
+  },
+  {
+    "id": 2491,
+    "name": "Partner at the Helm"
+  },
+  {
+    "id": 2492,
+    "name": "Back to the Sea"
+  },
+  {
+    "id": 2493,
+    "name": "The Ice King Cometh"
+  },
+  {
+    "id": 2494,
+    "name": "The Level-Headed Warrior"
+  },
+  {
+    "id": 2495,
+    "name": "No Easy Feat"
+  },
+  {
+    "id": 2496,
+    "name": "Strong and Savvy"
+  },
+  {
+    "id": 2497,
+    "name": "The Break of Dawn"
+  },
+  {
+    "id": 2499,
+    "name": "A Changed World"
+  },
+  {
+    "id": 2500,
+    "name": "A Miraculous Crystal"
+  },
+  {
+    "id": 2501,
+    "name": "The Cage of Lineage"
+  },
+  {
+    "id": 2502,
+    "name": "Seeking Lost Time"
+  },
+  {
+    "id": 2503,
+    "name": "A Change in Stance"
+  },
+  {
+    "id": 2504,
+    "name": "An Unexpected Event"
+  },
+  {
+    "id": 2505,
+    "name": "Pretenses and True Motives"
+  },
+  {
+    "id": 2506,
+    "name": "Calculated Value"
+  },
+  {
+    "id": 2507,
+    "name": "Good and Evil"
+  },
+  {
+    "id": 2508,
+    "name": "Dissimilar Wishes"
+  },
+  {
+    "id": 2509,
+    "name": "Word Games"
+  },
+  {
+    "id": 2510,
+    "name": "Rulers"
+  },
+  {
+    "id": 2511,
+    "name": "A Welcome Return"
+  },
+  {
+    "id": 2512,
+    "name": "Vacation's End"
+  },
+  {
+    "id": 2513,
+    "name": "The Die Cast"
+  },
+  {
+    "id": 2514,
+    "name": "Cleverness and Cunning"
+  },
+  {
+    "id": 2515,
+    "name": "Unseen Arrogance"
+  },
+  {
+    "id": 2516,
+    "name": "A Dark Legacy"
+  },
+  {
+    "id": 2517,
+    "name": "Constructive Differences"
+  },
+  {
+    "id": 2518,
+    "name": "Double Standards"
+  },
+  {
+    "id": 2519,
+    "name": "Intentional Inconsistency"
+  },
+  {
+    "id": 2520,
+    "name": "Hypocritical Salvation"
+  },
+  {
+    "id": 2521,
+    "name": "The Trump Card"
+  },
+  {
+    "id": 2522,
+    "name": "Taking the Offensive"
+  },
+  {
+    "id": 2523,
+    "name": "Creation Exceeding Destruction"
+  },
+  {
+    "id": 2524,
+    "name": "The Blood Shed for Ideals"
+  },
+  {
+    "id": 2525,
+    "name": "Repose Abandoned"
+  },
+  {
+    "id": 2526,
+    "name": "Light Still Dormant"
+  },
+  {
+    "id": 2527,
+    "name": "Hope's Focus"
+  },
+  {
+    "id": 2528,
+    "name": "Discord and Dilemmas"
+  },
+  {
+    "id": 2530,
+    "name": "Memories Abound"
+  },
+  {
+    "id": 2531,
+    "name": "Directorial Debut"
+  },
+  {
+    "id": 2532,
+    "name": "Setting the Scene"
+  },
+  {
+    "id": 2533,
+    "name": "On Location"
+  },
+  {
+    "id": 2534,
+    "name": "Memories as Mementos"
+  }
+]

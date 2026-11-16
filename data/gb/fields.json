@@ -1,0 +1,4916 @@
+[
+  {
+    "id": 1,
+    "name": "Ch. 1: Primus Island",
+    "story_part": 1,
+    "stage_id": -1
+  },
+  {
+    "id": 2,
+    "name": "Ch. 2: Ruins of Deserta",
+    "story_part": 1,
+    "stage_id": -1
+  },
+  {
+    "id": 3,
+    "name": "Ch. 3: Lost Kingdom of Thronus",
+    "story_part": 1,
+    "stage_id": -1
+  },
+  {
+    "id": 4,
+    "name": "Ch. 4: Snowy Peaks of Crudelis",
+    "story_part": 1,
+    "stage_id": -1
+  },
+  {
+    "id": 5,
+    "name": "Ch. 5: Palace of Malitia",
+    "story_part": 1,
+    "stage_id": -1
+  },
+  {
+    "id": 6,
+    "name": "Ch. 6: Domina Wastelands",
+    "story_part": 1,
+    "stage_id": -1
+  },
+  {
+    "id": 7,
+    "name": "Ch. 7: Imber Manor",
+    "story_part": 1,
+    "stage_id": -1
+  },
+  {
+    "id": 8,
+    "name": "Ch. 8: Capta Est Tower",
+    "story_part": 1,
+    "stage_id": -1
+  },
+  {
+    "id": 9,
+    "name": "Ch. 9: Utopia Niveus",
+    "story_part": 1,
+    "stage_id": -1
+  },
+  {
+    "id": 10,
+    "name": "Ch. 10: Abandoned Petalum",
+    "story_part": 1,
+    "stage_id": -1
+  },
+  {
+    "id": 11,
+    "name": "Ch. 11: Dimensions' Labyrinth",
+    "story_part": 1,
+    "stage_id": -1
+  },
+  {
+    "id": 12,
+    "name": "Interlude",
+    "story_part": 1,
+    "stage_id": -1
+  },
+  {
+    "id": 13,
+    "name": "Ch. 1: Drawing Chaos",
+    "story_part": 2,
+    "stage_id": -1
+  },
+  {
+    "id": 14,
+    "name": "Ch. 2: Light",
+    "story_part": 2,
+    "stage_id": -1
+  },
+  {
+    "id": 15,
+    "name": "Ch. 3: The Time We Have",
+    "story_part": 2,
+    "stage_id": -1
+  },
+  {
+    "id": 16,
+    "name": "Ch. 4: For Someone's Sake",
+    "story_part": 2,
+    "stage_id": -1
+  },
+  {
+    "id": 17,
+    "name": "Ch. 5: Will of the Hunters",
+    "story_part": 2,
+    "stage_id": -1
+  },
+  {
+    "id": 18,
+    "name": "Ch. 5.8: Torsion to the End",
+    "story_part": 2,
+    "stage_id": -1
+  },
+  {
+    "id": 19,
+    "name": "Ch. 6: Second Partner",
+    "story_part": 2,
+    "stage_id": -1
+  },
+  {
+    "id": 20,
+    "name": "Ch. 7: Respite's Authenticity",
+    "story_part": 2,
+    "stage_id": -1
+  },
+  {
+    "id": 21,
+    "name": "Ch. 8: Whither the Wind Returns",
+    "story_part": 2,
+    "stage_id": -1
+  },
+  {
+    "id": 22,
+    "name": "Ch. 9: Light of the Living",
+    "story_part": 2,
+    "stage_id": -1
+  },
+  {
+    "id": 23,
+    "name": "Ch. 10: Across the Skies",
+    "story_part": 2,
+    "stage_id": -1
+  },
+  {
+    "id": 24,
+    "name": "Finale、 Pt. 1: The Chosen King's Future",
+    "story_part": 2,
+    "stage_id": -1
+  },
+  {
+    "id": 25,
+    "name": "Finale、 Pt. 2: Warriors of Light",
+    "story_part": 2,
+    "stage_id": -1
+  },
+  {
+    "id": 26,
+    "name": "Ch. 1",
+    "story_part": 3,
+    "stage_id": -1
+  },
+  {
+    "id": 27,
+    "name": "Ch. 2",
+    "story_part": 3,
+    "stage_id": -1
+  },
+  {
+    "id": 28,
+    "name": "Ch. 3",
+    "story_part": 3,
+    "stage_id": -1
+  },
+  {
+    "id": 29,
+    "name": "Ch. 4",
+    "story_part": 3,
+    "stage_id": -1
+  },
+  {
+    "id": 30,
+    "name": "Ch. 5",
+    "story_part": 3,
+    "stage_id": -1
+  },
+  {
+    "id": 31,
+    "name": "Ch. 6",
+    "story_part": 3,
+    "stage_id": -1
+  },
+  {
+    "id": 32,
+    "name": "Ch. 7",
+    "story_part": 3,
+    "stage_id": -1
+  },
+  {
+    "id": 33,
+    "name": "Ch. 8",
+    "story_part": 3,
+    "stage_id": -1
+  },
+  {
+    "id": 34,
+    "name": "Ch. 9",
+    "story_part": 3,
+    "stage_id": -1
+  },
+  {
+    "id": 35,
+    "name": "Ch. 10",
+    "story_part": 3,
+    "stage_id": -1
+  },
+  {
+    "id": 36,
+    "name": "Finale, Pt. 1: Thirst of Chaos",
+    "story_part": 3,
+    "stage_id": -1
+  },
+  {
+    "id": 37,
+    "name": "Act 3\\nInterlude, \"In a Godless World\"",
+    "story_part": 3,
+    "stage_id": -1
+  },
+  {
+    "id": 38,
+    "name": "Ch. 1",
+    "story_part": 4,
+    "stage_id": -1
+  },
+  {
+    "id": 39,
+    "name": "Ch. 2",
+    "story_part": 4,
+    "stage_id": -1
+  },
+  {
+    "id": 40,
+    "name": "Ch. 3",
+    "story_part": 4,
+    "stage_id": -1
+  },
+  {
+    "id": 41,
+    "name": "Ch. 4",
+    "story_part": 4,
+    "stage_id": -1
+  },
+  {
+    "id": 42,
+    "name": "Ch. 5",
+    "story_part": 4,
+    "stage_id": -1
+  },
+  {
+    "id": 43,
+    "name": "Ch. 6",
+    "story_part": 4,
+    "stage_id": -1
+  },
+  {
+    "id": 57,
+    "name": "World of Illusions: Trials of Ifrit",
+    "story_part": 1,
+    "stage_id": -1
+  },
+  {
+    "id": 58,
+    "name": "World of Illusions: Trials of Shiva",
+    "story_part": 1,
+    "stage_id": -1
+  },
+  {
+    "id": 59,
+    "name": "World of Illusions: Trials of Ramuh",
+    "story_part": 1,
+    "stage_id": -1
+  },
+  {
+    "id": 60,
+    "name": "World of Illusions: Carbuncle's Treasures",
+    "story_part": 1,
+    "stage_id": -1
+  },
+  {
+    "id": 61,
+    "name": "World of Illusions: Trials of Leviathan",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 182,
+    "name": "World of Illusions: Trials of Ifrit",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 183,
+    "name": "World of Illusions: Trials of Odin",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 184,
+    "name": "World of Illusions: Trials of Shiva",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 185,
+    "name": "World of Illusions: Trials of Alexander",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 186,
+    "name": "World of Illusions: Trials of Ramuh",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 187,
+    "name": "World of Illusions: Trials of Leviathan",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 188,
+    "name": "World of Illusions: Trials of the Brothers",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 189,
+    "name": "Radiant Artifacts",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 190,
+    "name": "Radiant Artifacts",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 191,
+    "name": "Radiant Artifacts: Lost Chapters",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 192,
+    "name": "World of Illusions: Trials of Odin",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 193,
+    "name": "Radiant Artifacts: Lost Chapters",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 194,
+    "name": "World of Illusions: Treasure Hunt ～New Chapter～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 195,
+    "name": "Radiant Artifacts: Lost Chapters",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 196,
+    "name": "World of Illusions: Trials of Pandemonium",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 197,
+    "name": "World of Illusions: Trials of Alexander",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 198,
+    "name": "World of Illusions: Treasure Hunt ～New Chapter～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 199,
+    "name": "World of Illusions: Trials of Bahamut",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 200,
+    "name": "World of Illusions: Treasure Hunt ～New Chapter～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 201,
+    "name": "Radiant Artifacts: Lost Chapters",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 202,
+    "name": "World of Illusions: Treasure Hunt ～New Chapter～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 203,
+    "name": "World of Illusions: Carbuncle's Treasures",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 204,
+    "name": "Radiant Artifacts: Lost Chapters",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 205,
+    "name": "World of Illusions: Treasure Hunt ～Crystal Awakening～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 206,
+    "name": "World of Illusions: Treasure Hunt ～Awakening～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 207,
+    "name": "Radiant Artifacts: Lost Chapters",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 208,
+    "name": "World of Illusions: Carbuncle's Treasures",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 209,
+    "name": "Radiant Artifacts: Lost Chapters",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 210,
+    "name": "World of Illusions: Spring Hunt ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 211,
+    "name": "Radiant Artifacts: Lost Chapters ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 212,
+    "name": "Lost Chapter: A Lion's Heart",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 213,
+    "name": "Lost Chapter: The Girl from Oerba",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 214,
+    "name": "Lost Chapter: Castles in the Sky",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 215,
+    "name": "Lost Chapter: Thieves of the Sky",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 216,
+    "name": "Lost Chapter: The Small Summoner",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 217,
+    "name": "Lost Chapter: From Zanarkand",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 218,
+    "name": "Lost Chapter: That Detestable Child",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 219,
+    "name": "Lost Chapter: Of the High Seas",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 220,
+    "name": "Lost Chapter: The Hero of Ivalice",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 221,
+    "name": "Lost Chapter: The Power of Acceptance",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 222,
+    "name": "Lost Chapter: The Spirit of Salvation",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 223,
+    "name": "Lost Chapter: The Runaway Prince",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 224,
+    "name": "Lost Chapter: Will of the Dawn",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 225,
+    "name": "Lost Chapter: He Who Sings of Love",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 226,
+    "name": "Lost Chapter: A Burning Passion",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 227,
+    "name": "Lost Chapter: The Power of Valor",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 228,
+    "name": "Lost Chapter: The Princess of Dalmasca",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 229,
+    "name": "Lost Chapter: Inheriting the Past",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 230,
+    "name": "Lost Chapter: The Caring Adventurer",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 231,
+    "name": "Lost Chapter: Princess of Alexandria",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 232,
+    "name": "Lost Chapter: Legendary Guardian",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 233,
+    "name": "Lost Chapter: Raise the Runic Blade",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 234,
+    "name": "Lost Chapter: The Proud Lance of Baron",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 235,
+    "name": "Lost Chapter: The Beautiful Archeress",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 236,
+    "name": "Lost Chapter: A Mischievous Black Mage",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 237,
+    "name": "Lost Chapter: Taking the Gods' Stage",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 238,
+    "name": "Lost Chapter: Balamb Whiplash",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 239,
+    "name": "Lost Chapter: Vagaries of a Fractured Heart",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 240,
+    "name": "Lost Chapter: A Devoted Heart",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 241,
+    "name": "Lost Chapter: One-Winged Angel",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 242,
+    "name": "Lost Chapter: Space Dreams",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 243,
+    "name": "Lost Chapter: Shining In、 Someday",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 244,
+    "name": "Lost Chapter: Overcoming Sadness",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 245,
+    "name": "Lost Chapter: Another Realm",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 246,
+    "name": "Lost Chapter: Royal Hope",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 247,
+    "name": "Lost Chapter: With Trabia in Mind",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 248,
+    "name": "Lost Chapter: Itchin' for Greater Fights",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 249,
+    "name": "Lost Chapter: A Thousand Words",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 250,
+    "name": "Lost Chapter: Power is Everything",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 251,
+    "name": "Lost Chapter: Fangs of Promise",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 252,
+    "name": "Lost Chapter: The Power of Kindness",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 253,
+    "name": "Lost Chapter: Knight's Honor",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 254,
+    "name": "Lost Chapter: \"Treasure Hunting\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 255,
+    "name": "Lost Chapter: Right Arm with a Mission",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 256,
+    "name": "Lost Chapter: A Prayer for One Dear",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 257,
+    "name": "Lost Chapter: Golbez, Clad in Darkness",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 258,
+    "name": "Lost Chapter: Where to Go",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 259,
+    "name": "Lost Chapter: A New Journey",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 260,
+    "name": "Lost Chapter: Mysterious Siblings from a Mysterious World",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 261,
+    "name": "Lost Chapter: Conqueror's Duty",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 262,
+    "name": "Lost Chapter: Girded for Freedom",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 263,
+    "name": "Lost Chapter: A Reliable White Mage",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 264,
+    "name": "Lost Chapter: The Power of Innocence",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 265,
+    "name": "Lost Chapter: On the Road",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 266,
+    "name": "Lost Chapter: Walk This Way",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 267,
+    "name": "Lost Chapter: Royal Puppeteer",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 268,
+    "name": "Lost Chapter: Someday Never Comes",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 269,
+    "name": "Lost Chapter: Cycle of Battle",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 270,
+    "name": "Lost Chapter: Governess of Time",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 271,
+    "name": "Lost Chapter: Keeper of Fear",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 272,
+    "name": "Lost Chapter: A Captain's Loyalty",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 273,
+    "name": "Lost Chapter: Unbreakable Pride",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 274,
+    "name": "Lost Chapter: Dastardly Dominus",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 275,
+    "name": "Lost Chapter: The Power of Tranquility",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 276,
+    "name": "Lost Chapter: Wild Child of the Veldt",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 277,
+    "name": "Lost Chapter: Ambition for Provenance",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 278,
+    "name": "Lost Chapter: Caravan of Hope",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 279,
+    "name": "Lost Chapter: Roses of May",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 280,
+    "name": "Lost Chapter: Tree for the Void",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 281,
+    "name": "Lost Chapter: Keeper of the Farseer",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 282,
+    "name": "Lost Chapter: The Power of Ignorance",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 283,
+    "name": "Lost Chapter: Swordmaiden",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 284,
+    "name": "Lost Chapter: Reliable Partner",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 285,
+    "name": "Lost Chapter: Ghosts of the Past",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 286,
+    "name": "Lost Chapter: The Power of Knowledge",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 287,
+    "name": "Lost Chapter: The Yuke Cometh",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 288,
+    "name": "Lost Chapter: Ancient Memories",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 289,
+    "name": "Lost Chapter: The Power of Action",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 290,
+    "name": "Lost Chapter: Love, the Melody of Courage",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 291,
+    "name": "Lost Chapter: Lotsa Lore",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 292,
+    "name": "Lost Chapter: The Ice Reaper",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 293,
+    "name": "Lost Chapter: Around the Fire",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 294,
+    "name": "Lost Chapter: The Redheaded Turk",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 295,
+    "name": "Lost Chapter: The Terse Turk",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 296,
+    "name": "Lost Chapter: Thrall of Darkness",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 297,
+    "name": "Lost Chapter: Gentle Giant",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 298,
+    "name": "Lost Chapter: Commodore of the Skies",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 299,
+    "name": "Lost Chapter: Mother Fixation",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 300,
+    "name": "Lost Chapter: The Power of Wisdom",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 301,
+    "name": "Lost Chapter: Lofty Souls",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 302,
+    "name": "Lost Chapter: Shelke the Transparent",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 303,
+    "name": "Lost Chapter: Gentle Fist",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 304,
+    "name": "Lost Chapter: Wings Graven with Emotion",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 305,
+    "name": "Lost Chapter: An Elegant Coffee Break",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 306,
+    "name": "Lost Chapter: The Power of Tenacity",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 307,
+    "name": "Lost Chapter: Rubicante, Autarch of Flame",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 308,
+    "name": "Lost Chapter: The Man Known as the Immortal",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 309,
+    "name": "Lost Chapter: Fear for Home",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 310,
+    "name": "Lost Chapter: Guardian of the Crystals",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 311,
+    "name": "Lost Chapter: A Thin, Icy Smile",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 319,
+    "name": "World of Illusions: Treasure Hunt ～Crystal Awakening～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 320,
+    "name": "Radiant Artifacts: Lost Chapters",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 321,
+    "name": "Radiant Artifacts: Lost Chapters",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 322,
+    "name": "World of Illusions: Trials of Diabolos",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 323,
+    "name": "World of Illusions: Treasure Hunt ～Crystal Awakening～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 324,
+    "name": "Radiant Artifacts: Lost Chapters ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 325,
+    "name": "World of Illusions: Treasure Hunt ～New Chapter～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 326,
+    "name": "World of Illusions: Trials of the Brothers",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 327,
+    "name": "Radiant Artifacts: Lost Chapters ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 328,
+    "name": "World of Illusions: Spring Hunt ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 329,
+    "name": "Radiant Artifacts: Lost Chapters ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 330,
+    "name": "Radiant Artifacts: Lost Chapters ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 331,
+    "name": "World of Illusions: Treasure Hunt ～Crystal Awakening～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 332,
+    "name": "World of Illusions: Trials of Pandemonium",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 333,
+    "name": "World of Illusions: Treasure Hunt ～New Chapter～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 334,
+    "name": "Radiant Artifacts: Lost Chapters ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 335,
+    "name": "World of Illusions: Trials of Bahamut",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 336,
+    "name": "Radiant Artifacts: Lost Chapters ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 337,
+    "name": "World of Illusions: Treasure Hunt ～Crystal Awakening～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 338,
+    "name": "Radiant Artifacts: Lost Chapters ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 339,
+    "name": "World of Illusions: Treasure Hunt ～Crystal Awakening～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 340,
+    "name": "World of Illusions: Trials of Diabolos",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 341,
+    "name": "Radiant Artifacts: Lost Chapters ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 342,
+    "name": "World of Illusions: Treasure Hunt ～New Chapter～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 343,
+    "name": "Radiant Artifacts: Lost Chapters ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 344,
+    "name": "Radiant Artifacts: Lost Chapters ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 345,
+    "name": "Radiant Artifacts: Lost Chapters ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 346,
+    "name": "Radiant Artifacts: Lost Chapters ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 347,
+    "name": "Radiant Artifacts: Lost Chapters ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 348,
+    "name": "Radiant Artifacts: Where to Go",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 364,
+    "name": "Power & Magic's Chasm: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 365,
+    "name": "Power & Magic's Chasm: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 366,
+    "name": "Power & Magic's Chasm: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 367,
+    "name": "Power & Magic's Chasm: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 388,
+    "name": "World of Illusions Ultimate: Ifrit",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 392,
+    "name": "Summer's Chasm 1: Pitch",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 393,
+    "name": "Summer's Chasm 1: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 394,
+    "name": "Summer's Chasm 1: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 395,
+    "name": "Summer's Chasm 2: Pitch",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 396,
+    "name": "Summer's Chasm 2: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 397,
+    "name": "Summer's Chasm 2: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 403,
+    "name": "Encountering the Dark Dragon: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 404,
+    "name": "Giant Across Dimensions – Atlas Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 405,
+    "name": "Radiant Artifacts: A New Journey",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 406,
+    "name": "World of Illusions: Treasure Hunt ～New Chapter～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 407,
+    "name": "Radiant Artifacts: Mysterious Siblings from a Mysterious World",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 408,
+    "name": "Radiant Artifacts: Lost Chapters ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 409,
+    "name": "Radiant Artifacts: Conqueror's Duty",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 410,
+    "name": "Radiant Artifacts: Lost Chapters ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 412,
+    "name": "Radiant Artifacts: Girded for Freedom",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 413,
+    "name": "World of Illusions: Treasure Hunt ～Crystal Awakening～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 414,
+    "name": "Radiant Artifacts: Lost Chapters ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 415,
+    "name": "Radiant Artifacts: A Reliable White Mage",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 416,
+    "name": "World of Illusions: Treasure Hunt ～New Chapter～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 417,
+    "name": "Radiant Artifacts: Lost Chapters ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 418,
+    "name": "Radiant Artifacts: Sincere Strength",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 419,
+    "name": "World of Illusions: Treasure Hunt ～Crystal Awakening～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 420,
+    "name": "Radiant Artifacts: Lost Chapters ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 441,
+    "name": "World of Illusions Ultimate: Shiva",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 442,
+    "name": "World of Illusions Ultimate: Ramuh",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 443,
+    "name": "World of Illusions Ultimate: Leviathan",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 444,
+    "name": "World of Illusions Ultimate: the Brothers",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 445,
+    "name": "World of Illusions Ultimate: Pandemonium",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 446,
+    "name": "World of Illusions Ultimate: Diabolos",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 447,
+    "name": "World of Illusions Ultimate: Alexander",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 448,
+    "name": "World of Illusions Ultimate: Odin",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 449,
+    "name": "World of Illusions Ultimate: Bahamut",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 452,
+    "name": "Encountering the Dark Dragon: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 453,
+    "name": "Encountering the Dark Dragon: Pitch",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 454,
+    "name": "Encountering the Furnacekeepers: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 455,
+    "name": "Encountering the Furnacekeepers: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 456,
+    "name": "Encountering the Furnacekeepers: Pitch",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 458,
+    "name": "Encountering Death's Daggers: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 459,
+    "name": "Encountering Death's Daggers: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 460,
+    "name": "Encountering Death's Daggers: Pitch",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 462,
+    "name": "Crystal-Encrusted Chelonian: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 463,
+    "name": "Crystal-Encrusted Chelonian: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 464,
+    "name": "Crystal-Encrusted Chelonian: Pitch",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 466,
+    "name": "Blockade of the Ancient Mechs: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 467,
+    "name": "Blockade of the Ancient Mechs: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 468,
+    "name": "Blockade of the Ancient Mechs: Pitch",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 470,
+    "name": "Dimensions' End: Pathos",
+    "story_part": 0,
+    "stage_id": 69
+  },
+  {
+    "id": 471,
+    "name": "Calamity Unleashed – Blackened Will Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 472,
+    "name": "Usher of Mist – Soulcage Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 473,
+    "name": "Confronting the Core – CPU Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 474,
+    "name": "Let Slip Hell's Hound - Cerberus Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 475,
+    "name": "Time for Summer、 Beaches、 and...Cactuars!?",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 476,
+    "name": "Wings at the Ready – Sanctuary Keeper Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 478,
+    "name": "Charging Power: 128% - Soul Cannon Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 479,
+    "name": "Despair Gathering from Afar",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 481,
+    "name": "The Final Battlefield - Shinryu Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 482,
+    "name": "Centaurion's Reign - Tyrant Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 483,
+    "name": "Mechanized Sentry - Guard Scorpion Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 484,
+    "name": "Devourer of Light - Hell Wyrm Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 485,
+    "name": "His Raging Blade - Kaiser Behemoth Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 486,
+    "name": "Lord of Subsidence – Tunneler Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 487,
+    "name": "Twilight Banquet – Astaroth Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 488,
+    "name": "Lure of the Lush – Rafflesia Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 489,
+    "name": "Triple Gateway – CPU Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 491,
+    "name": "Burrow of the Phoenix NORMAL",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 492,
+    "name": "Burrow of the Phoenix HARD",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 493,
+    "name": "Ancient Relic of Prosperity NORMAL",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 494,
+    "name": "Ancient Relic of Prosperity HARD",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 495,
+    "name": "Storming the Citadel NORMAL",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 496,
+    "name": "Storming the Citadel HARD",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 497,
+    "name": "The Mage in the Castle",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 498,
+    "name": "Illusory Lighthouse",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 499,
+    "name": "Illusory Lighthouse CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 500,
+    "name": "Glittering City of Gold",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 501,
+    "name": "Power & Magic's Chasm: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 502,
+    "name": "Power & Magic's Chasm: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 503,
+    "name": "Power & Magic's Chasm: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 504,
+    "name": "Power & Magic's Chasm: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 505,
+    "name": "Power's Chasm",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 506,
+    "name": "Magic's Chasm",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 507,
+    "name": "Power & Magic's Chasm: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 508,
+    "name": "Power & Magic's Chasm: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 526,
+    "name": "World of Illusions: Treasure Hunt ～1st Anniversary～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 527,
+    "name": "World of Illusions: Treasure Hunt ～1st Anniversary～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 528,
+    "name": "World of Illusions: Treasure Hunt ～1st Anniversary～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 529,
+    "name": "World of Illusions: Treasure Hunt ～1st Anniversary～",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 541,
+    "name": "Heretic Challenge Delta: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 542,
+    "name": "Heretic Challenge Delta: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 543,
+    "name": "Heretic Challenge Theta: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 544,
+    "name": "Heretic Challenge Theta: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 545,
+    "name": "Radiant Artifacts: Summer's Chasm ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 546,
+    "name": "Radiant Artifacts: Summer's Chasm ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 547,
+    "name": "Radiant Artifacts: World of Illusions Ultimate",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 548,
+    "name": "Perfectum: Lost Chapter Trials I",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 549,
+    "name": "Perfectum: Lost Chapter Trials II",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 550,
+    "name": "Perfectum: Lost Chapter Trials III",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 551,
+    "name": "Perfectum: Lost Chapter Trials IV",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 552,
+    "name": "Perfectum: Lost Chapter Trials V",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 553,
+    "name": "Perfectum: Lost Chapter Trials VI",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 554,
+    "name": "Perfectum: Lost Chapter Trials VII",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 555,
+    "name": "Perfectum: Lost Chapter Trials VIII",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 556,
+    "name": "Perfectum: Lost Chapter Trials IX",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 560,
+    "name": "Radiant Artifacts: Beach Bash 1",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 561,
+    "name": "Radiant Artifacts: Beach Bash 2",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 562,
+    "name": "Abyss β Stratum 1",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 563,
+    "name": "Abyss β Stratum 2",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 564,
+    "name": "Abyss β Stratum 3",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 565,
+    "name": "Abyss β Stratum 4",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 566,
+    "name": "Abyss β Stratum 5",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 567,
+    "name": "Abyss β Stratum 6",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 568,
+    "name": "Radiant Artifacts: Abyss β I",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 569,
+    "name": "Radiant Artifacts: Abyss β II",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 570,
+    "name": "Radiant Artifacts: World of Illusions Ultimate",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 572,
+    "name": "Abyss β Stratum 7",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 573,
+    "name": "Abyss β Stratum 8",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 574,
+    "name": "Abyss β Stratum 9",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 577,
+    "name": "World of Illusions: Radiant Artifact Tokens",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 578,
+    "name": "Abyss β Stratum 10",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 579,
+    "name": "Abyss β Stratum 10",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 580,
+    "name": "Abyss β Stratum 10",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 583,
+    "name": "A Golden New Year",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 590,
+    "name": "Abyss: Factory",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 591,
+    "name": "Abyss: Reactor 1",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 592,
+    "name": "Abyss: Reactor 2",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 593,
+    "name": "Abyss: Reactor 3",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 594,
+    "name": "Abyss: Reactor 4",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 595,
+    "name": "Abyss: Factory",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 596,
+    "name": "Abyss: Reactor 1",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 597,
+    "name": "Abyss: Reactor 2",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 598,
+    "name": "Abyss: Reactor 3",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 599,
+    "name": "Abyss: Reactor 4",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 601,
+    "name": "Glittering City of Gold CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 620,
+    "name": "Dimensions' End: Entropy",
+    "story_part": 0,
+    "stage_id": 74
+  },
+  {
+    "id": 621,
+    "name": "Dimensions' End: Order",
+    "story_part": 0,
+    "stage_id": 69
+  },
+  {
+    "id": 628,
+    "name": "World of Illusions: Trials of the Spirit Moogle",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 655,
+    "name": "World of Illusions: Carbuncle's Treasures",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 656,
+    "name": "World of Illusions: Carbuncle's Treasures",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 676,
+    "name": "Daily Token Foray",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 677,
+    "name": "Daily Medal Foray",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 680,
+    "name": "Daily Token Foray",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 723,
+    "name": "World of Illusions Divine",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 724,
+    "name": "World of Illusions Divine: Diabolos [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 725,
+    "name": "From the Dark It Comes",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 726,
+    "name": "World of Illusions Divine",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 727,
+    "name": "World of Illusions Divine: Ramuh [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 728,
+    "name": "Thundering Judgment",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 729,
+    "name": "World of Illusions Divine: Alexander",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 730,
+    "name": "Assailing Alexander CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 731,
+    "name": "Majestic Resilience",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 732,
+    "name": "World of Illusions Divine: The Brothers",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 733,
+    "name": "Assailing The Brothers CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 734,
+    "name": "With Compassion and Honor",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 735,
+    "name": "World of Illusions Divine: Pandemonium",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 736,
+    "name": "Assailing Pandemonium CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 738,
+    "name": "World of Illusions Divine: Shiva",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 739,
+    "name": "Assailing Shiva CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 740,
+    "name": "Frigid Beauty",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 741,
+    "name": "World of Illusions Divine: Ifrit",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 742,
+    "name": "Assailing Ifrit CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 743,
+    "name": "Dancing in Flames",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 744,
+    "name": "World of Illusions Divine: Leviathan",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 745,
+    "name": "Assailing Leviathan CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 746,
+    "name": "Cloudy with a Chance of Feathers",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 747,
+    "name": "World of Illusions Divine: Bahamut",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 748,
+    "name": "Assailing Bahamut CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 749,
+    "name": "Token Challenge \"The Dragon King's Right of Rule\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 750,
+    "name": "World of Illusions Divine: Odin",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 752,
+    "name": "Token Challenge \"Peerless Glint\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 777,
+    "name": "The Veiled Magician: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 778,
+    "name": "The Veiled Magician: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 779,
+    "name": "The Veiled Magician: Pitch",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 781,
+    "name": "A Song of Ice and Iron: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 782,
+    "name": "A Song of Ice and Iron: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 783,
+    "name": "A Song of Ice and Iron: Pitch",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 785,
+    "name": "Intercession of the Wicked: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 786,
+    "name": "Intercession of the Wicked: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 787,
+    "name": "Intercession of the Wicked: Pitch",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 789,
+    "name": "The Sneering Demon: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 790,
+    "name": "The Sneering Demon: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 791,
+    "name": "The Sneering Demon: Pitch",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 792,
+    "name": "Operation Airborne Interception: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 793,
+    "name": "Operation Airborne Interception: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 794,
+    "name": "Operation Airborne Interception: Pitch",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 797,
+    "name": "Terrible Mechanical Tentacles: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 798,
+    "name": "Terrible Mechanical Tentacles: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 799,
+    "name": "Terrible Mechanical Tentacles: Pitch",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 801,
+    "name": "Crimson Arms: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 802,
+    "name": "Crimson Arms: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 803,
+    "name": "Crimson Arms: Pitch",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 804,
+    "name": "A Glimmer in the Dark: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 805,
+    "name": "A Glimmer in the Dark: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 806,
+    "name": "A Glimmer in the Dark: Pitch",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 807,
+    "name": "Queen of Charm: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 808,
+    "name": "Queen of Charm: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 810,
+    "name": "Charging Power: 128% - Soul Cannon Raid [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 811,
+    "name": "Lost Chapter: Cycle of Battle CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 813,
+    "name": "The Yuke Cometh CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 814,
+    "name": "The Veiled Magician CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 815,
+    "name": "Ancient Memories CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 816,
+    "name": "Lost Chapter: Governess of Time CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 818,
+    "name": "The Power of Action CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 819,
+    "name": "Lost Chapter: Keeper of Fear CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 821,
+    "name": "Across the Skies CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 822,
+    "name": "A Song of Ice and Iron: Pitch CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 823,
+    "name": "World of Illusions Ultimate: Odin [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 824,
+    "name": "World of Illusions Ultimate: Bahamut [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 827,
+    "name": "Lost Chapter: A Captain's Loyalty CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 829,
+    "name": "Lost Chapter: Unbreakable Pride CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 830,
+    "name": "Intercession of the Wicked: Pitch CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 831,
+    "name": "Despair Gathering from Afar [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 832,
+    "name": "Despair Gathering Nearby [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 833,
+    "name": "Love, the Melody of Courage CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 834,
+    "name": "Warriors of Light CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 836,
+    "name": "Lost Chapter: Dastardly Dominus CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 837,
+    "name": "Lotsa Lore CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 839,
+    "name": "Lost Chapter: The Power of Tranquility CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 854,
+    "name": "Ice Reaper CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 855,
+    "name": "Around the Fire CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 856,
+    "name": "Lost Chapter: Wild Child of the Veldt CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 859,
+    "name": "Centaurion's Reign - Tyrant Raid [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 860,
+    "name": "Mechanized Sentry - Guard Scorpion Raid [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 861,
+    "name": "Devourer of Light - Hell Wyrm Raid [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 862,
+    "name": "His Raging Blade - Kaiser Behemoth Raid [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 863,
+    "name": "Lord of Subsidence – Tunneler Raid [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 864,
+    "name": "Twilight Banquet – Astaroth Raid [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 865,
+    "name": "Lure of the Lush – Rafflesia Raid [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 866,
+    "name": "Triple Gateway – CPU Raid [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 867,
+    "name": "The Redheaded Turk CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 868,
+    "name": "The Terse Turk CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 869,
+    "name": "Thrall of Darkness CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 870,
+    "name": "Gentle Giant CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 871,
+    "name": "Commodore of the Skies CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 872,
+    "name": "Mother Fixation CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 873,
+    "name": "The Power of Wisdom CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 874,
+    "name": "Lofty Souls CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 875,
+    "name": "Shelke the Transparent CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 876,
+    "name": "The Man Known as the Immortal CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 877,
+    "name": "Gentle Fist CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 878,
+    "name": "Wings Graven with Emotion CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 879,
+    "name": "An Elegant Coffee Break CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 880,
+    "name": "The Power of Tenacity CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 882,
+    "name": "Lost Chapter: Ambition for Provenance CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 883,
+    "name": "Lost Chapter: Caravan of Hope CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 884,
+    "name": "Lost Chapter: Roses of May CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 885,
+    "name": "Lost Chapter: Tree for the Void CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 886,
+    "name": "Lost Chapter: Keeper of the Farseer CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 887,
+    "name": "Lost Chapter: The Power of Ignorance CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 888,
+    "name": "Lost Chapter: Swordmaiden CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 889,
+    "name": "Lost Chapter: Reliable Partner CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 890,
+    "name": "Lost Chapter: Ghosts of the Past CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 891,
+    "name": "Lost Chapter: The Power of Knowledge CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 892,
+    "name": "Lost Chapter: The Yuke Cometh CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 893,
+    "name": "Lost Chapter: Ancient Memories CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 894,
+    "name": "Lost Chapter: The Power of Action CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 895,
+    "name": "Lost Chapter: Love, the Melody of Courage CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 896,
+    "name": "Lost Chapter: Lotsa Lore CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 897,
+    "name": "Lost Chapter: The Ice Reaper CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 898,
+    "name": "Lost Chapter: Around the Fire CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 899,
+    "name": "Lost Chapter: The Redheaded Turk CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 900,
+    "name": "Lost Chapter: The Terse Turk CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 901,
+    "name": "Abyss: Normal 1A",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 902,
+    "name": "Abyss: Normal 1B",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 903,
+    "name": "Abyss: Normal 2A",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 904,
+    "name": "Abyss: Normal 2B",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 905,
+    "name": "Abyss: Normal 2C",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 906,
+    "name": "Abyss: Normal 3A",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 907,
+    "name": "Abyss: Normal 3B",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 908,
+    "name": "Abyss: Normal 3C",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 910,
+    "name": "This...May Be Gigantic [Co-op]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 911,
+    "name": "Abyss: Normal 4A",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 912,
+    "name": "Abyss: Normal 4B",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 913,
+    "name": "Abyss: Normal 4C",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 914,
+    "name": "Abyss: Normal 4D",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 915,
+    "name": "Abyss: Normal 5A",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 916,
+    "name": "Abyss: Normal 5B",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 917,
+    "name": "Abyss: Normal 5C",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 918,
+    "name": "Abyss: Normal 5D",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 919,
+    "name": "Abyss: Normal 6A",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 920,
+    "name": "Abyss: Normal 6B",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 921,
+    "name": "Abyss: Normal 6C",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 922,
+    "name": "Abyss: Normal 6D",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 927,
+    "name": "Abyss: Perfectum 1A",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 928,
+    "name": "Abyss: Perfectum 1B",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 929,
+    "name": "Abyss: Perfectum 2A",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 930,
+    "name": "Abyss: Perfectum 2B",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 931,
+    "name": "Abyss: Perfectum 2C",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 932,
+    "name": "Abyss: Perfectum 3A",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 933,
+    "name": "Abyss: Perfectum 3B",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 934,
+    "name": "Abyss: Perfectum 3C",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 935,
+    "name": "The Chosen King's Future CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 936,
+    "name": "Daily Hunt",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 937,
+    "name": "Despair Gathering Nearby",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 940,
+    "name": "Abyss: Mist Memoria",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 941,
+    "name": "Abyss: Mist Memoria",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 942,
+    "name": "Abyss: Mist Memoria",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 943,
+    "name": "Abyss: Mist Memoria Hard",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 944,
+    "name": "Abyss: Mist Memoria Hard",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 945,
+    "name": "Abyss: Mist Memoria Hard",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 946,
+    "name": "Winter Hunt",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 947,
+    "name": "Abyss: A Lead to the Thick of It",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 948,
+    "name": "Abyss: A Lead to the Thick of It Hard",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 949,
+    "name": "Abyss: Dateless Rendezvous",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 950,
+    "name": "Abyss: Dateless Rendezvous Hard",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 954,
+    "name": "Abyss: Perfectum 4A",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 955,
+    "name": "Abyss: Perfectum 4B",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 956,
+    "name": "Abyss: Perfectum 4C",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 957,
+    "name": "Abyss: Perfectum 5A",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 958,
+    "name": "Abyss: Perfectum 5B",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 959,
+    "name": "Abyss: Perfectum 5C",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 962,
+    "name": "Invaders from Distant Seas",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 963,
+    "name": "Equinox Aurora NORMAL",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 964,
+    "name": "Equinox Aurora HARD",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 965,
+    "name": "Umbral Equinox NORMAL",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 966,
+    "name": "Umbral Equinox HARD",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 967,
+    "name": "Equinox Aurora CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 968,
+    "name": "Umbral Equinox CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 971,
+    "name": "Malodorous Night CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 972,
+    "name": "Abyss: Perfectum 6A",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 973,
+    "name": "Abyss: Perfectum 6B",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 974,
+    "name": "Abyss: Perfectum 6C",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 976,
+    "name": "Return of the Queen CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 977,
+    "name": "Crevasse β",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 978,
+    "name": "Crevasse β [Co-op]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 979,
+    "name": "Crevasse β [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 980,
+    "name": "Annular Equinox NORMAL",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 981,
+    "name": "Annular Equinox HARD",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 982,
+    "name": "Annular Equinox CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 983,
+    "name": "Thalassic Ravages",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 984,
+    "name": "Cloudy with a Chance of Squall",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 985,
+    "name": "Cloudy with a Chance of Squall CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 986,
+    "name": "Cloudy with a Chance of Meteor",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 987,
+    "name": "Cloudy with a Chance of Meteor CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 988,
+    "name": "Eyes on the Prize",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 989,
+    "name": "Eyes on the Prize CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 990,
+    "name": "Finis est Initium",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 991,
+    "name": "Ventus Violaceus",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 993,
+    "name": "Dare to Defy",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 994,
+    "name": "Red Comet",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 995,
+    "name": "Mog's Gym: Novice",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 997,
+    "name": "Mog's Gym: Intermediate",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1000,
+    "name": "Crevasse: Hallowed Depths",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1001,
+    "name": "Lost Chapter: Thrall of Darkness CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1002,
+    "name": "Lost Chapter: Gentle Giant CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1003,
+    "name": "Lost Chapter: Commodore of the Skies CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1004,
+    "name": "Lost Chapter: Mother Fixation CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1005,
+    "name": "Lost Chapter: The Power of Wisdom CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1006,
+    "name": "Lost Chapter: Lofty Souls CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1007,
+    "name": "Lost Chapter: Shelke the Transparent CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1013,
+    "name": "Lost Chapter – Cor",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1014,
+    "name": "Lost Chapter – Reks",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1015,
+    "name": "Lost Chapter – Dorgann",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1016,
+    "name": "Lost Chapter – Nabaat",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1017,
+    "name": "Queen of Charm: Pitch",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1018,
+    "name": "Heartless Gaze: Catalyst",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1019,
+    "name": "Heartless Gaze: Rising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1047,
+    "name": "The Sneering Demon: Pitch CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1048,
+    "name": "Challenge(?) from Magic Pots",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1071,
+    "name": "Soaring Flames",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1072,
+    "name": "Garden of Despair ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1073,
+    "name": "From the Forest's Depths ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1074,
+    "name": "In the Garden of Evil ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1075,
+    "name": "The Forbidden Mesa",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1076,
+    "name": "The Abandoned Laboratory",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1077,
+    "name": "Cavern of No Return",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1081,
+    "name": "Dragoon's Onslaught",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1082,
+    "name": "Iron Air-Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1083,
+    "name": "Thin, Sharp, and Slithering",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1084,
+    "name": "Chase of the Wild",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1085,
+    "name": "Wicked Winds",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1086,
+    "name": "Ruler of Antiquity",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1087,
+    "name": "Steel Predator",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1092,
+    "name": "Operation Airborne Interception: Pitch CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1093,
+    "name": "Dimensions' End: Transcendence",
+    "story_part": 0,
+    "stage_id": 110
+  },
+  {
+    "id": 1094,
+    "name": "Eternal Light CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1095,
+    "name": "Two Moons Waxing CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1096,
+    "name": "Unceasing Circle NORMAL",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1097,
+    "name": "Unceasing Circle HARD",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1098,
+    "name": "Black Wings Bringing Death NORMAL",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1099,
+    "name": "Black Wings Bringing Death HARD",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1100,
+    "name": "Faceless Lingerer NORMAL",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1101,
+    "name": "Faceless Lingerer HARD",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1102,
+    "name": "Cragged Menace NORMAL",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1103,
+    "name": "Cragged Menace HARD",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1106,
+    "name": "Violet Mantis NORMAL",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1107,
+    "name": "Violet Mantis HARD",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1108,
+    "name": "Grinning Death NORMAL",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1109,
+    "name": "Grinning Death HARD",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1112,
+    "name": "Hammer of Wrath Normal",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1113,
+    "name": "Hammer of Wrath Hard",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1114,
+    "name": "Machine of Calamity NORMAL",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1115,
+    "name": "Machine of Calamity HARD",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1116,
+    "name": "Unceasing Circle CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1117,
+    "name": "Black Wings Bringing Death CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1118,
+    "name": "Faceless Lingerer CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1119,
+    "name": "Cragged Menace CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1121,
+    "name": "Violet Mantis CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1122,
+    "name": "Grinning Death CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1124,
+    "name": "Hammer of Wrath CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1127,
+    "name": "Terrible Mechanical Tentacles: Pitch CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1128,
+    "name": "Solitude CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1129,
+    "name": "Searching for Friends CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1132,
+    "name": "Crimson Arms: Pitch CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1133,
+    "name": "Dark Quickening CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1134,
+    "name": "Dusky Wings",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1135,
+    "name": "Ballads and Rhapsodies CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1136,
+    "name": "Deep Moaning",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1147,
+    "name": "Gone with the Storm",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1148,
+    "name": "Grating Dread NORMAL",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1149,
+    "name": "A Curious Grin NORMAL",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1153,
+    "name": "Grating Dread HARD",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1154,
+    "name": "A Curious Grin HARD",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1191,
+    "name": "Divine Realm EXTRA HARD",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1192,
+    "name": "Illuminating Dreams CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1193,
+    "name": "Token Challenge \"Beyond the Ivory Scales\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1194,
+    "name": "In Passing CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1195,
+    "name": "Token Challenge \"Wisdom of Tomes\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1231,
+    "name": "Harvest Madness Pt. 1",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1232,
+    "name": "Harvest Madness Pt. 1 CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1233,
+    "name": "Harvest Madness Pt. 2",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1234,
+    "name": "Harvest Madness Pt. 2 CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1337,
+    "name": "A Glimmer in the Dark: Pitch CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1338,
+    "name": "Savage Winds – Elvoret Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1339,
+    "name": "Lunar Tyrant – Dark Bahamut Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1340,
+    "name": "Howling Winds – Tiamat Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1341,
+    "name": "Dauntless Defender – Defender Z Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1342,
+    "name": "Lithely Bends the Tail – Cray Claw Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1343,
+    "name": "Vestiges of Passing Glory – Crystal Armor Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1344,
+    "name": "Anachronistic Protector – Guardian Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1345,
+    "name": "Rivalry Between Light and Dark – The Emperor Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1346,
+    "name": "Rivalry Between Light and Dark – Safer Sephiroth Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1347,
+    "name": "Rivalry Between Light and Dark – Junction Griever Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1348,
+    "name": "Rivalry Between Light and Dark – Jegran's Core Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1349,
+    "name": "Advent of the Dragon King – Bahamut Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1350,
+    "name": "Sword Dance of Lightning - Marilith Tempest Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1351,
+    "name": "Impenetrable Guardian - Optimus Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1352,
+    "name": "Rags of Stigma - Tattered Ghost Raid",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1368,
+    "name": "Savage Winds – Elvoret Raid CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1369,
+    "name": "Lunar Tyrant – Dark Bahamut Raid CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1370,
+    "name": "Howling Winds – Tiamat Raid CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1398,
+    "name": "Intersecting Wills: Whither Feelings",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1399,
+    "name": "Intersecting Wills: Back to Back",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1400,
+    "name": "Intersecting Wills: Parted Hopes",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1401,
+    "name": "Intersecting Wills: Unshakable Conviction",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1402,
+    "name": "Intersecting Wills: Perfect Size",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1403,
+    "name": "Intersecting Wills: Starting Out",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1404,
+    "name": "Intersecting Wills: Our Memories",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1405,
+    "name": "Intersecting Wills: Respite? Or Quagmire?",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1406,
+    "name": "Intersecting Wills: Roaring Thunder",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1407,
+    "name": "Intersecting Wills: Blade for the Heart",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1408,
+    "name": "Intersecting Wills: Wrapped in Kindness",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1409,
+    "name": "Intersecting Wills: Comfortably Uncompromising",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1410,
+    "name": "Intersecting Wills: Professional's Pride",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1411,
+    "name": "Intersecting Wills: Forcefully with Dignity",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1412,
+    "name": "Intersecting Wills: Steps Severe",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1413,
+    "name": "Intersecting Wills: A Bouquet of Thoughts and Feelings",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1414,
+    "name": "Intersecting Wills: Unfading Days",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1415,
+    "name": "Intersecting Wills: Admiration",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1416,
+    "name": "Intersecting Wills: An Awkward Pair",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1417,
+    "name": "Intersecting Wills: Oath within My Breast",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1418,
+    "name": "Intersecting Wills: To Where I Walk with My Determination",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1419,
+    "name": "Intersecting Wills: Play Bittersweet For Me",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1420,
+    "name": "Intersecting Wills: Light of Resolution",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1421,
+    "name": "Intersecting Wills: A Boss You Can Count On",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1422,
+    "name": "Intersecting Wills: Recording Memories",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1423,
+    "name": "Intersecting Wills: Sinister Schemes",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1424,
+    "name": "Intersecting Wills: From the End of a Long Road",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1425,
+    "name": "Intersecting Wills: Invaders",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1426,
+    "name": "Intersecting Wills: God Only Hopes",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1427,
+    "name": "Intersecting Wills: Imagining the Future",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1498,
+    "name": "Queen of Charm: Pitch CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1499,
+    "name": "Heartless Gaze: Pitch CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1509,
+    "name": "Intersecting Wills: Whither Feelings CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1510,
+    "name": "Intersecting Wills: Back to Back CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1511,
+    "name": "Intersecting Wills: Parted Hopes CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1512,
+    "name": "Intersecting Wills: Unshakable Conviction CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1513,
+    "name": "Intersecting Wills: Perfect Size CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1514,
+    "name": "Intersecting Wills: Starting Out CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1515,
+    "name": "Intersecting Wills: Our Memories CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1516,
+    "name": "Intersecting Wills: Respite? Or Quagmire? CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1517,
+    "name": "Intersecting Wills: Roaring Thunder CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1518,
+    "name": "Intersecting Wills: Blade for the Heart CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1532,
+    "name": "Token Challenge \"Blizzard, Blizzard\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1533,
+    "name": "Intersecting Wills – Paine",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1534,
+    "name": "Intersecting Wills – Shantotto",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1535,
+    "name": "Token Challenge \"Summer Festival Part 1\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1536,
+    "name": "Intersecting Wills – Sephiroth",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1537,
+    "name": "Intersecting Wills – Enna Kros",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1538,
+    "name": "Intersecting Wills – Kadaj",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1609,
+    "name": "Challenge(?) from Magic Pots",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1675,
+    "name": "Heartless Gaze: Pitch",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1677,
+    "name": "Gathering Bearers、 Entrusted Principle CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1678,
+    "name": "Token Challenge \"Clanging All the Way\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1679,
+    "name": "Clanging All the Way CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1680,
+    "name": "Where the Compass Points CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1681,
+    "name": "Token Challenge \"Hot Breath Rending the Skies\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1697,
+    "name": "Family –Shackles– CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1698,
+    "name": "Token Challenge \"Skulls in the Wind\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1700,
+    "name": "Family –Bonds– CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1701,
+    "name": "Token Challenge \"Meet Me in Pandaemonium\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1702,
+    "name": "Supplication for Catastrophe Normal",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1703,
+    "name": "Supplication for Catastrophe Hard",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1704,
+    "name": "Supplication for Catastrophe CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1727,
+    "name": "Cloudy with a Chance of Feathers CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1728,
+    "name": "Cloudy with a Chance of B00M",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1729,
+    "name": "Cloudy with a Chance of B00M CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1730,
+    "name": "Holy Ground CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1731,
+    "name": "Token Challenge \"Rending Claws\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1732,
+    "name": "The Planet & The Hero CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1733,
+    "name": "Token Challenge \"Frog Song\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1734,
+    "name": "Distorted Providence Normal",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1735,
+    "name": "Distorted Providence Hard",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1736,
+    "name": "Distorted Providence CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1744,
+    "name": "Six-Warrior Quests [Prelude]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1745,
+    "name": "Six-Warrior Quests",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1765,
+    "name": "Token Challenge \"Genocide Crab\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1766,
+    "name": "Token Challenge \"One-Horned King of Beasts\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1767,
+    "name": "Token Challenge \"Cry of the Dead\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1768,
+    "name": "Token Challenge \"Huff and Puff\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1786,
+    "name": "Genocide Crab CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1787,
+    "name": "Token Challenge \"Tornado, Tornado\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1788,
+    "name": "Token Challenge \"Gentleman, Gentleman\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1789,
+    "name": "Token Challenge \"Act 4, Ch. 1, Pt. 1\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1790,
+    "name": "Token Challenge \"Act 4, Ch. 2, Pt. 1\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1791,
+    "name": "Token Challenge \"Summer Festival Part 2\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1792,
+    "name": "Token Challenge \"Act 4, Ch. 4, Pt. 1\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1793,
+    "name": "Token Challenge \"Act 4, Ch. 5, Pt. 1\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1794,
+    "name": "Token Challenge \"Act 4, Ch. 6, Pt. 1\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1813,
+    "name": "King of Destruction Normal",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1814,
+    "name": "King of Destruction Hard",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1815,
+    "name": "King of Destruction CHAOS [Challenge]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1817,
+    "name": "Token Challenge \"Hunting Orders\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1819,
+    "name": "Token Challenge \"Belching Purple\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1823,
+    "name": "Blue Pulse Normal",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1824,
+    "name": "Blue Pulse Hard",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1835,
+    "name": "Token Challenge \"Amidst the Tides of Time\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1836,
+    "name": "Token Challenge \"The Sorceress's Guard Dog\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1839,
+    "name": "World of Illusions Spiritus: The Brothers",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1840,
+    "name": "World of Illusions Spiritus: Pandemonium",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1841,
+    "name": "World of Illusions Spiritus: Ramuh",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1842,
+    "name": "World of Illusions Spiritus: Bahamut",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1843,
+    "name": "World of Illusions Spiritus: Shiva",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1844,
+    "name": "World of Illusions Spiritus: Ifrit",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1845,
+    "name": "World of Illusions Spiritus: Leviathan",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1846,
+    "name": "World of Illusions Spiritus: Alexander",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1847,
+    "name": "World of Illusions Spiritus: Diabolos",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1849,
+    "name": "Token Challenge \"A New Rumbling\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1850,
+    "name": "Token Challenge \"My Warden Is...\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1851,
+    "name": "Token Challenge \"Accede to the Deep, to Enmity\" ",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1862,
+    "name": "Dragon Seated in Heaven Normal",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1863,
+    "name": "Dragon Seated in Heaven Hard",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1864,
+    "name": "Token Challenge \"Wrapped in Icy Winds\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1865,
+    "name": "Token Challenge \"Incarnation of Fury\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1866,
+    "name": "Challenge(?) from Magic Pots",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1867,
+    "name": "Recurring World Normal",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1868,
+    "name": "Recurring World Hard",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1869,
+    "name": "Token Challenge \"We're Hair to Kill\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1873,
+    "name": "Finale, Climax, \"Seat of the Gods\"",
+    "story_part": 3,
+    "stage_id": -1
+  },
+  {
+    "id": 1875,
+    "name": "execute.neutralize_opposition Normal",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1876,
+    "name": "execute.neutralize_opposition Hard",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1881,
+    "name": "Fluttering Eyes Normal",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1882,
+    "name": "Fluttering Eyes Hard",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1883,
+    "name": "Token Challenge \"Savage Brute\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1885,
+    "name": "Lost Chapter: Dawn's Howl Shattering Illusions",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1886,
+    "name": "Lost Chapter: Sage of a Distant Moon",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1887,
+    "name": "Lost Chapter: Sloppy Provisioner",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1915,
+    "name": "Single Challenge Dimensions' End: Transcendence, Tier 14",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1916,
+    "name": "Single Challenge Act 4, Ch. 1, Pt. 2",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1917,
+    "name": "Single Challenge Six-Warrior Quests Area 5",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1918,
+    "name": "Single Challenge Dimensions' End: Transcendence, Tier 15",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1919,
+    "name": "Single Challenge Act 4, Ch. 2, Pt. 2",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1920,
+    "name": "Single Challenge Six-Warrior Quests Area 6",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1922,
+    "name": "Single Challenge Act 4, Ch. 3, Pt. 2",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1923,
+    "name": "Single Challenge Six-Warrior Quests Area 7",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1924,
+    "name": "Single Challenge Raid Boss Beat Back Challenge",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1925,
+    "name": "Single Challenge Act 4, Ch. 4, Pt. 2",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1926,
+    "name": "Single Challenge Six-Warrior Quests Area 8",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1927,
+    "name": "Single Challenge Raid Boss Beat Back Challenge",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1928,
+    "name": "Single Challenge Act 4, Ch. 5, Pt. 2",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1930,
+    "name": "Single Challenge Raid Boss Beat Back Challenge",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1931,
+    "name": "Single Challenge Act 4, Ch. 6, Pt. 2",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1954,
+    "name": "Lost Chapter – Kelger",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1955,
+    "name": "Lost Chapter – Fusoya",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1956,
+    "name": "Lost Chapter – Jessie",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1985,
+    "name": "Mission Quests: Dimensions' End Support Campaign",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1988,
+    "name": "Mission Quests 1: Crystal Room Support Campaign",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1989,
+    "name": "Mission Quests 2: Crystal Room Support Campaign",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 1992,
+    "name": "Mission Quests: Halloween Campaign",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 2029,
+    "name": "Crystal Quest",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 2045,
+    "name": "Silver Witches",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 2102,
+    "name": "Hallowed Depths [Co-op]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 2104,
+    "name": "Fell Angel",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 2105,
+    "name": "Empyrean Guardians",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 2106,
+    "name": "Dare 2 Defy",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 2107,
+    "name": "Crevasse: Grace Descending NORMAL",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 2108,
+    "name": "Crevasse: Grace Descending HARD",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 2109,
+    "name": "Grace Descending [Co-op]",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 2110,
+    "name": "Token Challenge \"Whatever, Whatever\"",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 2111,
+    "name": "DAR3 to Defy",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 2112,
+    "name": "D4RE to Defy",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 2113,
+    "name": "Dimensions' End: Transcendence, Reprise",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 2114,
+    "name": "Dare to Defy – The Battles' End",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 2122,
+    "name": "Crystal Quest",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 2123,
+    "name": "Evil Gazes at Dusk",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 2124,
+    "name": "Ogres Parade the Night",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 2125,
+    "name": "Soul Caged by Dawn",
+    "story_part": 0,
+    "stage_id": -1
+  },
+  {
+    "id": 2126,
+    "name": "Cactuar Cacophony",
+    "story_part": 0,
+    "stage_id": -1
+  }
+]

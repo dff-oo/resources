@@ -1,0 +1,1182 @@
+[
+  {
+    "item_type": 8,
+    "item_id": 2,
+    "name": "Tutorial Draw Ticket"
+  },
+  {
+    "item_type": 8,
+    "item_id": 3,
+    "name": "Draw Ticket"
+  },
+  {
+    "item_type": 8,
+    "item_id": 5,
+    "name": "Guard Token"
+  },
+  {
+    "item_type": 8,
+    "item_id": 6,
+    "name": "Power Token"
+  },
+  {
+    "item_type": 8,
+    "item_id": 33,
+    "name": "Bloom Token"
+  },
+  {
+    "item_type": 8,
+    "item_id": 34,
+    "name": "EX Power Token (Start-Dash)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 35,
+    "name": "EX Power Token (Dimensions' End: Order)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 51,
+    "name": "Burst Power Token"
+  },
+  {
+    "item_type": 8,
+    "item_id": 52,
+    "name": "Moogle Token"
+  },
+  {
+    "item_type": 8,
+    "item_id": 54,
+    "name": "EX Power Token"
+  },
+  {
+    "item_type": 8,
+    "item_id": 56,
+    "name": "High Guard Token"
+  },
+  {
+    "item_type": 8,
+    "item_id": 57,
+    "name": "3rd Anniversary Draw Ticket"
+  },
+  {
+    "item_type": 8,
+    "item_id": 58,
+    "name": "LD Power Token (Autumn Festival 2021)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 65,
+    "name": "LD Power Token (4th Anniversary Campaign)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 66,
+    "name": "LD Power Token (Summer Festival 2022)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 67,
+    "name": "LD Power Token (Black Five-Day Campaign 2022)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 69,
+    "name": "Light of Hope"
+  },
+  {
+    "item_type": 8,
+    "item_id": 74,
+    "name": "Multi-Draw Ticket (I)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 75,
+    "name": "Multi-Draw Ticket (II)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 76,
+    "name": "Multi-Draw Ticket (III)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 77,
+    "name": "Multi-Draw Ticket (IV)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 78,
+    "name": "Multi-Draw Ticket (March Event VI)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 79,
+    "name": "LD Power Token"
+  },
+  {
+    "item_type": 8,
+    "item_id": 80,
+    "name": "EX Power Token (Spring Campaign)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 81,
+    "name": "Spring Festival Draw Ticket"
+  },
+  {
+    "item_type": 8,
+    "item_id": 82,
+    "name": "Bonus Sphere Token"
+  },
+  {
+    "item_type": 8,
+    "item_id": 83,
+    "name": "Gold Chocobo Token"
+  },
+  {
+    "item_type": 8,
+    "item_id": 84,
+    "name": "Silver Chocobo Token"
+  },
+  {
+    "item_type": 8,
+    "item_id": 85,
+    "name": "Multi-Draw Ticket"
+  },
+  {
+    "item_type": 8,
+    "item_id": 86,
+    "name": "Bonus Sphere Token (Black Five-Day Campaign 2022)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 87,
+    "name": "50+1 Multi-Draw Ticket (5th Anniversary Campaign)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 88,
+    "name": "Multi-Draw Ticket (VI)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 89,
+    "name": "50+1 Multi-Draw Ticket (Summer Festival 2023)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 90,
+    "name": "Ally Costume Token"
+  },
+  {
+    "item_type": 8,
+    "item_id": 100,
+    "name": "FR Power Token (5th Anniversary Campaign)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 101,
+    "name": "Multi-Draw Ticket (April Event I)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 102,
+    "name": "Multi-Draw Ticket (April Event II)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 103,
+    "name": "Multi-Draw Ticket (April Event III)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 104,
+    "name": "Multi-Draw Ticket (April Event IV)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 105,
+    "name": "Multi-Draw Ticket (May Event I)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 106,
+    "name": "Multi-Draw Ticket (May Event II)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 107,
+    "name": "Multi-Draw Ticket (May Event III)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 108,
+    "name": "Multi-Draw Ticket (May Event IV)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 109,
+    "name": "Multi-Draw Ticket (May Event V)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 110,
+    "name": "Multi-Draw Ticket (May Event VI)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 111,
+    "name": "Multi-Draw Ticket (June Event I)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 112,
+    "name": "Multi-Draw Ticket (June Event II)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 113,
+    "name": "Multi-Draw Ticket (June Event III)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 114,
+    "name": "Multi-Draw Ticket (June Event IV)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 115,
+    "name": "Multi-Draw Ticket (June Event V)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 116,
+    "name": "Multi-Draw Ticket (July Event I)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 118,
+    "name": "Multi-Draw Ticket (July Event III)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 119,
+    "name": "Multi-Draw Ticket (August Event II)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 120,
+    "name": "Multi-Draw Ticket (August Event III)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 121,
+    "name": "FR Power Token (May Faire Campaign)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 122,
+    "name": "Multi-Draw Ticket (July Event VI)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 123,
+    "name": "Multi-Draw Ticket (August Event I)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 124,
+    "name": "Multi-Draw Ticket (August Event VI)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 125,
+    "name": "Multi-Draw Ticket (July Event V)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 126,
+    "name": "FR Power Token (Summer Festival 2023)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 127,
+    "name": "Guaranteed BT Draw Ticket I (Crystal Room)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 128,
+    "name": "Multi-Draw Ticket (July Event II)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 129,
+    "name": "Multi-Draw Ticket (September Event III)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 130,
+    "name": "Multi-Draw Ticket (July Event IV)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 131,
+    "name": "Multi-Draw Ticket (September Event I)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 133,
+    "name": "Ally Costume Token (Autumn 2023)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 134,
+    "name": "Multi-Draw Ticket (August Event IV)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 135,
+    "name": "Multi-Draw Ticket (August Event V)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 136,
+    "name": "Multi-Draw Ticket (September Event IV)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 137,
+    "name": "Multi-Draw Ticket (October Event III)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 138,
+    "name": "Multi-Draw Ticket (September Event II)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 139,
+    "name": "Multi-Draw Ticket (October Event V)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 140,
+    "name": "Multi-Draw Ticket (October Event II)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 141,
+    "name": "Multi-Draw Ticket (September Event V)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 142,
+    "name": "Guaranteed BT Draw Ticket II (Crystal Room)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 144,
+    "name": "FR Power Token"
+  },
+  {
+    "item_type": 8,
+    "item_id": 145,
+    "name": "Multi-Draw Ticket (September Event VI)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 146,
+    "name": "Multi-Draw Ticket (October Event I)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 147,
+    "name": "Multi-Draw Ticket (October Event IV)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 151,
+    "name": "Multi-Draw Ticket (November Event VI)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 152,
+    "name": "Multi-Draw Ticket (November Event I)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 153,
+    "name": "Multi-Draw Ticket (November Event IV)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 154,
+    "name": "Multi-Draw Ticket (November Event V)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 155,
+    "name": "Multi-Draw Ticket (November Event II)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 156,
+    "name": "Multi-Draw Ticket (November Event III)"
+  },
+  {
+    "item_type": 8,
+    "item_id": 157,
+    "name": "Multi-Draw Ticket (October Event VI)"
+  },
+  {
+    "item_type": 9,
+    "item_id": 1,
+    "name": "Red Shard"
+  },
+  {
+    "item_type": 9,
+    "item_id": 2,
+    "name": "Red Crystal"
+  },
+  {
+    "item_type": 9,
+    "item_id": 3,
+    "name": "Red Cluster"
+  },
+  {
+    "item_type": 9,
+    "item_id": 4,
+    "name": "Blue Shard"
+  },
+  {
+    "item_type": 9,
+    "item_id": 5,
+    "name": "Blue Crystal"
+  },
+  {
+    "item_type": 9,
+    "item_id": 6,
+    "name": "Blue Cluster"
+  },
+  {
+    "item_type": 9,
+    "item_id": 7,
+    "name": "Green Shard"
+  },
+  {
+    "item_type": 9,
+    "item_id": 8,
+    "name": "Green Crystal"
+  },
+  {
+    "item_type": 9,
+    "item_id": 9,
+    "name": "Green Cluster"
+  },
+  {
+    "item_type": 9,
+    "item_id": 10,
+    "name": "Yellow Shard"
+  },
+  {
+    "item_type": 9,
+    "item_id": 11,
+    "name": "Yellow Crystal"
+  },
+  {
+    "item_type": 9,
+    "item_id": 12,
+    "name": "Yellow Cluster"
+  },
+  {
+    "item_type": 9,
+    "item_id": 13,
+    "name": "Black Shard"
+  },
+  {
+    "item_type": 9,
+    "item_id": 14,
+    "name": "Black Crystal"
+  },
+  {
+    "item_type": 9,
+    "item_id": 15,
+    "name": "Black Cluster"
+  },
+  {
+    "item_type": 9,
+    "item_id": 16,
+    "name": "White Shard"
+  },
+  {
+    "item_type": 9,
+    "item_id": 17,
+    "name": "White Crystal"
+  },
+  {
+    "item_type": 9,
+    "item_id": 18,
+    "name": "White Cluster"
+  },
+  {
+    "item_type": 9,
+    "item_id": 19,
+    "name": "High Red Shard"
+  },
+  {
+    "item_type": 9,
+    "item_id": 20,
+    "name": "High Blue Shard"
+  },
+  {
+    "item_type": 9,
+    "item_id": 21,
+    "name": "High Green Shard"
+  },
+  {
+    "item_type": 9,
+    "item_id": 22,
+    "name": "High Yellow Shard"
+  },
+  {
+    "item_type": 9,
+    "item_id": 23,
+    "name": "High Black Shard"
+  },
+  {
+    "item_type": 9,
+    "item_id": 24,
+    "name": "High White Shard"
+  },
+  {
+    "item_type": 9,
+    "item_id": 25,
+    "name": "High Red Crystal"
+  },
+  {
+    "item_type": 9,
+    "item_id": 26,
+    "name": "High Blue Crystal"
+  },
+  {
+    "item_type": 9,
+    "item_id": 27,
+    "name": "High Green Crystal"
+  },
+  {
+    "item_type": 9,
+    "item_id": 28,
+    "name": "High Yellow Crystal"
+  },
+  {
+    "item_type": 9,
+    "item_id": 29,
+    "name": "High Black Crystal"
+  },
+  {
+    "item_type": 9,
+    "item_id": 30,
+    "name": "High White Crystal"
+  },
+  {
+    "item_type": 9,
+    "item_id": 31,
+    "name": "High Red Cluster"
+  },
+  {
+    "item_type": 9,
+    "item_id": 32,
+    "name": "High Blue Cluster"
+  },
+  {
+    "item_type": 9,
+    "item_id": 33,
+    "name": "High Green Cluster"
+  },
+  {
+    "item_type": 9,
+    "item_id": 34,
+    "name": "High Yellow Cluster"
+  },
+  {
+    "item_type": 9,
+    "item_id": 35,
+    "name": "High Black Cluster"
+  },
+  {
+    "item_type": 9,
+    "item_id": 36,
+    "name": "High White Cluster"
+  },
+  {
+    "item_type": 9,
+    "item_id": 37,
+    "name": "Mighty Red Shard"
+  },
+  {
+    "item_type": 9,
+    "item_id": 38,
+    "name": "Mighty Blue Shard"
+  },
+  {
+    "item_type": 9,
+    "item_id": 39,
+    "name": "Mighty Green Shard"
+  },
+  {
+    "item_type": 9,
+    "item_id": 40,
+    "name": "Mighty Yellow Shard"
+  },
+  {
+    "item_type": 9,
+    "item_id": 41,
+    "name": "Mighty Black Shard"
+  },
+  {
+    "item_type": 9,
+    "item_id": 42,
+    "name": "Mighty White Shard"
+  },
+  {
+    "item_type": 10,
+    "item_id": 1,
+    "name": "Monster Claw"
+  },
+  {
+    "item_type": 10,
+    "item_id": 2,
+    "name": "Monster Horns"
+  },
+  {
+    "item_type": 10,
+    "item_id": 3,
+    "name": "Sticky Liquid"
+  },
+  {
+    "item_type": 10,
+    "item_id": 4,
+    "name": "Viscous Liquid"
+  },
+  {
+    "item_type": 10,
+    "item_id": 5,
+    "name": "Caliginous Crystal"
+  },
+  {
+    "item_type": 10,
+    "item_id": 6,
+    "name": "Radiant Crystal"
+  },
+  {
+    "item_type": 10,
+    "item_id": 21,
+    "name": "マイティシャード（6色分）"
+  },
+  {
+    "item_type": 10,
+    "item_id": 22,
+    "name": "Crystals for Cor"
+  },
+  {
+    "item_type": 10,
+    "item_id": 23,
+    "name": "Novice Support Missions Reward 1"
+  },
+  {
+    "item_type": 10,
+    "item_id": 24,
+    "name": "Novice Support Missions Reward 2"
+  },
+  {
+    "item_type": 10,
+    "item_id": 25,
+    "name": "Novice Support Missions Reward 3"
+  },
+  {
+    "item_type": 10,
+    "item_id": 26,
+    "name": "Novice Support Missions Reward 4"
+  },
+  {
+    "item_type": 10,
+    "item_id": 27,
+    "name": "Novice Support Missions Reward 5"
+  },
+  {
+    "item_type": 10,
+    "item_id": 28,
+    "name": "BT & 7★ Realization Set"
+  },
+  {
+    "item_type": 10,
+    "item_id": 29,
+    "name": "???"
+  },
+  {
+    "item_type": 10,
+    "item_id": 30,
+    "name": "Crystals for Jack (FFO)"
+  },
+  {
+    "item_type": 10,
+    "item_id": 81,
+    "name": "Panel Mission Reward"
+  },
+  {
+    "item_type": 10,
+    "item_id": 82,
+    "name": "Panel Mission Reward"
+  },
+  {
+    "item_type": 10,
+    "item_id": 83,
+    "name": "Panel Mission Reward"
+  },
+  {
+    "item_type": 10,
+    "item_id": 84,
+    "name": "Panel Mission Reward"
+  },
+  {
+    "item_type": 10,
+    "item_id": 85,
+    "name": "Panel Mission Reward"
+  },
+  {
+    "item_type": 10,
+    "item_id": 86,
+    "name": "Panel Mission Reward"
+  },
+  {
+    "item_type": 10,
+    "item_id": 101,
+    "name": "Gale Adamite"
+  },
+  {
+    "item_type": 10,
+    "item_id": 102,
+    "name": "Gale Core"
+  },
+  {
+    "item_type": 10,
+    "item_id": 103,
+    "name": "Escape Anima"
+  },
+  {
+    "item_type": 10,
+    "item_id": 104,
+    "name": "Tempest Anima"
+  },
+  {
+    "item_type": 10,
+    "item_id": 105,
+    "name": "Heatra Adamite"
+  },
+  {
+    "item_type": 10,
+    "item_id": 106,
+    "name": "Heatra Core"
+  },
+  {
+    "item_type": 10,
+    "item_id": 107,
+    "name": "Heatra Matter"
+  },
+  {
+    "item_type": 10,
+    "item_id": 108,
+    "name": "Heatra Anima"
+  },
+  {
+    "item_type": 10,
+    "item_id": 109,
+    "name": "Icen Adamite"
+  },
+  {
+    "item_type": 10,
+    "item_id": 110,
+    "name": "Icen Core"
+  },
+  {
+    "item_type": 10,
+    "item_id": 111,
+    "name": "Icen Matter"
+  },
+  {
+    "item_type": 10,
+    "item_id": 112,
+    "name": "Icen Anima"
+  },
+  {
+    "item_type": 10,
+    "item_id": 113,
+    "name": "Spark Adamite"
+  },
+  {
+    "item_type": 10,
+    "item_id": 114,
+    "name": "Spark Core"
+  },
+  {
+    "item_type": 10,
+    "item_id": 115,
+    "name": "Spark Matter"
+  },
+  {
+    "item_type": 10,
+    "item_id": 116,
+    "name": "Spark Anima"
+  },
+  {
+    "item_type": 10,
+    "item_id": 117,
+    "name": "Volatile Adamite"
+  },
+  {
+    "item_type": 10,
+    "item_id": 118,
+    "name": "Volatile Core"
+  },
+  {
+    "item_type": 10,
+    "item_id": 119,
+    "name": "Volatile Matter"
+  },
+  {
+    "item_type": 10,
+    "item_id": 120,
+    "name": "Volatile Anima"
+  },
+  {
+    "item_type": 10,
+    "item_id": 121,
+    "name": "Aqua Adamite"
+  },
+  {
+    "item_type": 10,
+    "item_id": 122,
+    "name": "Aqua Core"
+  },
+  {
+    "item_type": 10,
+    "item_id": 123,
+    "name": "Aqua Matter"
+  },
+  {
+    "item_type": 10,
+    "item_id": 124,
+    "name": "Aqua Anima"
+  },
+  {
+    "item_type": 10,
+    "item_id": 125,
+    "name": "Holy Adamite"
+  },
+  {
+    "item_type": 10,
+    "item_id": 126,
+    "name": "Holy Core"
+  },
+  {
+    "item_type": 10,
+    "item_id": 127,
+    "name": "Holy Matter"
+  },
+  {
+    "item_type": 10,
+    "item_id": 128,
+    "name": "Holy Anima"
+  },
+  {
+    "item_type": 10,
+    "item_id": 129,
+    "name": "Draken Adamite"
+  },
+  {
+    "item_type": 10,
+    "item_id": 130,
+    "name": "Draken Core"
+  },
+  {
+    "item_type": 10,
+    "item_id": 131,
+    "name": "Draken Matter"
+  },
+  {
+    "item_type": 10,
+    "item_id": 132,
+    "name": "Draken Anima"
+  },
+  {
+    "item_type": 10,
+    "item_id": 133,
+    "name": "Affinity Adamite"
+  },
+  {
+    "item_type": 10,
+    "item_id": 134,
+    "name": "Affinity Core"
+  },
+  {
+    "item_type": 10,
+    "item_id": 135,
+    "name": "Affinity Matter"
+  },
+  {
+    "item_type": 10,
+    "item_id": 136,
+    "name": "Affinity Anima"
+  },
+  {
+    "item_type": 10,
+    "item_id": 137,
+    "name": "Funnel Adamite"
+  },
+  {
+    "item_type": 10,
+    "item_id": 138,
+    "name": "Funnel Core"
+  },
+  {
+    "item_type": 10,
+    "item_id": 139,
+    "name": "Funnel Matter"
+  },
+  {
+    "item_type": 10,
+    "item_id": 140,
+    "name": "Funnel Anima"
+  },
+  {
+    "item_type": 10,
+    "item_id": 141,
+    "name": "Diabolic Adamite"
+  },
+  {
+    "item_type": 10,
+    "item_id": 142,
+    "name": "Diabolic Core"
+  },
+  {
+    "item_type": 10,
+    "item_id": 143,
+    "name": "Diabolic Matter"
+  },
+  {
+    "item_type": 10,
+    "item_id": 144,
+    "name": "Diabolic Anima"
+  },
+  {
+    "item_type": 10,
+    "item_id": 145,
+    "name": "Heatra Origin"
+  },
+  {
+    "item_type": 10,
+    "item_id": 146,
+    "name": "Icen Origin"
+  },
+  {
+    "item_type": 10,
+    "item_id": 147,
+    "name": "Spark Origin"
+  },
+  {
+    "item_type": 10,
+    "item_id": 148,
+    "name": "Aqua Origin"
+  },
+  {
+    "item_type": 10,
+    "item_id": 149,
+    "name": "Fluffy Anima"
+  },
+  {
+    "item_type": 10,
+    "item_id": 150,
+    "name": "Affinity Origin"
+  },
+  {
+    "item_type": 10,
+    "item_id": 151,
+    "name": "Funnel Origin"
+  },
+  {
+    "item_type": 10,
+    "item_id": 152,
+    "name": "Diabolic Origin"
+  },
+  {
+    "item_type": 10,
+    "item_id": 153,
+    "name": "Holy Origin"
+  },
+  {
+    "item_type": 10,
+    "item_id": 154,
+    "name": "Volatile Origin"
+  },
+  {
+    "item_type": 10,
+    "item_id": 155,
+    "name": "Draken Origin"
+  },
+  {
+    "item_type": 10,
+    "item_id": 156,
+    "name": "Diabolic Material"
+  },
+  {
+    "item_type": 10,
+    "item_id": 157,
+    "name": "Spark Material"
+  },
+  {
+    "item_type": 10,
+    "item_id": 158,
+    "name": "Heatra Material"
+  },
+  {
+    "item_type": 10,
+    "item_id": 159,
+    "name": "Icen Material"
+  },
+  {
+    "item_type": 10,
+    "item_id": 160,
+    "name": "Aqua Material"
+  },
+  {
+    "item_type": 10,
+    "item_id": 161,
+    "name": "Affinity Material"
+  },
+  {
+    "item_type": 10,
+    "item_id": 162,
+    "name": "Funnel Material"
+  },
+  {
+    "item_type": 10,
+    "item_id": 163,
+    "name": "Holy Material"
+  },
+  {
+    "item_type": 10,
+    "item_id": 164,
+    "name": "Volatile Material"
+  },
+  {
+    "item_type": 10,
+    "item_id": 165,
+    "name": "Draken Material"
+  },
+  {
+    "item_type": 10,
+    "item_id": 166,
+    "name": "Diabolic Spirit"
+  },
+  {
+    "item_type": 10,
+    "item_id": 167,
+    "name": "Spark Spirit"
+  },
+  {
+    "item_type": 10,
+    "item_id": 168,
+    "name": "Heatra Spirit"
+  },
+  {
+    "item_type": 10,
+    "item_id": 169,
+    "name": "Icen Spirit"
+  },
+  {
+    "item_type": 10,
+    "item_id": 170,
+    "name": "Aqua Spirit"
+  },
+  {
+    "item_type": 10,
+    "item_id": 171,
+    "name": "Affinity Spirit"
+  },
+  {
+    "item_type": 10,
+    "item_id": 172,
+    "name": "Funnel Spirit"
+  },
+  {
+    "item_type": 10,
+    "item_id": 173,
+    "name": "Holy Spirit"
+  },
+  {
+    "item_type": 10,
+    "item_id": 175,
+    "name": "Draken Spirit"
+  },
+  {
+    "item_type": 11,
+    "item_id": 1,
+    "name": "Power Orb"
+  },
+  {
+    "item_type": 11,
+    "item_id": 2,
+    "name": "High Power Orb"
+  },
+  {
+    "item_type": 11,
+    "item_id": 3,
+    "name": "Higher Power Orb"
+  },
+  {
+    "item_type": 11,
+    "item_id": 4,
+    "name": "Guard Orb"
+  },
+  {
+    "item_type": 11,
+    "item_id": 5,
+    "name": "High Guard Orb"
+  },
+  {
+    "item_type": 11,
+    "item_id": 6,
+    "name": "Higher Guard Orb"
+  },
+  {
+    "item_type": 11,
+    "item_id": 7,
+    "name": "EX Power Orb"
+  },
+  {
+    "item_type": 11,
+    "item_id": 9,
+    "name": "EX Guard Orb"
+  },
+  {
+    "item_type": 11,
+    "item_id": 11,
+    "name": "Higher Artifact Orb"
+  },
+  {
+    "item_type": 11,
+    "item_id": 12,
+    "name": "EX Artifact Orb"
+  },
+  {
+    "item_type": 99,
+    "item_id": 1,
+    "name": "Gil"
+  },
+  {
+    "item_type": 99,
+    "item_id": 2,
+    "name": "Gems"
+  }
+]

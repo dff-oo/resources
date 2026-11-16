@@ -1,0 +1,682 @@
+[
+  {
+    "id": 1,
+    "name": "Cloud"
+  },
+  {
+    "id": 2,
+    "name": "Vivi"
+  },
+  {
+    "id": 3,
+    "name": "Yuna"
+  },
+  {
+    "id": 4,
+    "name": "Snow"
+  },
+  {
+    "id": 5,
+    "name": "Auron"
+  },
+  {
+    "id": 6,
+    "name": "Firion"
+  },
+  {
+    "id": 7,
+    "name": "Lightning"
+  },
+  {
+    "id": 8,
+    "name": "Hope"
+  },
+  {
+    "id": 9,
+    "name": "Tifa"
+  },
+  {
+    "id": 10,
+    "name": "Warrior of Light"
+  },
+  {
+    "id": 11,
+    "name": "Y'shtola"
+  },
+  {
+    "id": 12,
+    "name": "Laguna"
+  },
+  {
+    "id": 13,
+    "name": "Rem"
+  },
+  {
+    "id": 14,
+    "name": "Sazh"
+  },
+  {
+    "id": 15,
+    "name": "Zidane"
+  },
+  {
+    "id": 16,
+    "name": "Guy"
+  },
+  {
+    "id": 17,
+    "name": "Yda"
+  },
+  {
+    "id": 18,
+    "name": "Yang"
+  },
+  {
+    "id": 19,
+    "name": "Vaan"
+  },
+  {
+    "id": 20,
+    "name": "Bartz"
+  },
+  {
+    "id": 21,
+    "name": "Edge"
+  },
+  {
+    "id": 22,
+    "name": "King"
+  },
+  {
+    "id": 23,
+    "name": "Seifer"
+  },
+  {
+    "id": 24,
+    "name": "Fujin"
+  },
+  {
+    "id": 25,
+    "name": "Raijin"
+  },
+  {
+    "id": 26,
+    "name": "Terra"
+  },
+  {
+    "id": 27,
+    "name": "Onion Knight"
+  },
+  {
+    "id": 29,
+    "name": "Seymour"
+  },
+  {
+    "id": 30,
+    "name": "Steiner"
+  },
+  {
+    "id": 31,
+    "name": "Yuffie"
+  },
+  {
+    "id": 32,
+    "name": "Shadow"
+  },
+  {
+    "id": 33,
+    "name": "Cecil (Paladin)"
+  },
+  {
+    "id": 34,
+    "name": "Cecil (Dark Knight)"
+  },
+  {
+    "id": 35,
+    "name": "Squall"
+  },
+  {
+    "id": 36,
+    "name": "Tidus"
+  },
+  {
+    "id": 37,
+    "name": "Shantotto"
+  },
+  {
+    "id": 38,
+    "name": "Balthier"
+  },
+  {
+    "id": 39,
+    "name": "Sephiroth"
+  },
+  {
+    "id": 40,
+    "name": "Setzer"
+  },
+  {
+    "id": 41,
+    "name": "Basch"
+  },
+  {
+    "id": 42,
+    "name": "Wakka"
+  },
+  {
+    "id": 43,
+    "name": "Eiko"
+  },
+  {
+    "id": 44,
+    "name": "Vanille"
+  },
+  {
+    "id": 45,
+    "name": "Kuja"
+  },
+  {
+    "id": 46,
+    "name": "Ramza"
+  },
+  {
+    "id": 47,
+    "name": "Prishe"
+  },
+  {
+    "id": 48,
+    "name": "Galuf"
+  },
+  {
+    "id": 49,
+    "name": "Faris"
+  },
+  {
+    "id": 50,
+    "name": "Zell"
+  },
+  {
+    "id": 51,
+    "name": "Layle"
+  },
+  {
+    "id": 52,
+    "name": "Vincent"
+  },
+  {
+    "id": 53,
+    "name": "Zack"
+  },
+  {
+    "id": 54,
+    "name": "Krile"
+  },
+  {
+    "id": 55,
+    "name": "Thancred"
+  },
+  {
+    "id": 56,
+    "name": "Ashe"
+  },
+  {
+    "id": 57,
+    "name": "Papalymo"
+  },
+  {
+    "id": 58,
+    "name": "Cyan"
+  },
+  {
+    "id": 59,
+    "name": "Aerith"
+  },
+  {
+    "id": 60,
+    "name": "Cater"
+  },
+  {
+    "id": 61,
+    "name": "Sabin"
+  },
+  {
+    "id": 62,
+    "name": "Ace"
+  },
+  {
+    "id": 63,
+    "name": "Kefka"
+  },
+  {
+    "id": 64,
+    "name": "Kain"
+  },
+  {
+    "id": 65,
+    "name": "Palom"
+  },
+  {
+    "id": 66,
+    "name": "Lion"
+  },
+  {
+    "id": 67,
+    "name": "Garland"
+  },
+  {
+    "id": 68,
+    "name": "Garnet"
+  },
+  {
+    "id": 69,
+    "name": "Edgar"
+  },
+  {
+    "id": 70,
+    "name": "Serah"
+  },
+  {
+    "id": 71,
+    "name": "Irvine"
+  },
+  {
+    "id": 72,
+    "name": "Celes"
+  },
+  {
+    "id": 73,
+    "name": "Maria"
+  },
+  {
+    "id": 74,
+    "name": "Quistis"
+  },
+  {
+    "id": 76,
+    "name": "Lenna"
+  },
+  {
+    "id": 77,
+    "name": "Cid"
+  },
+  {
+    "id": 78,
+    "name": "Machina"
+  },
+  {
+    "id": 79,
+    "name": "Jecht"
+  },
+  {
+    "id": 80,
+    "name": "Lilisette"
+  },
+  {
+    "id": 81,
+    "name": "Yuri"
+  },
+  {
+    "id": 82,
+    "name": "Rydia"
+  },
+  {
+    "id": 83,
+    "name": "Noctis"
+  },
+  {
+    "id": 84,
+    "name": "Alisaie"
+  },
+  {
+    "id": 85,
+    "name": "Deuce"
+  },
+  {
+    "id": 86,
+    "name": "Cait Sith"
+  },
+  {
+    "id": 87,
+    "name": "Selphie"
+  },
+  {
+    "id": 88,
+    "name": "Relm"
+  },
+  {
+    "id": 89,
+    "name": "Leon"
+  },
+  {
+    "id": 90,
+    "name": "Gilgamesh"
+  },
+  {
+    "id": 91,
+    "name": "Agrias"
+  },
+  {
+    "id": 92,
+    "name": "Seven"
+  },
+  {
+    "id": 101,
+    "name": "Aphmau"
+  },
+  {
+    "id": 102,
+    "name": "Fang"
+  },
+  {
+    "id": 103,
+    "name": "Locke"
+  },
+  {
+    "id": 104,
+    "name": "Barret"
+  },
+  {
+    "id": 105,
+    "name": "Lann & Reynn"
+  },
+  {
+    "id": 108,
+    "name": "Golbez"
+  },
+  {
+    "id": 109,
+    "name": "Rinoa"
+  },
+  {
+    "id": 111,
+    "name": "Freya"
+  },
+  {
+    "id": 112,
+    "name": "Vayne"
+  },
+  {
+    "id": 113,
+    "name": "Fran"
+  },
+  {
+    "id": 114,
+    "name": "Porom"
+  },
+  {
+    "id": 115,
+    "name": "Cinque"
+  },
+  {
+    "id": 116,
+    "name": "Arciela"
+  },
+  {
+    "id": 117,
+    "name": "Prompto"
+  },
+  {
+    "id": 118,
+    "name": "Alphinaud"
+  },
+  {
+    "id": 119,
+    "name": "Noel"
+  },
+  {
+    "id": 120,
+    "name": "Paine"
+  },
+  {
+    "id": 121,
+    "name": "Beatrix"
+  },
+  {
+    "id": 122,
+    "name": "Sherlotta"
+  },
+  {
+    "id": 123,
+    "name": "Iroha"
+  },
+  {
+    "id": 124,
+    "name": "Lyse"
+  },
+  {
+    "id": 125,
+    "name": "Ultimecia"
+  },
+  {
+    "id": 127,
+    "name": "Kimahri"
+  },
+  {
+    "id": 128,
+    "name": "Ciaran"
+  },
+  {
+    "id": 129,
+    "name": "Gau"
+  },
+  {
+    "id": 130,
+    "name": "The Emperor"
+  },
+  {
+    "id": 131,
+    "name": "Ignis"
+  },
+  {
+    "id": 132,
+    "name": "Eight"
+  },
+  {
+    "id": 133,
+    "name": "Strago"
+  },
+  {
+    "id": 134,
+    "name": "Kam'lanaut"
+  },
+  {
+    "id": 135,
+    "name": "Exdeath"
+  },
+  {
+    "id": 136,
+    "name": "Leo"
+  },
+  {
+    "id": 137,
+    "name": "Caius"
+  },
+  {
+    "id": 138,
+    "name": "Jack"
+  },
+  {
+    "id": 140,
+    "name": "Cloud of Darkness"
+  },
+  {
+    "id": 141,
+    "name": "Keiss"
+  },
+  {
+    "id": 142,
+    "name": "Trey"
+  },
+  {
+    "id": 143,
+    "name": "Eald'narche"
+  },
+  {
+    "id": 144,
+    "name": "Aranea"
+  },
+  {
+    "id": 145,
+    "name": "Amidatelion"
+  },
+  {
+    "id": 146,
+    "name": "Desch"
+  },
+  {
+    "id": 147,
+    "name": "Gabranth"
+  },
+  {
+    "id": 148,
+    "name": "Ardyn"
+  },
+  {
+    "id": 149,
+    "name": "Edward"
+  },
+  {
+    "id": 150,
+    "name": "Queen"
+  },
+  {
+    "id": 151,
+    "name": "Gladiolus"
+  },
+  {
+    "id": 152,
+    "name": "Quina"
+  },
+  {
+    "id": 153,
+    "name": "Kurasame"
+  },
+  {
+    "id": 154,
+    "name": "Reno"
+  },
+  {
+    "id": 155,
+    "name": "Rude"
+  },
+  {
+    "id": 156,
+    "name": "Xande"
+  },
+  {
+    "id": 157,
+    "name": "Ceodore"
+  },
+  {
+    "id": 158,
+    "name": "Mog"
+  },
+  {
+    "id": 159,
+    "name": "Kadaj"
+  },
+  {
+    "id": 160,
+    "name": "Raines"
+  },
+  {
+    "id": 161,
+    "name": "Shelke"
+  },
+  {
+    "id": 162,
+    "name": "Jegran"
+  },
+  {
+    "id": 163,
+    "name": "Cor"
+  },
+  {
+    "id": 164,
+    "name": "Ursula"
+  },
+  {
+    "id": 165,
+    "name": "Llyud"
+  },
+  {
+    "id": 166,
+    "name": "Leila"
+  },
+  {
+    "id": 167,
+    "name": "Enna Kros"
+  },
+  {
+    "id": 168,
+    "name": "Cissnei"
+  },
+  {
+    "id": 169,
+    "name": "Sice"
+  },
+  {
+    "id": 170,
+    "name": "Braska"
+  },
+  {
+    "id": 171,
+    "name": "Lunafreya"
+  },
+  {
+    "id": 172,
+    "name": "Minwu"
+  },
+  {
+    "id": 173,
+    "name": "Dorgann"
+  },
+  {
+    "id": 174,
+    "name": "Jack"
+  },
+  {
+    "id": 176,
+    "name": "Jessie"
+  },
+  {
+    "id": 177,
+    "name": "Neon"
+  },
+  {
+    "id": 178,
+    "name": "Rubicante"
+  },
+  {
+    "id": 179,
+    "name": "Reks"
+  },
+  {
+    "id": 180,
+    "name": "Iris"
+  },
+  {
+    "id": 181,
+    "name": "Astos"
+  },
+  {
+    "id": 182,
+    "name": "Nabaat"
+  },
+  {
+    "id": 183,
+    "name": "Weiss"
+  },
+  {
+    "id": 184,
+    "name": "Kelger"
+  },
+  {
+    "id": 185,
+    "name": "Selh'teus"
+  },
+  {
+    "id": 186,
+    "name": "Leonora"
+  }
+]

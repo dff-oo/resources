@@ -1,0 +1,15 @@
+{
+  "name": "dffoo-resources",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Extracts client names for the DFFOO field builder and server",
+  "scripts": {
+    "extract": "ts-node --transpile-only src/cli.ts",
+    "test": "ts-node --transpile-only test/resources.test.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.0"
+  }
+}

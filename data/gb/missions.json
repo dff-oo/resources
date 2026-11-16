@@ -1,0 +1,278 @@
+[
+  {
+    "id": 1,
+    "name": "None"
+  },
+  {
+    "id": 2,
+    "name": "Clear without any KO's"
+  },
+  {
+    "id": 3,
+    "name": "Clear within %d turns"
+  },
+  {
+    "id": 4,
+    "name": "Inflict %d or more Breaks"
+  },
+  {
+    "id": 5,
+    "name": "Clear without taking any Breaks"
+  },
+  {
+    "id": 6,
+    "name": "Attack %s's weak point"
+  },
+  {
+    "id": 7,
+    "name": "Inflict %s on %s"
+  },
+  {
+    "id": 8,
+    "name": "Have %s in your party"
+  },
+  {
+    "id": 9,
+    "name": "Clear with a party of %d or less"
+  },
+  {
+    "id": 10,
+    "name": "Use a summon"
+  },
+  {
+    "id": 11,
+    "name": "MAX out BRV at least once"
+  },
+  {
+    "id": 12,
+    "name": "Clear without using command abilities"
+  },
+  {
+    "id": 13,
+    "name": "Clear without equipping passive abilities"
+  },
+  {
+    "id": 14,
+    "name": "Clear without restoring HP"
+  },
+  {
+    "id": 15,
+    "name": "Clear without taking damage"
+  },
+  {
+    "id": 16,
+    "name": "Inflict %s with %d Breaks"
+  },
+  {
+    "id": 17,
+    "name": "Use only characters wielding a %s"
+  },
+  {
+    "id": 18,
+    "name": "Have %s and %s in your party"
+  },
+  {
+    "id": 19,
+    "name": "Have only FF%s characters in your party"
+  },
+  {
+    "id": 20,
+    "name": "Defeat %s with a chain attack"
+  },
+  {
+    "id": 21,
+    "name": "Defeat %s with a command ability"
+  },
+  {
+    "id": 22,
+    "name": "Defeat enemies in succession"
+  },
+  {
+    "id": 23,
+    "name": "Use only %d★ or lower weapons"
+  },
+  {
+    "id": 24,
+    "name": "Have %s (LV %d+) in your party"
+  },
+  {
+    "id": 25,
+    "name": "Use %s\non %s"
+  },
+  {
+    "id": 26,
+    "name": "Use %s\non %s"
+  },
+  {
+    "id": 27,
+    "name": "Use %s during wave %d"
+  },
+  {
+    "id": 28,
+    "name": "Use %s"
+  },
+  {
+    "id": 29,
+    "name": "Take %d or less HP damage"
+  },
+  {
+    "id": 31,
+    "name": "Deal at least %d BRV damage \nwith BRV attacks"
+  },
+  {
+    "id": 32,
+    "name": "Deal %d hits with BRV attacks"
+  },
+  {
+    "id": 33,
+    "name": "Deal to at least %d enemies \n%d BRV damage with BRV attacks"
+  },
+  {
+    "id": 34,
+    "name": "Deal at least %d BRV damage \nwith chain attacks"
+  },
+  {
+    "id": 35,
+    "name": "Deal at least %d BRV damage \nwithin a single chain"
+  },
+  {
+    "id": 36,
+    "name": "Deal to %d or more enemies \n%d HP damage with HP attacks"
+  },
+  {
+    "id": 37,
+    "name": "Deal at least %d HP damage \nwith chain attacks"
+  },
+  {
+    "id": 38,
+    "name": "Deal at least %d HP damage \nwithin a single chain"
+  },
+  {
+    "id": 39,
+    "name": "Deal at least %d BRV damage attacking \nenemy elemental weakness"
+  },
+  {
+    "id": 40,
+    "name": "Deal at least %d BRV damage attacking \nenemy attack-type weakness"
+  },
+  {
+    "id": 41,
+    "name": "Inflict knock back %d or more times"
+  },
+  {
+    "id": 42,
+    "name": "Recover at least %d HP"
+  },
+  {
+    "id": 43,
+    "name": "Counterattack at least %d times"
+  },
+  {
+    "id": 44,
+    "name": "Grant at least %d buffs"
+  },
+  {
+    "id": 45,
+    "name": "Inflict at least %d debuffs"
+  },
+  {
+    "id": 46,
+    "name": "Earn at least %d BRV"
+  },
+  {
+    "id": 47,
+    "name": "Resist at least %d BRV damage"
+  },
+  {
+    "id": 48,
+    "name": "Remove at least %d enemy buffs"
+  },
+  {
+    "id": 49,
+    "name": "Remove at least %d debuffs from allies"
+  },
+  {
+    "id": 50,
+    "name": "Delay enemy turns at least %d times \n(Break excluded)"
+  },
+  {
+    "id": 51,
+    "name": "Elude %d debuffs"
+  },
+  {
+    "id": 52,
+    "name": "Evade %d enemy attacks"
+  },
+  {
+    "id": 53,
+    "name": "Prevent enemy actions %d times"
+  },
+  {
+    "id": 54,
+    "name": "Clear with %s set"
+  },
+  {
+    "id": 55,
+    "name": "Clear without summoning"
+  },
+  {
+    "id": 56,
+    "name": "Use %s weapon-type characters × %d"
+  },
+  {
+    "id": 57,
+    "name": "Use %s-crystal characters × %d"
+  },
+  {
+    "id": 58,
+    "name": "Use characters from %s  × %d"
+  },
+  {
+    "id": 59,
+    "name": "Use %s characters × %d"
+  },
+  {
+    "id": 60,
+    "name": "Deal at least %d BRV damage from debuffs"
+  },
+  {
+    "id": 61,
+    "name": "Use \u001bQt weapon-type characters × %d"
+  },
+  {
+    "id": 62,
+    "name": "Use boosted characters × %d"
+  },
+  {
+    "id": 63,
+    "name": "Clear with %d parties or fewer"
+  },
+  {
+    "id": 65,
+    "name": "Clear in %d turns or fewer"
+  },
+  {
+    "id": 66,
+    "name": "Reduce %s's HP to %d%%"
+  },
+  {
+    "id": 67,
+    "name": "Clear"
+  },
+  {
+    "id": 68,
+    "name": "Reduce %s's HP to %d%%"
+  },
+  {
+    "id": 69,
+    "name": "Reduce %s's HP to %d%%"
+  },
+  {
+    "id": 75,
+    "name": "Increase the level of a buff、 debuff、 or special effect %d or more times"
+  },
+  {
+    "id": 76,
+    "name": "Prevent enemy from using\nrecast ability more than %d times"
+  }
+]
