@@ -1,6 +1,0 @@
-node_modules/
-
-# Local client archive the extractor reads. Never commit it.
-/archive/
-*.dz
-*.bin

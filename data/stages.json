@@ -1,911 +1,706 @@
 [
   {
     "id": 0,
-    "model": "S000",
-    "name": "",
-    "notes": "Has extra collision/layout files, so probably not a normal battle stage. Untested."
+    "model": "S000"
   },
   {
     "id": 1,
-    "model": "S001",
-    "name": "Prairie",
-    "notes": "Green field. Confirmed."
+    "model": "S001"
   },
   {
     "id": 2,
-    "model": "S002",
-    "name": "Forest",
-    "notes": "Confirmed."
+    "model": "S002"
   },
   {
     "id": 3,
-    "model": "S003",
-    "name": "Cavern",
-    "notes": "Confirmed. Used by 1-5 and 1-6."
+    "model": "S003"
   },
   {
     "id": 4,
-    "model": "S004",
-    "name": "Ruined temple",
-    "notes": "Likely. Seen once while 3 and 4 were sent close together."
+    "model": "S004"
   },
   {
     "id": 5,
-    "model": "S005",
-    "name": "Snow",
-    "notes": "Likely."
+    "model": "S005"
   },
   {
     "id": 6,
-    "model": "S006",
-    "name": "Snow",
-    "notes": "Either 6 or 7 was the second snow scene."
+    "model": "S006"
   },
   {
     "id": 7,
-    "model": "S007",
-    "name": "Snow",
-    "notes": "See 6."
+    "model": "S007"
   },
   {
     "id": 8,
-    "model": "S008",
-    "name": ""
+    "model": "S008"
   },
   {
     "id": 9,
-    "model": "S009",
-    "name": ""
+    "model": "S009"
   },
   {
     "id": 10,
-    "model": "S010",
-    "name": ""
+    "model": "S010"
   },
   {
     "id": 11,
-    "model": "S011",
-    "name": ""
+    "model": "S011"
   },
   {
     "id": 12,
-    "model": "S012",
-    "name": ""
+    "model": "S012"
   },
   {
     "id": 13,
-    "model": "S013",
-    "name": ""
+    "model": "S013"
   },
   {
     "id": 14,
-    "model": "S014",
-    "name": ""
+    "model": "S014"
   },
   {
     "id": 15,
-    "model": "S015",
-    "name": ""
+    "model": "S015"
   },
   {
     "id": 16,
-    "model": "S016",
-    "name": ""
+    "model": "S016"
   },
   {
     "id": 17,
-    "model": "S017",
-    "name": ""
+    "model": "S017"
   },
   {
     "id": 18,
-    "model": "S018",
-    "name": ""
+    "model": "S018"
   },
   {
     "id": 19,
-    "model": "S019",
-    "name": ""
+    "model": "S019"
   },
   {
     "id": 20,
-    "model": "S020",
-    "name": ""
+    "model": "S020"
   },
   {
     "id": 21,
-    "model": "S021",
-    "name": ""
+    "model": "S021"
   },
   {
     "id": 22,
-    "model": "S022",
-    "name": ""
+    "model": "S022"
   },
   {
     "id": 23,
-    "model": "S023",
-    "name": ""
+    "model": "S023"
   },
   {
     "id": 24,
-    "model": "S024",
-    "name": ""
+    "model": "S024"
   },
   {
     "id": 25,
-    "model": "S025",
-    "name": ""
+    "model": "S025"
   },
   {
     "id": 26,
-    "model": "S026",
-    "name": ""
+    "model": "S026"
   },
   {
     "id": 27,
-    "model": "S027",
-    "name": ""
+    "model": "S027"
   },
   {
     "id": 28,
-    "model": "S028",
-    "name": ""
+    "model": "S028"
   },
   {
     "id": 29,
-    "model": "S029",
-    "name": ""
+    "model": "S029"
   },
   {
     "id": 30,
-    "model": "S030",
-    "name": ""
+    "model": "S030"
   },
   {
     "id": 31,
-    "model": "S031",
-    "name": ""
+    "model": "S031"
   },
   {
     "id": 32,
-    "model": "S032",
-    "name": ""
+    "model": "S032"
   },
   {
     "id": 33,
-    "model": "S033",
-    "name": "",
-    "notes": "Has extra collision/layout files like S000. Untested."
+    "model": "S033"
   },
   {
     "id": 34,
-    "model": "S034",
-    "name": ""
+    "model": "S034"
   },
   {
     "id": 35,
-    "model": "S035",
-    "name": ""
+    "model": "S035"
   },
   {
     "id": 36,
-    "model": "S036",
-    "name": ""
+    "model": "S036"
   },
   {
     "id": 37,
-    "model": "S037",
-    "name": ""
+    "model": "S037"
   },
   {
     "id": 38,
-    "model": "S038",
-    "name": ""
+    "model": "S038"
   },
   {
     "id": 39,
-    "model": "S039",
-    "name": ""
+    "model": "S039"
   },
   {
     "id": 40,
-    "model": "S040",
-    "name": ""
+    "model": "S040"
   },
   {
     "id": 41,
-    "model": "S041",
-    "name": ""
+    "model": "S041"
   },
   {
     "id": 42,
-    "model": "S042",
-    "name": ""
+    "model": "S042"
   },
   {
     "id": 43,
-    "model": "S043",
-    "name": ""
+    "model": "S043"
   },
   {
     "id": 44,
-    "model": "S044",
-    "name": ""
+    "model": "S044"
   },
   {
     "id": 45,
-    "model": "S045",
-    "name": ""
+    "model": "S045"
   },
   {
     "id": 46,
-    "model": "S046",
-    "name": ""
+    "model": "S046"
   },
   {
     "id": 47,
-    "model": "S047",
-    "name": ""
+    "model": "S047"
   },
   {
     "id": 48,
-    "model": "S048",
-    "name": ""
+    "model": "S048"
   },
   {
     "id": 49,
-    "model": "S049",
-    "name": ""
+    "model": "S049"
   },
   {
     "id": 50,
-    "model": "S050",
-    "name": ""
+    "model": "S050"
   },
   {
     "id": 51,
-    "model": "S051",
-    "name": ""
+    "model": "S051"
   },
   {
     "id": 52,
-    "model": "S052",
-    "name": ""
+    "model": "S052"
   },
   {
     "id": 53,
-    "model": "S053",
-    "name": ""
+    "model": "S053"
   },
   {
     "id": 54,
-    "model": "S054",
-    "name": ""
+    "model": "S054"
   },
   {
     "id": 55,
-    "model": "S055",
-    "name": ""
+    "model": "S055"
   },
   {
     "id": 56,
-    "model": "S056",
-    "name": ""
+    "model": "S056"
   },
   {
     "id": 57,
-    "model": "S057",
-    "name": ""
+    "model": "S057"
   },
   {
     "id": 58,
-    "model": "S058",
-    "name": ""
+    "model": "S058"
   },
   {
     "id": 59,
-    "model": "S059",
-    "name": ""
+    "model": "S059"
   },
   {
     "id": 60,
-    "model": "S060",
-    "name": ""
+    "model": "S060"
   },
   {
     "id": 61,
-    "model": "S061",
-    "name": ""
+    "model": "S061"
   },
   {
     "id": 62,
-    "model": "S062",
-    "name": ""
+    "model": "S062"
   },
   {
     "id": 63,
-    "model": "S063",
-    "name": ""
+    "model": "S063"
   },
   {
     "id": 64,
-    "model": "S064",
-    "name": ""
+    "model": "S064"
   },
   {
     "id": 65,
-    "model": "S065",
-    "name": ""
+    "model": "S065"
   },
   {
     "id": 66,
-    "model": "S066",
-    "name": ""
+    "model": "S066"
   },
   {
     "id": 67,
-    "model": "S067",
-    "name": ""
+    "model": "S067"
   },
   {
     "id": 68,
-    "model": "S068",
-    "name": ""
+    "model": "S068"
   },
   {
     "id": 69,
-    "model": "S069",
-    "name": ""
+    "model": "S069"
   },
   {
     "id": 70,
-    "model": "S070",
-    "name": ""
+    "model": "S070"
   },
   {
     "id": 71,
-    "model": "S071",
-    "name": ""
+    "model": "S071"
   },
   {
     "id": 72,
-    "model": "S072",
-    "name": ""
+    "model": "S072"
   },
   {
     "id": 73,
-    "model": "S073",
-    "name": ""
+    "model": "S073"
   },
   {
     "id": 74,
-    "model": "S074",
-    "name": ""
+    "model": "S074"
   },
   {
     "id": 75,
-    "model": "S075",
-    "name": ""
+    "model": "S075"
   },
   {
     "id": 76,
-    "model": "S076",
-    "name": ""
+    "model": "S076"
   },
   {
     "id": 77,
-    "model": "S077",
-    "name": ""
+    "model": "S077"
   },
   {
     "id": 78,
-    "model": "S078",
-    "name": ""
+    "model": "S078"
   },
   {
     "id": 79,
-    "model": "S079",
-    "name": ""
+    "model": "S079"
   },
   {
     "id": 80,
-    "model": "S080",
-    "name": ""
+    "model": "S080"
   },
   {
     "id": 81,
-    "model": "S081",
-    "name": ""
+    "model": "S081"
   },
   {
     "id": 82,
-    "model": "S082",
-    "name": ""
+    "model": "S082"
   },
   {
     "id": 83,
-    "model": "S083",
-    "name": ""
+    "model": "S083"
   },
   {
     "id": 84,
-    "model": "S084",
-    "name": ""
+    "model": "S084"
   },
   {
     "id": 85,
-    "model": "S085",
-    "name": ""
+    "model": "S085"
   },
   {
     "id": 86,
-    "model": "S086",
-    "name": ""
+    "model": "S086"
   },
   {
     "id": 87,
-    "model": "S087",
-    "name": ""
+    "model": "S087"
   },
   {
     "id": 88,
-    "model": "S088",
-    "name": ""
+    "model": "S088"
   },
   {
     "id": 89,
-    "model": "S089",
-    "name": ""
+    "model": "S089"
   },
   {
     "id": 90,
-    "model": "S090",
-    "name": ""
+    "model": "S090"
   },
   {
     "id": 91,
-    "model": "S091",
-    "name": ""
+    "model": "S091"
   },
   {
     "id": 92,
-    "model": "S092",
-    "name": ""
+    "model": "S092"
   },
   {
     "id": 93,
-    "model": "S093",
-    "name": ""
+    "model": "S093"
   },
   {
     "id": 94,
-    "model": "S094",
-    "name": ""
+    "model": "S094"
   },
   {
     "id": 95,
-    "model": "S095",
-    "name": ""
+    "model": "S095"
   },
   {
     "id": 96,
-    "model": "S096",
-    "name": ""
+    "model": "S096"
   },
   {
     "id": 97,
-    "model": "S097",
-    "name": ""
+    "model": "S097"
   },
   {
     "id": 98,
-    "model": "S098",
-    "name": ""
-  },
-  {
-    "id": 100,
-    "model": "S100",
-    "name": ""
+    "model": "S098"
   },
   {
     "id": 101,
-    "model": "S101",
-    "name": ""
+    "model": "S101"
   },
   {
     "id": 102,
-    "model": "S102",
-    "name": ""
-  },
-  {
-    "id": 103,
-    "model": "S103",
-    "name": ""
+    "model": "S102"
   },
   {
     "id": 104,
-    "model": "S104",
-    "name": ""
+    "model": "S104"
   },
   {
     "id": 105,
-    "model": "S105",
-    "name": ""
+    "model": "S105"
   },
   {
     "id": 106,
-    "model": "S106",
-    "name": ""
+    "model": "S106"
   },
   {
     "id": 107,
-    "model": "S107",
-    "name": ""
+    "model": "S107"
   },
   {
     "id": 108,
-    "model": "S108",
-    "name": ""
+    "model": "S108"
   },
   {
     "id": 109,
-    "model": "S109",
-    "name": ""
+    "model": "S109"
   },
   {
     "id": 110,
-    "model": "S110",
-    "name": ""
+    "model": "S110"
   },
   {
     "id": 111,
-    "model": "S111",
-    "name": ""
+    "model": "S111"
   },
   {
     "id": 112,
-    "model": "S112",
-    "name": ""
+    "model": "S112"
   },
   {
     "id": 113,
-    "model": "S113",
-    "name": ""
+    "model": "S113"
   },
   {
     "id": 114,
-    "model": "S114",
-    "name": ""
+    "model": "S114"
   },
   {
     "id": 115,
-    "model": "S115",
-    "name": ""
+    "model": "S115"
   },
   {
     "id": 116,
-    "model": "S116",
-    "name": ""
+    "model": "S116"
   },
   {
     "id": 117,
-    "model": "S117",
-    "name": ""
+    "model": "S117"
   },
   {
     "id": 118,
-    "model": "S118",
-    "name": ""
+    "model": "S118"
   },
   {
     "id": 119,
-    "model": "S119",
-    "name": ""
+    "model": "S119"
   },
   {
     "id": 120,
-    "model": "S120",
-    "name": ""
+    "model": "S120"
   },
   {
     "id": 121,
-    "model": "S121",
-    "name": ""
+    "model": "S121"
   },
   {
     "id": 122,
-    "model": "S122",
-    "name": ""
+    "model": "S122"
   },
   {
     "id": 123,
-    "model": "S123",
-    "name": ""
+    "model": "S123"
   },
   {
     "id": 124,
-    "model": "S124",
-    "name": ""
+    "model": "S124"
   },
   {
     "id": 125,
-    "model": "S125",
-    "name": ""
+    "model": "S125"
   },
   {
     "id": 126,
-    "model": "S126",
-    "name": ""
+    "model": "S126"
   },
   {
     "id": 127,
-    "model": "S127",
-    "name": ""
+    "model": "S127"
   },
   {
     "id": 128,
-    "model": "S128",
-    "name": ""
+    "model": "S128"
   },
   {
     "id": 129,
-    "model": "S129",
-    "name": ""
+    "model": "S129"
   },
   {
     "id": 130,
-    "model": "S130",
-    "name": ""
+    "model": "S130"
   },
   {
     "id": 131,
-    "model": "S131",
-    "name": ""
+    "model": "S131"
   },
   {
     "id": 132,
-    "model": "S132",
-    "name": ""
+    "model": "S132"
   },
   {
     "id": 133,
-    "model": "S133",
-    "name": ""
+    "model": "S133"
   },
   {
     "id": 134,
-    "model": "S134",
-    "name": ""
+    "model": "S134"
   },
   {
     "id": 135,
-    "model": "S135",
-    "name": ""
+    "model": "S135"
   },
   {
     "id": 136,
-    "model": "S136",
-    "name": ""
+    "model": "S136"
   },
   {
     "id": 137,
-    "model": "S137",
-    "name": ""
+    "model": "S137"
   },
   {
     "id": 138,
-    "model": "S138",
-    "name": ""
+    "model": "S138"
   },
   {
     "id": 139,
-    "model": "S139",
-    "name": ""
+    "model": "S139"
   },
   {
     "id": 140,
-    "model": "S140",
-    "name": ""
+    "model": "S140"
   },
   {
     "id": 141,
-    "model": "S141",
-    "name": ""
+    "model": "S141"
   },
   {
     "id": 142,
-    "model": "S142",
-    "name": ""
+    "model": "S142"
   },
   {
     "id": 143,
-    "model": "S143",
-    "name": ""
+    "model": "S143"
   },
   {
     "id": 144,
-    "model": "S144",
-    "name": ""
+    "model": "S144"
   },
   {
     "id": 145,
-    "model": "S145",
-    "name": ""
+    "model": "S145"
   },
   {
     "id": 146,
-    "model": "S146",
-    "name": ""
+    "model": "S146"
   },
   {
     "id": 147,
-    "model": "S147",
-    "name": ""
+    "model": "S147"
   },
   {
     "id": 148,
-    "model": "S148",
-    "name": ""
+    "model": "S148"
   },
   {
     "id": 149,
-    "model": "S149",
-    "name": ""
+    "model": "S149"
   },
   {
     "id": 150,
-    "model": "S150",
-    "name": ""
+    "model": "S150"
   },
   {
     "id": 151,
-    "model": "S151",
-    "name": ""
+    "model": "S151"
   },
   {
     "id": 152,
-    "model": "S152",
-    "name": ""
+    "model": "S152"
   },
   {
     "id": 153,
-    "model": "S153",
-    "name": ""
+    "model": "S153"
   },
   {
     "id": 154,
-    "model": "S154",
-    "name": ""
+    "model": "S154"
   },
   {
     "id": 155,
-    "model": "S155",
-    "name": ""
+    "model": "S155"
   },
   {
     "id": 156,
-    "model": "S156",
-    "name": ""
+    "model": "S156"
   },
   {
     "id": 157,
-    "model": "S157",
-    "name": ""
+    "model": "S157"
   },
   {
     "id": 158,
-    "model": "S158",
-    "name": ""
+    "model": "S158"
   },
   {
     "id": 159,
-    "model": "S159",
-    "name": ""
+    "model": "S159"
   },
   {
     "id": 160,
-    "model": "S160",
-    "name": ""
+    "model": "S160"
   },
   {
     "id": 161,
-    "model": "S161",
-    "name": ""
+    "model": "S161"
   },
   {
     "id": 162,
-    "model": "S162",
-    "name": ""
+    "model": "S162"
   },
   {
     "id": 163,
-    "model": "S163",
-    "name": ""
+    "model": "S163"
   },
   {
     "id": 164,
-    "model": "S164",
-    "name": ""
+    "model": "S164"
   },
   {
     "id": 165,
-    "model": "S165",
-    "name": ""
+    "model": "S165"
   },
   {
     "id": 166,
-    "model": "S166",
-    "name": ""
+    "model": "S166"
   },
   {
     "id": 167,
-    "model": "S167",
-    "name": ""
+    "model": "S167"
   },
   {
     "id": 168,
-    "model": "S168",
-    "name": ""
+    "model": "S168"
   },
   {
     "id": 169,
-    "model": "S169",
-    "name": ""
+    "model": "S169"
   },
   {
     "id": 170,
-    "model": "S170",
-    "name": ""
+    "model": "S170"
   },
   {
     "id": 171,
-    "model": "S171",
-    "name": ""
+    "model": "S171"
   },
   {
     "id": 172,
-    "model": "S172",
-    "name": ""
+    "model": "S172"
   },
   {
     "id": 173,
-    "model": "S173",
-    "name": ""
+    "model": "S173"
   },
   {
     "id": 174,
-    "model": "S174",
-    "name": ""
+    "model": "S174"
   },
   {
     "id": 175,
-    "model": "S175",
-    "name": ""
+    "model": "S175"
   },
   {
     "id": 176,
-    "model": "S176",
-    "name": ""
+    "model": "S176"
   },
   {
     "id": 177,
-    "model": "S177",
-    "name": ""
+    "model": "S177"
   },
   {
     "id": 178,
-    "model": "S178",
-    "name": ""
-  },
-  {
-    "id": 179,
-    "model": "S179",
-    "name": ""
-  },
-  {
-    "id": 180,
-    "model": "S180",
-    "name": ""
+    "model": "S178"
   }
 ]
