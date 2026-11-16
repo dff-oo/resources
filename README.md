@@ -1,6 +1,6 @@
 # Client resources
 
-The map builder and the server's `content:check` name enemies, characters, abilities and items from JSON files under `data/<region>/`. Those files are committed here. The client archive they come from is not.
+The map builder and the server's `content:check` name enemies, characters, abilities and items from JSON files under `data/`. Those files are committed here. The client archive they come from is not. Only the global (GL, English) client is supported.
 
 From `tool/`:
 
@@ -9,9 +9,9 @@ npm install
 npm run extract
 ```
 
-`npm run extract` reads the master directory from `gameConfig()` (`DFFOO_MASTER_ARCHIVE`, or `archive/<region>/data/data/<package>/files` at the repo root) and the downloaded files directory (`DFFOO_DLC_ARCHIVE`, or `archive/<region>/sdcard/Android/data/<package>/files`). `DFFOO_ARCHIVE_ROOT` replaces `archive/<region>`. It writes `data/<region>/`.
+`npm run extract` reads the master directory from `gameConfig()` (`DFFOO_MASTER_ARCHIVE`, or `archive/gb/data/data/<package>/files` at the repo root) and the downloaded files directory (`DFFOO_DLC_ARCHIVE`, or `archive/gb/sdcard/Android/data/<package>/files`). `DFFOO_ARCHIVE_ROOT` replaces `archive/gb`. It writes `data/`.
 
-Copy `data/<region>` into the field builder's `resources/<region>` and into the server's `resources/<region>` when those need the names. Both of those folders are git-ignored.
+Copy the contents of `data/` into the field builder's `resources/` and into the server's `resources/` when those need the names. Both of those folders are git-ignored.
 
 The downloaded files hold the client's `MessageData_*.bin.dz` text tables. A `.dz` file is a 132-byte header (u32 chunk count, which is 1 for these tables, u32 unpacked size, u32 packed size) followed by a zlib stream. The unpacked table is `XL` version 19: a 20-byte header, then one u32 offset per id, relative to the start of that table, then NUL-terminated strings. The first offset is the table length, so it also gives the id count.
 
@@ -39,6 +39,6 @@ The +830 scan of `mst_battle_enemy.json` misses Flan (5), Red Bat (8) and Iron G
 
 ## Files written
 
-`data/<region>/{characters,enemies,abilities,items,summons,fields,stages,mission-types,missions,talks}.json`
+`data/{characters,enemies,abilities,items,summons,fields,stages,mission-types,missions,talks}.json`
 
 Each record has an `id` and a `name`, except items, which have `item_type`, `item_id` and `name`. Abilities also include `description` with the client's `\b` colour codes left in place.

@@ -33,7 +33,7 @@ async function main(): Promise<void> {
     readJson(resolve(toolRoot, 'input/stages.json')),
     readJson(resolve(toolRoot, 'input/mission-types.json')),
   ]);
-  const directory = resolve(repoRoot, 'data', config.region);
+  const directory = resolve(repoRoot, 'data');
   await mkdir(directory, { recursive: true });
   const files: Record<string, unknown> = {
     characters: extracted.characters,
