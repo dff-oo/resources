@@ -1,0 +1,23 @@
+{
+  "name": "@dffoodev/resources",
+  "version": "0.1.0",
+  "description": "JSON name tables extracted from the global Dissidia Final Fantasy Opera Omnia client",
+  "files": ["data"],
+  "exports": {
+    "./*.json": "./data/*.json",
+    "./characters.json": "./data/characters.json",
+    "./enemies.json": "./data/enemies.json",
+    "./abilities.json": "./data/abilities.json",
+    "./items.json": "./data/items.json",
+    "./summons.json": "./data/summons.json",
+    "./fields.json": "./data/fields.json",
+    "./stages.json": "./data/stages.json",
+    "./talks.json": "./data/talks.json",
+    "./missions.json": "./data/missions.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dffoodev/resources.git"
+  },
+  "license": "UNLICENSED"
+}
