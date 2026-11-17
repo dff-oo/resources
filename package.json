@@ -1,5 +1,5 @@
 {
-  "name": "@dffoodev/resources",
+  "name": "@dffoogg/resources",
   "version": "0.1.0",
   "description": "JSON name tables extracted from the global Dissidia Final Fantasy Opera Omnia client",
   "files": ["data"],
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dffoodev/resources.git"
+    "url": "git+https://github.com/dffoogg/resources.git"
   },
   "license": "UNLICENSED"
 }
